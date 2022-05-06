@@ -136,3 +136,53 @@ git push origin master
 git add .
 #1651815065
 gid add --ignore-errors .
+#1651815072
+git add --ignore-errors .
+#1651815079
+git commit -m "."
+#1651815084
+git push origin master
+#1651815143
+ls
+#1651815150
+cd public_html/
+#1651815152
+ls
+#1651815247
+git add --ignore-errors .
+#1651815252
+git commit -m "."
+#1651815280
+git add .
+#1651815284
+git commit -m "."
+#1651815295
+git push origin master
+#1651815409
+git push origin master
+#1651815474
+git push origin master
+#1651815478
+git add .
+#1651815483
+git commit -m "."
+#1651815486
+git push origin master
+#1651815593
+git add ee250
+#1651815602
+git commit -m "."
+#1651815662
+ls
+#1651815705
+git add /ee250
+#1651815714
+ls
+#1651815719
+git add ee250
+#1651815721
+ls
+#1651815729
+git commit -m "."
+#1651815765
+git add -n ee250
