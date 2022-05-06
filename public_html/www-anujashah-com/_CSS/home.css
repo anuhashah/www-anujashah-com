@@ -40,8 +40,10 @@
 
 .center:hover + #hide
 {
-	background: transparent;
 	display: block;
+	background: transparent;
 	color: white;
+
+	font-size: 24px;
 	transition: all 0.5s ease;
 }
