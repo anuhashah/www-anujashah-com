@@ -28,15 +28,18 @@
 }
 
 #hide {
-	display:  none;
+	display: none;
 }
 
-.center:hover +#hide
+.center:hover
 {
 	object-fit: cover;
 	-webkit-filter: grayscale(0%); 
 	transition: all 0.5s ease;
+}
+
+.center:hover + #hide
+{
 	background: transparent;
 	display: block;
 }
-
