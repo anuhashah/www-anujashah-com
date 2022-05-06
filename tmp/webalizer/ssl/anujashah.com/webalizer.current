@@ -1,0 +1,505 @@
+# Webalizer V2.23-08 Incremental Data - 05/05/2022 05:40:52
+2022 5 5 5 40 52
+624 129 77 11 14 49 515642 326 67 0
+4 8 93 1 5
+292 40 166908 21 136 18
+34 20 66811 16 16 14
+93 22 131237 17 26 12
+197 40 124710 26 145 20
+8 7 25976 4 3 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+5 3 15119 4
+4 1 2188 1
+8 1 1962 3
+7 6 25976 2
+42 27 68856 28
+9 7 26028 4
+0 0 0 0
+135 14 71138 99
+31 3 5600 29
+41 1 1858 41
+61 2 15881 2
+40 4 48633 14
+0 0 0 0
+2 0 0 2
+4 3 3716 3
+1 1 1858 1
+61 45 160277 9
+3 1 2084 1
+2 2 1858 2
+0 0 0 0
+51 0 836 45
+7 1 1858 2
+24 3 37456 5
+86 4 22460 29
+0
+0
+0
+129
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+11
+2
+0
+0
+340
+0
+127
+0
+0
+15
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/_CSS/about.css
+0 4 421565860609 148 0 0
+/_Links/..
+0 4 8319045105058736492 44708 0 0
+/_CSS/resume.css
+0 4 7521981565278317665 1540 0 0
+/_Scripts/scroll.js
+0 4 32774608 1884 0 0
+/_CSS/format.css
+0 4 0 4696 0 0
+/_Links/contact.php
+0 18 0 65922 0 0
+/_CSS/contact.css
+0 3 0 3480 0 0
+/_Links/about.php
+0 4 0 14996 0 0
+/_CSS/home.css
+0 4 0 428 0 0
+/
+0 76 0 331333 59 2
+/_Links/resume.php
+0 4 0 15884 0 0
+# End Of Table - urls
+# -sites- (monthly)
+206.189.86.187
+0 20 2 26279 1 1651616382
+/
+ns3304253.ip-164-132-172.eu
+0 1 1 1858 1 1651504670
+/
+unn-84-17-58-100.cdn77.com
+0 1 1 11177 1 1651706784
+/
+ec2-34-213-7-215.us-west-2.compute.amazonaws.com
+0 1 1 1858 1 1651638207
+/
+128.199.210.59
+0 1 1 0 1 1651729252
+/
+193.56.29.174
+0 38 1 9994 1 1651401409
+/
+ip-208-109-36-200.ip.secureserver.net
+0 2 0 0 1 1651609489
+-
+198.235.24.154
+0 1 1 11177 1 1651467512
+/
+petalbot-114-119-136-205.petalsearch.com
+0 1 0 226 0 0
+-
+ec2-35-86-168-224.us-west-2.compute.amazonaws.com
+0 1 0 0 0 0
+-
+placeholder-phx.sitelock.com
+0 28 21 75021 2 1651680264
+-
+ec2-54-68-244-3.us-west-2.compute.amazonaws.com
+0 2 2 3716 1 1651378899
+/
+170.83.179.24
+0 1 1 1858 1 1651727151
+/
+unn-84-17-52-33.cdn77.com
+0 4 3 20376 1 1651633249
+/
+ec2-34-222-16-181.us-west-2.compute.amazonaws.com
+0 2 0 0 0 0
+-
+194.36.97.140
+0 2 2 3742 0 0
+-
+104.129.40.110.static.quadranet.com
+0 1 0 83 0 0
+-
+ec2-35-160-72-23.us-west-2.compute.amazonaws.com
+0 6 3 5574 1 1651378273
+/
+placeholder.sitelock.com
+0 28 24 85048 2 1651593721
+-
+crawler-2-frm1.seolizer.de
+0 1 1 1858 1 1651601928
+/
+ec2-34-212-138-120.us-west-2.compute.amazonaws.com
+0 4 2 3716 1 1651378941
+/
+20.234.9.248
+0 4 0 0 0 0
+-
+45.129.18.124
+0 1 1 0 1 1651687942
+/
+107.150.46.166
+0 1 1 1858 1 1651502668
+/
+ec2-54-186-2-83.us-west-2.compute.amazonaws.com
+0 1 1 1858 1 1651378199
+/
+r-20-145-245-104.consumer-pool.prcdn.net
+0 2 2 1858 1 1651673332
+/
+196.196.224.127
+0 2 2 3742 0 0
+-
+20.213.35.63
+0 40 4 52558 1 1651388815
+/
+173.234.158.139
+0 1 0 0 1 1651499444
+-
+jax4oraobnat.myregisteredsite.com
+0 1 1 1858 1 1651623781
+/
+198.235.24.7
+0 1 0 52 1 1651554862
+/
+170.83.179.246
+0 1 1 1858 1 1651633554
+/
+148.153.117.3
+0 3 0 0 1 1651702846
+-
+ip-208-109-188-131.ip.secureserver.net
+0 82 1 1858 2 1651438202
+-
+167.172.68.187
+0 4 0 52 3 1651537083
+-
+ec2-34-217-78-164.us-west-2.compute.amazonaws.com
+0 1 1 1858 1 1651637591
+/
+ec2-34-212-139-83.us-west-2.compute.amazonaws.com
+0 1 0 0 0 0
+-
+ec2-54-214-117-120.us-west-2.compute.amazonaws.com
+0 2 1 1858 1 1651465676
+/
+196.240.237.82
+0 1 0 83 0 0
+-
+ec2-18-237-10-2.us-west-2.compute.amazonaws.com
+0 8 1 2692 3 1651631510
+/
+20.27.29.245
+0 121 10 18580 1 1651651379
+-
+191.101.217.25
+0 3 2 9199 0 0
+-
+ec2-54-214-148-153.us-west-2.compute.amazonaws.com
+0 1 1 1858 1 1651465336
+/
+nbl38.ntup.net
+0 3 0 0 0 0
+-
+ec2-52-13-79-85.us-west-2.compute.amazonaws.com
+0 1 1 1858 1 1651465379
+/
+165.22.242.204
+0 4 0 104 0 0
+-
+168.151.142.147
+0 1 0 83 0 0
+-
+5-255-253-190.spider.yandex.com
+0 1 0 0 0 0
+-
+217.198.191.194
+0 6 2 3716 2 1651701431
+-
+5.253.205.24
+0 4 3 20376 1 1651727956
+/
+ec2-35-89-61-86.us-west-2.compute.amazonaws.com
+0 4 2 3716 1 1651378152
+/
+167.71.223.53
+0 39 2 30256 1 1651578933
+/
+scanner-26.ch1.censys-scanner.com
+0 2 0 0 1 1651474923
+/
+20.222.3.188
+0 8 0 0 1 1651576369
+-
+196.240.58.175
+0 1 0 83 0 0
+-
+mail1.kuwaitbuckner.com
+0 1 1 11177 1 1651615698
+/
+198.235.24.141
+0 1 1 11177 1 1651377678
+/
+198.235.24.34
+0 1 0 52 1 1651464974
+/
+185.70.104.84
+0 4 0 208 0 0
+-
+205.210.31.160
+0 1 1 11177 1 1651622417
+/
+192.151.149.122
+0 81 1 1858 1 1651447067
+-
+ec2-18-237-86-94.us-west-2.compute.amazonaws.com
+0 2 2 3716 1 1651378099
+/
+159.223.215.178
+0 2 1 2084 1 1651370355
+/
+171.22.76.5
+0 3 3 5600 1 1651395106
+/
+ec2-34-215-163-165.us-west-2.compute.amazonaws.com
+0 2 2 3716 1 1651378124
+/
+38-233-24-185.static.servebyte.com
+0 1 1 11177 1 1651405867
+/
+ec2-35-88-164-18.us-west-2.compute.amazonaws.com
+0 1 1 1858 1 1651465424
+/
+95-108-213-23.spider.yandex.com
+0 1 0 0 0 0
+-
+178.128.255.28
+0 2 1 2084 1 1651686683
+/
+vps2404678.trouble-free.net
+0 10 1 11177 1 1651576213
+-
+p3plcpnl1049.prod.phx3.secureserver.net
+0 1 0 0 0 0
+-
+researchscan36.comsys.rwth-aachen.de
+0 1 1 1858 1 1651637168
+/
+ec2-34-208-111-160.us-west-2.compute.amazonaws.com
+0 1 1 1858 1 1651637591
+/
+ec2-52-36-89-32.us-west-2.compute.amazonaws.com
+0 2 1 1858 1 1651465436
+/
+ec2-52-35-90-235.us-west-2.compute.amazonaws.com
+0 1 1 1858 1 1651378071
+/
+87-250-224-27.spider.yandex.com
+0 1 1 1858 1 1651572954
+/
+ec2-18-237-115-134.us-west-2.compute.amazonaws.com
+0 2 1 1858 1 1651638164
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+128.199.210.59
+0 1 1 0 1 1651729252
+/
+170.83.179.24
+0 1 1 1858 1 1651727151
+/
+194.36.97.140
+0 2 2 3742 0 0
+-
+5.253.205.24
+0 4 3 20376 1 1651727956
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://anujashah.com/
+0 2
+http://anujashah.com/favicon.ico
+0 10
+http://www.google.com/url
+0 16
+https://anujashah.com/_Links/contact.php
+0 12
+www.bing.com
+0 81
+binance.com
+0 2
+- (Direct Request)
+0 387
+http://162.241.253.141:80/
+0 1
+https://anujashah.com
+0 1
+http://anujashah.com
+0 19
+www.google.com
+0 90
+http://anujashah.com/_Links/_Contact/contact.html
+0 1
+https://www.bing.com
+0 1
+http://www.google.com.hk
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 11
+Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+0 1
+ALittle Client
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+0 20
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.17 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+0 11
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3393.4 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:79.0) Gecko/20100101 Firefox/79.0
+0 11
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
+0 11
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 16
+SiteLockSpider [en] (WinNT; I ;Nav)
+0 40
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1667.0 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBr
+0 12
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+0 2
+wp_is_mobile
+0 69
+SEOlizer/1.1 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13 (+https://www.seolizer.de/bot.h
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 12
+Go-http-client/2.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 38
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36
+0 14
+Mozilla/5.0 (Linux; Android 9; Redmi Note 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 79
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 11
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 3
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 3
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4427.0 Safari/537.36
+0 3
+Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0
+0 11
+Expanse indexes customers\xe2\x80\x99 network perimeters. If you have any questions or concerns, please reach out to: scaninf
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30
+0 11
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+0 1
+Mozilla/5.0 (Macintosh;                 Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML,                 like Gecko) Chrome
+0 38
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+0 9
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2224.3 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+0 11
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+0 11
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+0 11
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1
+0 13
+BlackBerry8320/4.2.2 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/100
+0 1
+Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 90
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 OPR/70.0.3728.95
+0 11
+Mozilla/5.0 (X11; Linux x86_64; rv:84.0) Gecko/20100101 Firefox/84.0
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

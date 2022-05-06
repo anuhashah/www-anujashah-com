@@ -1,0 +1,366 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202101 will be lost/reset.
+# Last config file used to build this data file was /home4/anujasha/tmp/awstats/ssl/awstats.anujashah.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2689                
+POS_VISITOR 7519                
+POS_DAY 8971                
+POS_DOMAIN 3347                
+POS_LOGIN 3678                
+POS_ROBOT 3833                
+POS_WORMS 4331                
+POS_EMAILSENDER 4462                
+POS_EMAILRECEIVER 4605                
+POS_SESSION 9523                
+POS_SIDER 9690                
+POS_FILETYPES 4740                
+POS_DOWNLOADS 4889                
+POS_OS 4937                
+POS_BROWSER 5115                
+POS_SCREENSIZE 5474                
+POS_UNKNOWNREFERER 5548                
+POS_UNKNOWNREFERERBROWSER 5779                
+POS_ORIGIN 6005                
+POS_SEREFERRALS 6139                
+POS_PAGEREFS 6302                
+POS_SEARCHWORDS 6596                
+POS_KEYWORDS 6748                
+POS_MISC 2353                
+POS_ERRORS 6807                
+POS_CLUSTER 3534                
+POS_SIDER_404 6963                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210201010941 2 183 11433881018002
+FirstTime 20210101070824
+LastTime 20210129082613
+LastUpdate 20210201050221 2 0 1 0 0
+TotalVisits 71                  
+TotalUnique 36                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 37                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 1151 3 4 10075
+1 0 0 0 5 6 36265
+2 4 4 11764 11 15 20690
+3 6 6 91297 6 9 591
+4 5 5 5584 3 5 10899
+5 5 5 3615 10 13 94400
+6 3 3 36242 9 12 118801
+7 4 4 629 3 3 8924
+8 11 11 4245 7 10 29391
+9 0 0 0 3 5 20202
+10 1 2 422214 7 9 49518
+11 3 4 115470 4 8 36682
+12 1 2 1553 6 8 10918
+13 5 5 6097 5 8 46444
+14 1 1 1151 24 31 3164
+15 0 0 0 4 7 3526
+16 3 3 4433 3 4 10440
+17 3 4 4835 5 9 36574
+18 6 6 4433 3 3 46218
+19 8 15 854920 4 5 2337
+20 12 12 10547 5 5 48019
+21 4 4 5283 8 9 29352
+22 5 6 291866 4 14 8942
+23 16 16 19003 8 8 19119
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+us 61 68 897242
+de 18 18 0
+se 10 10 14450
+cn 5 7 544828
+fr 5 6 380052
+ca 4 6 6388
+gb 2 2 14166
+ru 1 1 36242
+za 1 1 2964
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+bot[\s_+:,\.\;\/\\-] 25 453929 20210130125102 0
+no_user_agent 11 212558 20210114213916 0
+baidu 7 5275 20210117101106 0
+YandexBot/ 5 3213 20210130085447 0
+Googlebot/ 4 4604 20210126193532 0
+bingbot/ 2 911 20210129040528 0
+bingpreview 1 402 20210129050626 0
+unknown 1 26 20210120122114 1
+discover 1 11700 20210117203002 0
+facebookexternalhit/ 1 1151 20210115100547 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+png 3 1266642 0 0
+php 52 42462 0 0
+js 6 401119 0 0
+html 55 184805 0 0
+css 3 1304 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+win10 14 13
+winxp 1 1
+linuxandroid 2 1
+Unknown 53 53
+win7 20 20
+win8 1 1
+linux 14 11
+ios_iphone 12 5
+macosx6 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 15
+safari14.0.2 12 5
+chrome40.0.2214.85 18 18
+firefox72.0 6 4
+chrome87.0.4280.88 1 1
+Unknown 53 53
+opera11.11 2 2
+chrome75.0.3765.0 2 1
+chrome58.0.3029.110 1 1
+chrome78.0.3904.108 1 0
+chrome75.0.3729.169 10 10
+chrome40.0.2214.93 1 1
+chrome85.0.4183.102 2 2
+firefox68.0 1 1
+chrome41.0.2224.3 1 1
+firefox58.0 8 7
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+WordPress/5.6;_https://anujashah.com 20210129070916
+WordPress.com;_https://anujashah.com 20210127235432
+Jetpack_by_WordPress.com 20210129070923
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+WordPress/5.6;_https://anujashah.com 20210129070916
+Jetpack_by_WordPress.com 20210129070923
+WordPress.com;_https://anujashah.com 20210127235432
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 39 41
+From1 0 0
+From2 5 7
+From3 3 4
+From4 60 67
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 5 7
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://www.laureldaniell.online/blog/109849007/view/ 2 2
+https://freevpn.space/web-proxy/webmail.anujashah.com 1 1
+https://mail.anujashah.com 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+401 37 1134
+404 48 0
+302 4 0
+406 21 4746
+301 2 0
+400 35 1509
+409 3 249
+405 2 84
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 9
+/robots.txt 27 -
+/_Links/_Resume/Anuja_Shah_Online_Resume.pdf 1 https://www.google.com
+/about 1 -
+/sitemap.xml 1 -
+/sitemap.xml.gz 3 -
+/sitemap.txt 11 -
+/about/ 1 -
+/_Links/_Resume/resum.html 1 https://www.google.com
+/.well-known/security.txt 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 37
+162.241.253.141 20 20 13804 20210129070916
+138.246.253.24 18 18 0 20210129082613
+192.0.119.68 10 10 9923 20210105200419
+192.0.102.194 10 10 9927 20210127235442
+104.32.80.27 5 12 854291 20210126195732
+167.114.175.39 4 6 6388 20210119121127
+130.255.162.164 3 3 4433 20210106180047
+93.158.90.86 3 3 4433 20210104045832
+192.36.137.125 3 3 4433 20210104165512
+192.0.87.40 2 2 1253 20210112115147
+62.4.14.198 2 2 37347 20210112212531
+39.104.120.142 2 2 5470 20210102132457
+51.15.191.81 2 2 14166 20210112211559
+192.0.87.55 1 1 627 20210113222410
+192.0.89.59 1 1 627 20210102132444
+160.116.240.147 1 1 2964 20210113222407
+175.44.42.251 1 1 1151 20210107042354
+35.230.64.50 1 1 0 20210127185302
+130.255.162.173 1 1 1151 20210101143139
+35.185.240.4 1 1 0 20210127185302
+192.0.87.29 1 1 625 20210107230943
+192.0.87.140 1 1 625 20210120050547
+192.0.87.17 1 1 625 20210126220233
+62.4.14.206 1 1 9988 20210111025040
+185.220.100.244 1 1 36242 20210113064537
+27.115.124.101 0 1 422214 
+175.44.42.246 1 1 1151 20210108004837
+212.83.146.233 1 1 8837 20210111031819
+192.0.87.132 1 1 628 20210116084320
+171.13.14.75 1 2 114842 20210112115132
+167.99.45.76 1 1 1151 20210114023031
+192.0.86.67 1 1 624 20210105200402
+192.0.86.152 1 1 629 20210129070923
+195.154.61.206 1 2 323880 20210111032939
+192.0.87.150 1 1 627 20210127235422
+192.0.87.14 1 1 627 20210117083812
+192.0.86.157 1 1 629 20210121191647
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 25
+20210101 5 6 5986 3
+20210102 6 6 6097 4
+20210103 2 2 0 2
+20210104 6 6 8866 2
+20210105 11 11 10547 2
+20210106 3 3 4433 1
+20210107 4 4 4767 3
+20210108 3 3 1151 3
+20210109 2 2 0 2
+20210110 2 2 0 2
+20210111 7 7 101910 7
+20210112 5 7 408403 5
+20210113 6 6 42823 5
+20210114 2 2 1151 2
+20210115 1 1 0 1
+20210116 4 4 628 4
+20210117 3 4 422841 3
+20210119 1 2 1553 1
+20210120 3 3 3615 2
+20210121 3 3 629 3
+20210122 1 1 0 1
+20210126 7 14 854916 3
+20210127 15 15 15387 5
+20210128 2 2 0 2
+20210129 3 3 629 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+2mn-5mn 1
+0s-30s 68
+30s-2mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 9
+/ 41 159544 39 34
+/xmlrpc.php 31 25694 13 15
+/wp-cron.php 16 0 14 12
+/_Links/_Resume/resume.html 6 14010 1 1
+/_Links/_About/about.html 5 4735 0 3
+/wp-login.php 5 16768 2 4
+/_Links/_Contact/contact.html 1 1233 0 0
+/wp-includes/js/jquery/ 1 4178 1 1
+/wp-content/plugins/bluehost-wordpress-plugin/images/ 1 1105 1 1
+END_SIDER

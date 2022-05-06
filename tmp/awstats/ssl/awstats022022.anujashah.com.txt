@@ -1,0 +1,942 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202202 will be lost/reset.
+# Last config file used to build this data file was /home4/anujasha/tmp/awstats/ssl/awstats.anujashah.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2697                
+POS_VISITOR 21102               
+POS_DAY 28211               
+POS_DOMAIN 3472                
+POS_LOGIN 4003                
+POS_ROBOT 4158                
+POS_WORMS 4873                
+POS_EMAILSENDER 5004                
+POS_EMAILRECEIVER 5147                
+POS_SESSION 28918               
+POS_SIDER 29089               
+POS_FILETYPES 5282                
+POS_DOWNLOADS 5438                
+POS_OS 5486                
+POS_BROWSER 5708                
+POS_SCREENSIZE 7042                
+POS_UNKNOWNREFERER 7116                
+POS_UNKNOWNREFERERBROWSER 8271                
+POS_ORIGIN 9185                
+POS_SEREFERRALS 9326                
+POS_PAGEREFS 9535                
+POS_SEARCHWORDS 9770                
+POS_KEYWORDS 9922                
+POS_MISC 2361                
+POS_ERRORS 9981                
+POS_CLUSTER 3859                
+POS_SIDER_404 10131               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220301000329 128 30664 16516486129894
+FirstTime 20220201001443
+LastTime 20220228222055
+LastUpdate 20220301052359 128 0 127 0 0
+TotalVisits 239                 
+TotalUnique 183                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 183                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 6 20467 59 73 12992
+1 11 11 85671 60 71 39934
+2 9 9 82880 73 80 10818
+3 21 21 35302 21 32 35148
+4 7 7 48424 121 123 37197
+5 13 13 96848 152 157 3459
+6 18 18 129033 62 69 35526
+7 13 13 58335 31 36 23045
+8 17 17 111776 83 86 14910
+9 10 10 46563 71 77 7558
+10 3 3 13035 127 138 27861
+11 18 18 106164 132 139 64626
+12 19 23 114198 85 94 5438
+13 4 4 60741 124 142 29840
+14 7 7 59601 93 99 19318
+15 12 12 117725 45 69 55402
+16 56 115 453298 170 278 641726
+17 25 33 167013 83 93 19146
+18 20 24 109024 83 86 12311
+19 16 16 66653 122 128 18600
+20 10 10 118484 109 121 9536
+21 4 4 26070 78 82 7507
+22 6 6 67062 104 105 24713
+23 15 15 72230 141 148 41589
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 24
+us 195 270 1468224
+ru 23 23 115273
+gr 15 15 243687
+sc 12 12 22400
+de 12 12 37015
+se 10 10 26080
+cn 9 9 53998
+gb 8 8 52140
+eu 7 7 42444
+ca 6 6 9290
+ua 6 6 40586
+nl 6 6 31470
+il 5 5 9290
+in 4 4 1858
+ro 4 4 20293
+it 4 4 31470
+pt 3 3 20293
+at 3 3 20293
+pl 2 2 11177
+cr 2 2 3742
+jp 1 1 1858
+cl 1 1 1858
+za 1 1 1858
+mx 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+spider 202 636590 20220228160528 0
+Googlebot/ 41 63235 20220227170234 0
+(firefox/)([0-9]\.|[0-1][0]\.) 20 63259 20220227213349 0
+bingbot/ 19 16001 20220226155359 0
+no_user_agent 11 173639 20220219070903 0
+curl 9 100593 20220226235433 0
+unknown 8 104 20220225104058 8
+YandexBot/ 8 14864 20220222204059 0
+Applebot/ 5 8239 20220228025549 0
+baidu 3 881 20220204204849 0
+bingpreview 3 2818 20220226161044 0
+robot 3 7275 20220221003110 0
+libwww\-perl 2 22354 20220201075130 0
+Baiduspider/ 2 3716 20220204204847 0
+KomodiaBot/ 2 15148 20220219012514 0
+Firefox/1\.5 1 11177 20220220223222 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+html 263 1912452 0 0
+php 75 281027 0 0
+css 40 34643 0 0
+Unknown 2 23547 0 0
+js 35 14928 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+macosx9 3 3
+win8 30 30
+macosx10 1 1
+winxp 8 8
+win8.1 17 17
+macosx 23 15
+ios_iphone 1 1
+linuxandroid 8 8
+win10 117 108
+Unknown 49 46
+win7 127 72
+linux 31 31
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 63
+chrome90.0.4430.85 1 1
+msie9.0 101 49
+Unknown 33 33
+chrome89.0.4389.114 2 2
+opera64.0.3417.92 1 1
+chrome60.0.3112.90 4 4
+chrome90.0.4430.72 7 7
+firefox70.0 1 1
+netscape5.0 1 1
+firefox84.0 3 3
+edge17 3 3
+chrome70.0.3538.77 1 1
+msie6.0 6 6
+firefox60.2.2 1 1
+safari10.0 1 1
+firefox44.0 1 1
+chrome95.0.4638.54 1 1
+chrome68.0.3440.75 3 3
+chrome90.0.4430.212 1 1
+safari14.1.1 1 1
+chrome71.0.3578.98 4 4
+chrome94.0.4606.81 1 1
+chrome95.0.4638.69 4 4
+chrome68.0.3440.106 3 3
+chrome90.0.4430.93 6 6
+chrome73.0.3683.90 1 1
+chrome58.0.3029.110 30 30
+chrome88.0.4240.193 23 23
+chrome74.0.3729.169 8 8
+firefox35.0 2 2
+chrome42.0.2311.90 1 1
+chrome78.0.3904.108 27 27
+firefox66.0 1 1
+chrome66.0.3359.181 3 3
+chrome89.0.4389.90 1 1
+firefox51.0 1 1
+opera53.0.2907.99 3 3
+chrome83.0.4103.97 18 18
+chrome67.0.3396.87 6 6
+safari13.1.2 13 5
+chrome68.0.3440.84 3 3
+opera55.0.2994.44 3 3
+chrome96.0.4664.45 1 1
+chrome79.0.3945.79 12 3
+firefox91.0 1 1
+firefox68.0 1 1
+mozilla 14 11
+chrome45.0.2454.94 1 1
+chrome85.0.4183.83 5 5
+firefox28.0 3 3
+chrome26.0.1410.63 4 4
+firefox73.0 1 1
+msie8.0 2 2
+chrome92.0.4515.159 1 1
+chrome91.0.4472.114 9 9
+chrome41.0.2224.3 1 1
+chrome35.0.1916.47 3 3
+opera54.0.2952.64 3 3
+firefox79.0 4 4
+firefox95.0 1 1
+chrome60.0.3112.107 6 6
+chrome83.0.4103.61 6 3
+safari10.1.2 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 13
+Mozilla/5.0_(compatible;_ips-agent) 20220223150351
+ZaldomoSearchBot(www.zaldamo.com/search.html) 20220202233456
+colly_-_https://github.com/gocolly/colly/v2 20220209154408
+Go-http-client/1.1 20220215065633
+wp_is_mobile 20220223045741
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220227112346
+Python/3.8_aiohttp/3.8.1 20220210004409
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20220223065916
+Go_http_package 20220214111527
+Mozilla/5.0_(compatible;_Dataprovider.com) 20220224173252
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20220208170951
+Mozilla/5.0_Firefox/35.0 20220217061855
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220228185649
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 9
+colly_-_https://github.com/gocolly/colly/v2 20220209154408
+Go_http_package 20220214111527
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20220208170951
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220228185649
+Go-http-client/1.1 20220215065633
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220227112346
+ZaldomoSearchBot(www.zaldamo.com/search.html) 20220202233456
+wp_is_mobile 20220223045741
+Python/3.8_aiohttp/3.8.1 20220210004409
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 171 171
+From1 4 4
+From2 53 105
+From3 8 8
+From4 104 127
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_google_com_hk 1 1
+search_yahoo_com 2 2
+www_google_com 50 102
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://162.241.253.141:80 6 6
+https://www.socialine.net 1 1
+http://162.241.253.141 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+409 79 6557
+400 362 18772
+404 1485 0
+401 123 5988
+406 118 26668
+421 1 322
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 351
+/test/wp-admin/install.php 2 -
+//wp1/wp-includes/wlwmanifest.xml 40 -
+/wp-admin/install.php 4 https://anujashah.com/
+/wp-old 2 http://anujashah.com/wp-old
+/shell.php 2 -
+/ALFA_DATA 1 www.bing.com
+/humans.txt 4 http://anujashah.com/humans.txt
+/Demo 1 www.google.com
+/blog 3 www.google.com
+/templates/beez3/cgialfa 1 www.bing.com
+//wordpress/wp-includes/wlwmanifest.xml 40 -
+/old 5 www.google.com
+/css.php 1 www.bing.com
+/site/wp-admin/install.php 2 -
+/ads.txt 5 http://anujashah.com/ads.txt
+/error.php 1 www.bing.com
+/wp-content/plugins/backup_index.php 1 www.bing.com
+/sitio 2 http://anujashah.com/sitio
+/wordpress/wp-admin/install.php 3 -
+/xindex.php 1 www.bing.com
+/ups.php 4 -
+/about.php 1 www.bing.com
+/2020 3 www.google.com
+/theme/assets/global/plugins/jquery-file-upload/server/php/index.php 1 -
+/sindex.php 1 -
+/misc/ajax.js 1 -
+/test 3 www.google.com
+/js/header-rollup-554.js 1 -
+/wp-content/outcms.php 1 www.bing.com
+/bk/ 1 http://www.anujashah.com/bk/
+/xmrlpc.php 1 www.bing.com
+/demo 3 www.google.com
+/OLD 2 http://anujashah.com/OLD
+/backup/wp-admin/install.php 2 -
+/bc 4 http://anujashah.com/bc
+/ccaef.txt 8 -
+/wp-content/plugins/background-image-cropper/accesson.php 1 -
+/about 1 -
+/www.php 1 -
+/wso.php 2 -
+/legion.php 1 www.bing.com
+/old/ 1 http://www.anujashah.com/old/
+/WORDPRESS 3 www.google.com
+/tmp/ 1 http://www.anujashah.com/tmp/
+/0b6995d.html 1 https://anujashah.com/
+/images/editor/separator.gif 1 -
+/wp-admin/css/ 11 binance.com
+/wp-admin/cgialfa 1 www.bing.com
+/_Links/_Resume/Anuja_Shah_Online_Resume.pdf 1 -
+/Www 2 http://anujashah.com/Www
+/V3.php 1 -
+/phpinfo.php 2 -
+/media-admin.php 4 -
+/_Links/_Contact/contact.html 4 http://anujashah.com/_Links/_Contact/contact.html
+//web/wp-includes/wlwmanifest.xml 40 -
+/BACKUP 3 www.google.com
+/.git/config 4 http://www.anujashah.com/.git/config
+/m.php 1 -
+/ckeditor/connectors/php/connector.php 1 -
+/wp-includes/images/css.php 1 www.bing.com
+/sites/default/files/cgialfa 1 www.bing.com
+/new.php 1 -
+/BLOG 3 www.google.com
+/2018/ 1 http://www.anujashah.com/2018/
+//sito/wp-includes/wlwmanifest.xml 37 -
+/wp-wso.php 1 -
+//test/wp-includes/wlwmanifest.xml 40 -
+/config/aws.yml 2 -
+/assets/images/accesson0.php 1 -
+/old-wp/ 1 http://www.anujashah.com/old-wp/
+/wp-includes/ID3/license.txt 1 -
+/11index.php 1 -
+/radio.php 1 www.bing.com
+/wp-content/uploads/ALFA_DATA 1 www.bing.com
+/wp-backup-sql-302.php 1 www.bing.com
+/0byte.php 1 -
+/new-site/ 1 http://www.anujashah.com/new-site/
+/wp-content/plugins/background-image-cropper/image/ico/accesson.php 1 -
+/ 15 www.google.com
+/_Links/contact.html 1 -
+/filemanager/dialog.php 3 -
+/root.php 1 -
+/../_Links/resume.php 1 -
+/NEW 3 www.google.com
+/wp-signin.php 1 www.bing.com
+/accesson0.php 1 -
+/Wp 2 http://anujashah.com/Wp
+/wp-admin/ALFA_DATA 1 www.bing.com
+/jindex.php 1 -
+//feed/ 3 -
+/priv8.php 1 -
+/wp1/ 1 http://www.anujashah.com/wp1/
+/.well-known/security.txt 2 http://anujashah.com/.well-known/security.txt
+/admin.php 2 -
+/v2/ 1 http://www.anujashah.com/v2/
+/cache/accesson.php 1 -
+/main 4 http://anujashah.com/main
+/qindex.php 2 -
+/site 3 www.google.com
+/alfacgiapi 1 www.bing.com
+/templates/beez3/index.php 1 www.bing.com
+/backup 5 www.google.com
+/ccaef.php 16 -
+/_Links/_About/about.html 1 -
+/autoload_classmap.php 1 -
+/symlink.php 1 -
+/bk 4 http://anujashah.com/bk
+/home/ 1 http://www.anujashah.com/home/
+/assets/backend/plugins/jquery-file-upload/server/php/index.php 1 -
+/admin/controller/extension/extension/cgialfa 1 www.bing.com
+/defau11.php 1 www.bing.com
+/defau1t.php 2 -
+/new-index.php 1 -
+/New 3 www.google.com
+/admin/Cms_Wysiwyg/directive/index/ 2 -
+/install/ 1 http://www.anujashah.com/install/
+/cms/ 1 http://www.anujashah.com/cms/
+/DEMO 1 www.google.com
+/info.php 2 -
+/old/wp-admin/install.php 2 -
+/_Links/_Resume/resume.html 1 -
+/beence.php 1 www.bing.com
+/class-wp-widget-archives.php 1 -
+/cms/wp-admin/install.php 2 -
+//wp2/wp-includes/wlwmanifest.xml 37 -
+/wp-file.php 1 -
+/backup/ 1 http://www.anujashah.com/backup/
+/theme/assets/plugins/jquery-file-upload/server/php/index.php 1 -
+/../_Links/about.php 1 -
+/wordpress/wp-admin/setup-config.php 3 -
+/admin/controller/extension/extension/ALFA_DATA 1 www.bing.com
+/wp-includes/js/jquery/jquery.js 2 -
+/Shop 2 http://anujashah.com/Shop
+/1index.php 4 -
+/plugins/system/debug/debug.xml 3 -
+/doc.php 2 -
+/403.php 1 -
+/upload.php 3 www.bing.com
+/2019 3 www.google.com
+/.. 28 -
+/o.php 1 -
+/wp-content/ 17 -
+/wordpress 6 www.google.com
+/2index.php 2 -
+/c.php 1 -
+//wp/wp-includes/wlwmanifest.xml 40 -
+/cache/accesson0.php 1 -
+/wp-content/plugins/press/wp-class.php 1 -
+/oldsite/wp-admin/install.php 2 -
+/up.php 4 -
+/dup-installer/main.installer.php 3 http://anujashah.com/dup-installer/main.installer.php
+/2017 1 www.google.com
+/WWW 2 http://anujashah.com/WWW
+/forum 1 www.google.com
+/wp/wp-admin/install.php 2 -
+/z.php 2 -
+/FoxWSO.php 1 -
+//2018/wp-includes/wlwmanifest.xml 21 -
+/wp-scripts.php 1 -
+/installer.php 8 -
+/s_e.php 1 www.bing.com
+/administrator/help/en-GB/toc.json 1 -
+/wp-content/alfacgiapi 1 www.bing.com
+/s_ne.php 1 www.bing.com
+/2010 1 www.google.com
+/2021 2 http://anujashah.com/2021
+/new/ 1 http://www.anujashah.com/new/
+/FORUM 1 www.google.com
+/wp-content/export.php 1 www.bing.com
+//news/wp-includes/wlwmanifest.xml 37 -
+/1.php 3 -
+/Wordpress 2 http://anujashah.com/Wordpress
+/demo/ 1 http://www.anujashah.com/demo/
+/404.php 1 -
+/baindex.php 1 -
+/g.php 1 -
+/Test 2 http://anujashah.com/Test
+/.aws/credentials 2 -
+/wp-admin/includes/class-wp-media-list-data.php 1 -
+//blog/wp-includes/wlwmanifest.xml 37 -
+/b.php 1 -
+/777.php 1 -
+/takeout.php 1 -
+/stindex.php 1 -
+/wp-includes/wp-class.php 2 -
+/bak/ 1 http://www.anujashah.com/bak/
+/wp-admin/style.php 1 www.bing.com
+/.well-known/cgialfa 1 www.bing.com
+/wp-admin/alfacgiapi 1 www.bing.com
+/f.php 1 -
+/wp1/wp-includes/wlwmanifest.xml 1 -
+/400.shtml 4 -
+/edit-form.php 1 -
+/cgialfa 1 www.bing.com
+/wp-login.php 2 -
+/mail 1 www.google.com
+/wso.12.php 1 -
+/wp_wrong_datlib.php 2 -
+/sito 2 http://anujashah.com/sito
+/wp-content/db-cache.php 1 www.bing.com
+/assets/filemanager/dialog.php 3 -
+/STORE 2 www.google.com
+/temp/ 1 http://www.anujashah.com/temp/
+/wi.php 1 -
+/admin/assets/plugins/jquery-file-upload/server/php/index.php 1 -
+/admin/view/javascript/common.js 1 -
+/config.php 1 www.bing.com
+/blog/wp-admin/install.php 3 -
+/2012 1 www.google.com
+/wp-content/themes/twentyseventeen/404.php 1 -
+/wp-cron.php 1 -
+/test.php 1 www.bing.com
+/blog/ 1 http://www.anujashah.com/blog/
+/wp-content/uploads/alfacgiapi 1 www.bing.com
+/Anujashah 1 www.google.com
+/alfa.php 2 -
+/sitemap.xml 1 -
+/a.php 2 -
+/export.php 1 www.bing.com
+/uploads/up.php 2 -
+/fw.php 1 -
+/.well-known/alfacgiapi 1 www.bing.com
+/mar.php 1 -
+/admin/server/php/index.php 1 -
+/new 5 www.google.com
+/Backup 3 www.google.com
+/wp-load.php 2 www.bing.com
+/test/ 1 http://www.anujashah.com/test/
+/sym.php 1 -
+/blog/wp-admin/setup-config.php 1 -
+/wp-content/ALFA_DATA 1 www.bing.com
+/v.php 1 -
+/WordPress 3 www.google.com
+/.well-known/ALFA_DATA 1 www.bing.com
+/config.js 2 -
+/_ignition/execute-solution 144 -
+/2020/ 1 http://www.anujashah.com/2020/
+//site/wp-includes/wlwmanifest.xml 40 -
+/oldsite 2 http://anujashah.com/oldsite
+/wp-content/mu-plugins-old/index.php 2 www.bing.com
+/bak 2 http://anujashah.com/bak
+/sites/default/files/ALFA_DATA 1 www.bing.com
+/wp-content/upload.php 2 -
+/xox.php 1 -
+/wp 6 www.google.com
+/admin/assets/global/plugins/jquery-file-upload/server/php/index.php 1 -
+/wikindex.php 4 -
+/wp.php 2 -
+/mini.php 1 -
+/minimo.php 1 -
+/2014 1 www.google.com
+/_links/resume.php 1 -
+/wp2/ 1 http://www.anujashah.com/wp2/
+/old-index.php 2 -
+//2019/wp-includes/wlwmanifest.xml 40 -
+/nee.php 1 -
+/ckfinder/core/connector/php/connector.php 1 -
+//media/wp-includes/wlwmanifest.xml 21 -
+/th1s_1s_a_4o4.html 26 -
+/templates/beez3/ALFA_DATA 1 www.bing.com
+/wp-booking.php 1 www.bing.com
+/Old 2 http://anujashah.com/Old
+/wp/ 1 http://www.anujashah.com/wp/
+/wp-content/plugins/ubh/up.php 1 www.bing.com
+/xleet.php 3 -
+/data.php 1 -
+/xleet-shell.php 1 -
+/gank.php.PhP 1 www.bing.com
+/www 2 http://anujashah.com/www
+/wp-json/aam/v1 1 -
+/wordpress/ 1 http://www.anujashah.com/wordpress/
+/2013 1 www.google.com
+/web/ 1 http://www.anujashah.com/web/
+/100.php 1 -
+/wp-includes/css/css.php 1 www.bing.com
+/web/wp-admin/install.php 2 -
+/wp-includes/css/wp-config.php 1 www.bing.com
+/2009 1 www.google.com
+/shop 4 www.google.com
+/shx.php 1 -
+/assets/admin/plugins/jquery-file-upload/server/php/index.php 1 -
+/V5.php 1 -
+/wp-content/cgialfa 1 www.bing.com
+/plugins/jquery-file-upload/server/php/index.php 1 -
+//cms/wp-includes/wlwmanifest.xml 40 -
+/xx.php 1 -
+/assets/server/php/index.php 1 -
+/anujashah 1 www.google.com
+//2020/wp-includes/wlwmanifest.xml 19 -
+/olux.php 1 www.bing.com
+/phpinfo 2 -
+/3index.php 4 -
+/TEST 2 http://anujashah.com/TEST
+/mt/ 1 -
+/2019/ 1 http://www.anujashah.com/2019/
+/new/wp-admin/install.php 2 -
+/SITE 2 http://anujashah.com/SITE
+/admin/controller/extension/extension/alfacgiapi 1 www.bing.com
+/wp-includes/wp-atom.php 1 www.bing.com
+/WP 4 www.google.com
+/_links/about.php 1 -
+/_profiler/phpinfo 2 -
+/archives.php 1 www.bing.com
+/admin/assets/jquery-file-upload/server/php/index.php 1 -
+/style.php 3 bing.com
+/system_log.php 1 www.bing.com
+/wp-includes/ALFA_DATA 1 www.bing.com
+/wp-content/mu-plugins/db-safe-mode.php 1 www.bing.com
+/alwso.php 1 -
+/shells.php 1 www.bing.com
+/wp-plugins.php 1 www.bing.com
+/moduless.php 1 www.bing.com
+/Blog 3 www.google.com
+/bac 2 http://anujashah.com/bac
+/templates/beez3/alfacgiapi 1 www.bing.com
+/robots.txt 75 -
+/old-site/ 1 http://www.anujashah.com/old-site/
+/store 1 www.google.com
+/dev/ 1 http://www.anujashah.com/dev/
+/elfinder/connectors/php/connector.php 1 -
+/lock360.php 1 www.bing.com
+//shop/wp-includes/wlwmanifest.xml 40 -
+/2018 3 www.google.com
+/images/vuln.php 3 -
+/home 3 www.google.com
+/old-site 2 http://anujashah.com/old-site
+/xmlrpcs.php 1 www.bing.com
+/aws.yml 2 -
+/2015 1 www.google.com
+/admin/includes/general.js 1 -
+/wp-admin/setup-config.php 1 -
+//2021/wp-includes/wlwmanifest.xml 3 -
+/.well-known/ 11 binance.com
+/sym403.php 1 -
+/js/ckfinder/core/connector/php/connector.php 1 -
+/main/ 1 http://www.anujashah.com/main/
+/elfinder/src/connectors/php/connector.php 1 -
+/site/ 1 http://www.anujashah.com/site/
+/public/admin/assets/plugins/jquery-file-upload/server/php/index.php 1 -
+/Site 2 http://anujashah.com/Site
+/theme/assets/jquery-file-upload/server/php/index.php 1 -
+/x.php 2 -
+/wp-blog.php 1 -
+//website/wp-includes/wlwmanifest.xml 37 -
+/wp-admin.php 1 www.bing.com
+/vendor/phpunit/phpunit/build.xml 1 -
+/v1/ 1 http://www.anujashah.com/v1/
+/wp-includes/cgialfa 1 www.bing.com
+/wp-content/uploads/cgialfa 1 www.bing.com
+/SHOP 3 www.google.com
+/2016 1 www.google.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 183
+198.20.67.198 13 27 117102 20220226160236
+184.154.76.14 10 22 95164 20220224160319
+184.154.139.27 8 16 69520 20220218160441
+157.245.153.6 6 6 67062 20220220011836
+92.118.160.57 5 5 81225 20220214111527
+167.114.64.113 5 5 7432 20220211111702
+149.56.160.139 5 5 41251 20220224173235
+96.248.41.205 5 13 9541 20220225164813
+167.94.138.46 4 4 7432 20220223065916
+184.154.139.46 4 8 34760 20220227160243
+184.154.139.24 4 8 34760 20220223160522
+20.127.118.217 4 4 44708 20220211124605
+2.56.59.14 4 4 7432 20220210004409
+167.71.197.159 4 4 44708 20220218040459
+20.115.8.103 4 4 7432 20220228160650
+184.154.139.47 4 8 34760 20220216160519
+184.154.76.23 4 8 34760 20220228160524
+137.226.113.44 3 3 5574 20220216050812
+37.19.223.245 3 3 20293 20220203230651
+138.199.59.152 3 3 20293 20220207081642
+195.78.54.57 3 3 20293 20220215193213
+95.79.133.241 3 3 20293 20220204172756
+185.189.114.119 3 3 20293 20220201183335
+156.146.56.107 3 3 33531 20220228051406
+185.210.217.250 3 3 20293 20220207232141
+65.21.206.42 1 1 1858 20220203090120
+162.142.125.211 1 1 11768 20220209060415
+54.194.68.99 1 1 1858 20220214021355
+181.215.121.132 1 1 1858 20220224205729
+20.118.128.61 1 1 11177 20220218201524
+204.12.198.246 1 1 11766 20220201080733
+40.123.28.18 1 1 11177 20220227101132
+54.149.189.169 1 1 1858 20220202031143
+52.41.187.178 1 1 1858 20220202030652
+45.129.18.101 1 1 0 20220224100636
+144.168.213.2 2 2 3742 20220202091101
+45.152.199.237 1 1 1858 20220225061005
+65.21.206.45 2 2 3716 20220224094409
+54.213.198.241 1 1 1858 20220205033923
+92.118.160.1 1 1 11177 20220227112346
+20.127.38.235 2 2 22354 20220218095607
+170.83.178.212 2 2 3742 20220219162955
+92.118.160.13 1 1 11177 20220205013750
+93.159.230.89 1 1 1858 20220217233147
+34.215.149.161 1 1 1858 20220201032858
+13.82.61.7 1 1 11177 20220225185435
+72.223.74.127 1 1 1858 20220209154408
+168.90.199.100 1 1 1858 20220219162953
+34.219.95.165 1 1 1858 20220205034015
+194.110.115.8 1 1 11177 20220203011549
+34.86.35.28 1 1 11177 20220228185649
+20.85.226.106 2 2 22354 20220227061554
+75.119.138.152 1 1 1858 20220214121551
+107.172.190.17 1 1 0 20220219080149
+52.13.214.160 1 1 1858 20220202031055
+141.98.91.137 1 1 11177 20220228055258
+185.220.102.253 1 1 11776 20220215065633
+131.153.143.50 1 1 1858 20220219114028
+196.240.51.156 2 2 3742 20220225061019
+45.129.18.83 1 1 0 20220214121038
+79.185.165.12 2 2 11177 20220224021725
+173.255.206.130 2 2 22354 20220204063348
+67.205.185.119 1 1 11177 20220215223126
+137.184.12.85 1 1 11177 20220210213521
+205.169.39.247 2 6 4895 20220206120855
+51.178.17.192 1 1 1858 20220221054604
+104.167.12.136 1 1 1858 20220222015614
+164.70.90.227 1 1 1858 20220218000620
+107.150.70.16 2 2 3742 20220221084338
+189.216.19.130 1 1 0 20220210175254
+83.145.36.70 1 1 0 20220201030150
+162.142.125.221 2 2 3716 20220205072946
+75.15.244.98 1 1 1858 20220202233456
+20.63.222.45 2 2 22354 20220228144922
+167.248.133.45 1 1 11766 20220213060443
+34.77.162.30 1 1 11177 20220208170951
+40.88.28.143 1 1 11177 20220223142924
+54.202.149.240 1 1 1858 20220212031801
+192.42.116.26 1 1 0 20220220232336
+196.240.237.84 1 1 1858 20220217195538
+34.96.130.27 1 1 11177 20220224150449
+20.122.196.63 2 2 22354 20220225112037
+54.184.39.203 1 1 1858 20220205033938
+34.96.130.0 1 1 36517 20220204021136
+151.237.177.188 2 2 3742 20220225183201
+46.101.63.152 1 1 0 20220213172537
+185.27.99.124 1 1 1858 20220210120413
+80.253.235.44 3 3 20293 20220226121310
+185.85.162.242 3 3 20293 20220224172447
+81.19.214.5 1 1 1858 20220212185131
+199.249.230.173 1 1 0 20220205032306
+54.188.231.253 1 1 1858 20220212031220
+93.158.91.250 1 1 1858 20220203231526
+104.211.214.235 1 1 11177 20220223092010
+92.118.160.5 3 3 58871 20220220014044
+34.86.35.31 1 1 11177 20220218081510
+82.102.18.155 3 3 20293 20220220125255
+40.121.47.53 1 1 11177 20220206050849
+183.253.80.77 1 1 1858 20220228175431
+81.169.136.222 2 2 3716 20220213185318
+34.86.35.17 1 1 11177 20220203204254
+34.214.238.182 1 1 1858 20220212031802
+185.191.34.215 3 3 0 20220228121248
+185.104.218.146 1 1 1858 20220202091056
+77.74.177.119 2 2 3716 20220218025409
+130.185.157.10 1 1 1858 20220227174525
+184.154.139.48 2 4 17380 20220214160105
+168.91.85.80 1 1 1858 20220215065018
+84.17.43.167 3 3 20293 20220201190206
+196.244.4.73 1 1 1858 20220225183156
+178.62.204.123 1 1 1858 20220215061953
+137.184.24.4 3 3 33531 20220212112425
+72.13.62.43 1 1 1858 20220223150351
+159.223.45.228 1 1 11177 20220202155820
+20.88.47.66 2 2 22354 20220218172639
+34.210.84.132 1 1 1858 20220225034048
+13.68.224.30 2 2 22354 20220206013613
+196.242.47.18 2 2 3742 20220223180841
+35.86.133.192 1 1 1858 20220201032937
+209.127.28.181 1 1 1858 20220208193833
+3.250.11.183 1 1 1858 20220205005314
+18.237.21.96 1 1 1858 20220205033957
+196.244.4.7 1 1 1858 20220222074849
+217.138.206.215 1 1 11177 20220228222055
+62.171.164.227 1 1 1858 20220202204313
+46.161.11.4 1 1 11177 20220228122720
+107.189.12.148 1 1 11771 20220215065632
+45.129.18.132 1 1 0 20220204153338
+196.242.200.107 1 1 1858 20220223180834
+167.248.133.62 1 1 11772 20220205072945
+37.19.217.212 3 3 20293 20220223081925
+93.158.91.242 1 1 1858 20220217102806
+95.181.219.238 1 1 1858 20220221084334
+35.88.235.89 1 1 1858 20220225034022
+118.126.124.74 1 1 1858 20220219192820
+167.86.118.188 2 2 3716 20220225003019
+92.118.160.17 1 1 36529 20220207201441
+52.170.189.189 2 2 22354 20220209184553
+20.124.117.33 3 3 33531 20220228141346
+46.166.182.65 3 3 20293 20220207120227
+38.242.207.101 2 2 0 20220224235155
+185.100.87.253 1 1 0 20220203045747
+185.220.100.247 1 1 1858 20220218153251
+92.205.56.212 1 1 1858 20220227092055
+42.83.147.34 3 3 5574 20220221133615
+165.231.225.249 2 2 3742 20220201114324
+54.186.73.225 1 1 1858 20220212031627
+51.161.57.137 2 2 22354 20220201042034
+92.118.160.9 2 2 22354 20220221224323
+54.200.158.105 1 1 1858 20220225034049
+18.197.69.116 1 1 0 20220205172939
+18.215.189.169 1 1 11177 20220217055550
+20.119.69.233 2 2 22354 20220201075133
+149.56.150.137 1 4 2739 20220224173251
+142.132.164.167 1 1 1858 20220223151007
+167.71.248.37 1 1 1858 20220222033059
+196.242.114.147 2 2 3742 20220217195540
+138.199.56.247 3 3 20293 20220217021111
+93.158.91.253 1 1 1858 20220225065245
+124.206.180.139 2 2 22354 20220217061855
+2.58.149.35 1 1 1858 20220223045741
+84.247.48.19 3 3 20293 20220216083018
+107.150.70.55 1 1 1858 20220201114320
+34.77.162.31 1 1 36529 20220201150926
+34.77.162.17 1 1 11177 20220203195116
+92.118.160.61 2 2 22354 20220225204052
+34.86.35.0 1 1 36529 20220207134650
+5.188.62.76 1 1 1858 20220227140528
+84.17.45.160 1 1 11177 20220207023843
+92.205.17.99 3 3 5574 20220227010759
+205.169.39.167 2 6 4895 20220202164536
+205.169.39.102 2 6 4895 20220224180242
+23.101.132.31 2 2 3716 20220205210736
+138.186.138.64 2 2 3742 20220222074851
+20.83.190.39 1 1 11177 20220224122040
+151.237.186.192 1 1 1871 20220227174526
+38.18.45.112 1 1 1858 20220211181844
+54.190.164.155 1 1 1858 20220225034023
+81.173.112.207 1 1 11177 20220208051424
+40.71.82.19 2 2 22354 20220209081719
+116.206.228.180 2 2 22354 20220213201735
+35.164.76.170 1 1 1858 20220202030628
+20.78.128.37 2 2 22354 20220208180321
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20220201 24 26 221014 16
+20220202 16 22 52058 13
+20220203 11 13 74920 8
+20220204 10 12 133061 6
+20220205 16 16 73202 14
+20220206 5 11 40071 4
+20220207 16 18 191467 9
+20220208 11 13 80697 9
+20220209 10 12 95368 7
+20220210 8 10 35989 7
+20220211 10 12 49024 5
+20220212 10 10 65175 9
+20220213 9 11 64535 7
+20220214 8 10 54627 6
+20220215 10 12 76113 7
+20220216 12 19 61226 6
+20220217 13 15 71201 9
+20220218 13 15 103051 10
+20220219 8 10 26696 6
+20220220 10 12 71204 6
+20220221 9 11 37873 7
+20220222 7 9 26696 5
+20220223 17 19 78633 11
+20220224 21 30 123805 12
+20220225 23 28 122564 17
+20220226 5 7 37673 2
+20220227 12 14 73249 10
+20220228 16 18 125405 11
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+5mn-15mn 1
+15mn-30mn 1
+0s-30s 237
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 263 1912452 226 188
+/_Links/contact.php 71 269878 10 48
+/_Links/about.php 2 5320 0 0
+/.git/config 2 23547 2 2
+/index.php 1 1858 1 1
+/_Links/resume.php 1 3971 0 0
+END_SIDER

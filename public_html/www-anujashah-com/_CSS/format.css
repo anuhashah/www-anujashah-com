@@ -1,0 +1,87 @@
+
+* {
+	margin: 0 auto;
+    padding: 0px;
+    background-color: #f7f7f7;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    color: #3F3F3F;
+}
+
+.page
+{
+	padding: 150px 20px;
+	text-align: center;
+	font-size: 20px;
+}
+
+.top
+{
+	position: fixed; 
+	padding: 1% 0px;
+	display: inline-flex;
+	align-items: center;
+    background-color: #f7f7f7;
+    width: 100%;
+    text-align: center;
+    border-bottom: 2px solid transparent;
+    transition: border-color 0.3s; 
+}
+
+#social a, .links a, #title a, #bottomsocial
+{
+    transition: 0.3s;
+}
+
+#social
+{
+    position: absolute;
+	right: 0;
+	font-size: 23px;
+	padding: 0px 40px;
+}
+
+#title a
+{
+    text-align: center;
+    font-size: 37px;
+    text-decoration: none;
+}
+
+.links 
+{
+    position: absolute;
+	left: 0;
+	font-size: 12px;
+	padding: 0px 40px;
+}
+
+#bottomsocial 
+{
+	text-align: center;
+    font-size: 45px;
+}
+
+
+.links a, #social span, #title a:hover, #bottomsocial span
+{
+	opacity: 0.4;
+	text-decoration: none;
+}
+
+.links a:hover, .links a.active, #social span:hover, #bottomsocial span:hover
+{
+	opacity: 1;
+}
+
+.copyright
+{
+	text-align: center;
+	font-size: 12px;
+	opacity: 0.4;
+	padding: 30px 0px;
+}
+
+.endpage
+{
+	padding: 50px 100px;
+}

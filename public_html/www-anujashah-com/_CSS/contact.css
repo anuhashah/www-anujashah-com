@@ -1,0 +1,43 @@
+/* Add a background color and some padding around the form */
+.contact
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 5px;
+  background-color: #f7f7f7;
+  padding: 0px 300px;
+}
+
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */ 
+  border: 1px solid #E6E6E6; /* Gray border */
+  /* border-radius: 4px; Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a #828282specific background color etc */
+input[type=submit] {
+  background-color: white;
+  color: #949494;
+  font-weight: bold;
+  letter-spacing: 1px;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* When moving the mouse over the submit button, hange color */
+input[type=submit]:hover {
+  background-color: #3F3F3F;
+  color: #E6E6E6;
+}
+
+

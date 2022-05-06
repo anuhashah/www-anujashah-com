@@ -1,0 +1,183 @@
+--- 
+files: 
+  certificate: 
+    anujashah_com_c3f61_b3965_1643816500_15d5716ddd2092cc6fc88a1eeeb7445b: 
+      created: '1636044102'
+      domains: 
+        - anujashah.com
+        - autodiscover.anujashah.com
+        - cpanel.anujashah.com
+        - cpcalendars.anujashah.com
+        - cpcontacts.anujashah.com
+        - mail.anujashah.com
+        - webdisk.anujashah.com
+        - webmail.anujashah.com
+        - www.anujashah.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “anujashah.com” 1636044102.0
+      id: anujashah_com_c3f61_b3965_1643816500_15d5716ddd2092cc6fc88a1eeeb7445b
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: c3f615656b3a4f449bb8187871c7a90777dc4025a41974daacd02718f91cdd9c0881cbcbbf6266d649eb6724d459fded20be5151eed22792c4589ae3151ebdc1c00a8f8443176be960190bb2b3aaafe0ad94d7ce36fec92dc6f4b45239dfbeb58c1869329bce1e07fa5d8866b36434e77d7a96a891832cd7faee94193ca98a8927657a8ae65e723cc72995bb010dbf255f532c3f356117faa1f64011ee85b76fa2faa2745cdefb9cb1e36e51f31af8ee7e855e56dcd645fd4031b16ec99b131ddc132528cfcfa55a18039958d3bf6490d7cb92ba2dc45878217c2d3d6f0677052c98eb779b3f0a830a3d6768cade002f9ee44d9cd672ff44793765578e2b3965
+      modulus_length: 2048
+      not_after: '1643816500'
+      not_before: '1636040501'
+      serial: 04f67ef05b0cb7eb93a679fd7d83795fcce3
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: anujashah.com
+      validation_type: dv
+    autodiscover_anujashah_com_be924_ab067_1649090783_e2ab9a889a8f85c38e19ea28eb543ebf: 
+      created: '1641318385'
+      domains: 
+        - anujashah.com
+        - autodiscover.anujashah.com
+        - cpanel.anujashah.com
+        - cpcalendars.anujashah.com
+        - cpcontacts.anujashah.com
+        - mail.anujashah.com
+        - webdisk.anujashah.com
+        - webmail.anujashah.com
+        - www.anujashah.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “anujashah.com” 1641318385.0
+      id: autodiscover_anujashah_com_be924_ab067_1649090783_e2ab9a889a8f85c38e19ea28eb543ebf
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: be92472e7d4deb84ca6c17830d58a13f02791c43fae9ede02c82079713b64c1c5d7adf606cfdb389af0f01ff761b2e1cc8fc7ce4a7cfbffda46c6aed5fadfdd456376d7ddd19e9a25031a98d3238aea96e6cd2bba0cf41f566ef40759fd86547ecf18bfd4aa3e72a80500461b8c2f01fdf340924a5b77c8a0b7448d72246f0d1d86c97c6aecc4fc58a48e3d180cb97ef07a24ee60949bcafdc007fae642165d5734fed264ad77f18bf5a0b56d3836399a7055f36905af60fffdcf2259df37ba1593dbc125c6f082234a486f5c60f2986a0fda7548379e88358a53586beef1e0596b074762371aa1d87617477a8f99c76e815d083f5f4206baff31700bd1ab067
+      modulus_length: 2048
+      not_after: '1649090783'
+      not_before: '1641314784'
+      serial: 0397f1a4c924e64ee2f8c8537f5b6233346e
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: autodiscover.anujashah.com
+      validation_type: dv
+    cpcontacts_anujashah_com_c977c_e4603_1654360498_f6d14eb85f83718c8859a4449aeeb858: 
+      created: '1646588099'
+      domains: 
+        - anujashah.com
+        - autodiscover.anujashah.com
+        - cpanel.anujashah.com
+        - cpcalendars.anujashah.com
+        - cpcontacts.anujashah.com
+        - mail.anujashah.com
+        - webdisk.anujashah.com
+        - webmail.anujashah.com
+        - www.anujashah.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “anujashah.com” 1646588099.0
+      id: cpcontacts_anujashah_com_c977c_e4603_1654360498_f6d14eb85f83718c8859a4449aeeb858
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: c977ceba7e2117c95188997242153ef8588cefb29f0ad3951a4bd370674e25e1479112a86973590cc69cf86b66370167243498454506f3d5cb6fbd661ca6424e9911100420d71d22e469bd43c281a27dc5bec052d5aa084aab817b48b3d82bcdde7e8b7bb515c8cfd6a34483a8de1c97da8a4fe6da510a98d5fe513d70bd5e7500386c2d0bde6e2b1442d03db45c9ec4cab843aa936e36647b2c770109262d08fb584579b74c39992a4cc5f85abc1ea45a3b3831f5f3e3f7fde47a049b93214532063219dfa7ba4ff019d2794c3964e5e52f7c67772969c4c61a486f763d88f818c36a2bd7d3984571ea6e5378733b8146948f4f83ad30b346795d677dbe4603
+      modulus_length: 2048
+      not_after: '1654360498'
+      not_before: '1646584499'
+      serial: 030b1fee82f5d9a1fbba293ac104af55b07c
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: cpcontacts.anujashah.com
+      validation_type: dv
+    www_californiacondor_anujashah_com_b73b0_ef577_1643587186_89735402769bb31e0202f6dad05fb764: 
+      created: '1635814788'
+      domains: 
+        - californiacondor.anujashah.com
+        - www.californiacondor.anujashah.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “californiacondor.anujashah.com”
+      id: www_californiacondor_anujashah_com_b73b0_ef577_1643587186_89735402769bb31e0202f6dad05fb764
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: b73b0b7fd098a0440a8e47177adcfb903ef5af7165a87e8cc4774c288d1d0f8f4b60b728a8aa19eee008184f24f0e796ca2296b192103f4aa9c5676f1176cc95b6636b761ad68bc739da32d52e7ba46aaeb8b009e2d29872daf116a631bebed9e50f0515df73b124985db43b976a71817b14b8ac212311e81a75941b514f5fe3a0e829e4ac0d64aad21642c2158210a3bc61efe3608746f881cee97d5a993a417011c36b8cb95e4c86560ff5eba4ab37c209c5e9b401fde5c2f2973e9f018a8cf5007a81ab5d3cb8af24ba9665f1e6142f9357fa81247a8ab51d297018ddf199ca2001706cdb1b3abc298561979ac7199723b055bef59b677454eda94cdef577
+      modulus_length: 2048
+      not_after: '1643587186'
+      not_before: '1635811187'
+      serial: 033c1dba640cdfa74d835e86e97ffdeed178
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: www.californiacondor.anujashah.com
+      validation_type: dv
+  key: 
+    b73b0_ef577_4367e50c84907a0bd0b7f79a6b251950: 
+      created: '1635814788'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “californiacondor.anujashah.com”
+      id: b73b0_ef577_4367e50c84907a0bd0b7f79a6b251950
+      key_algorithm: rsaEncryption
+      modulus: b73b0b7fd098a0440a8e47177adcfb903ef5af7165a87e8cc4774c288d1d0f8f4b60b728a8aa19eee008184f24f0e796ca2296b192103f4aa9c5676f1176cc95b6636b761ad68bc739da32d52e7ba46aaeb8b009e2d29872daf116a631bebed9e50f0515df73b124985db43b976a71817b14b8ac212311e81a75941b514f5fe3a0e829e4ac0d64aad21642c2158210a3bc61efe3608746f881cee97d5a993a417011c36b8cb95e4c86560ff5eba4ab37c209c5e9b401fde5c2f2973e9f018a8cf5007a81ab5d3cb8af24ba9665f1e6142f9357fa81247a8ab51d297018ddf199ca2001706cdb1b3abc298561979ac7199723b055bef59b677454eda94cdef577
+      modulus_length: 2048
+    be924_ab067_a1d351ddd9ed7ec5f2bd6d71bf9f6f2e: 
+      created: '1641318385'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “anujashah.com” 1641318385.0
+      id: be924_ab067_a1d351ddd9ed7ec5f2bd6d71bf9f6f2e
+      key_algorithm: rsaEncryption
+      modulus: be92472e7d4deb84ca6c17830d58a13f02791c43fae9ede02c82079713b64c1c5d7adf606cfdb389af0f01ff761b2e1cc8fc7ce4a7cfbffda46c6aed5fadfdd456376d7ddd19e9a25031a98d3238aea96e6cd2bba0cf41f566ef40759fd86547ecf18bfd4aa3e72a80500461b8c2f01fdf340924a5b77c8a0b7448d72246f0d1d86c97c6aecc4fc58a48e3d180cb97ef07a24ee60949bcafdc007fae642165d5734fed264ad77f18bf5a0b56d3836399a7055f36905af60fffdcf2259df37ba1593dbc125c6f082234a486f5c60f2986a0fda7548379e88358a53586beef1e0596b074762371aa1d87617477a8f99c76e815d083f5f4206baff31700bd1ab067
+      modulus_length: 2048
+    c3f61_b3965_36692b4b4f84f23fda41758877e73380: 
+      created: '1636044102'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “anujashah.com” 1636044102.0
+      id: c3f61_b3965_36692b4b4f84f23fda41758877e73380
+      key_algorithm: rsaEncryption
+      modulus: c3f615656b3a4f449bb8187871c7a90777dc4025a41974daacd02718f91cdd9c0881cbcbbf6266d649eb6724d459fded20be5151eed22792c4589ae3151ebdc1c00a8f8443176be960190bb2b3aaafe0ad94d7ce36fec92dc6f4b45239dfbeb58c1869329bce1e07fa5d8866b36434e77d7a96a891832cd7faee94193ca98a8927657a8ae65e723cc72995bb010dbf255f532c3f356117faa1f64011ee85b76fa2faa2745cdefb9cb1e36e51f31af8ee7e855e56dcd645fd4031b16ec99b131ddc132528cfcfa55a18039958d3bf6490d7cb92ba2dc45878217c2d3d6f0677052c98eb779b3f0a830a3d6768cade002f9ee44d9cd672ff44793765578e2b3965
+      modulus_length: 2048
+    c977c_e4603_cf0e4bc5cb97429c99e21c1dbadc4fe2: 
+      created: '1646588099'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “anujashah.com” 1646588099.0
+      id: c977c_e4603_cf0e4bc5cb97429c99e21c1dbadc4fe2
+      key_algorithm: rsaEncryption
+      modulus: c977ceba7e2117c95188997242153ef8588cefb29f0ad3951a4bd370674e25e1479112a86973590cc69cf86b66370167243498454506f3d5cb6fbd661ca6424e9911100420d71d22e469bd43c281a27dc5bec052d5aa084aab817b48b3d82bcdde7e8b7bb515c8cfd6a34483a8de1c97da8a4fe6da510a98d5fe513d70bd5e7500386c2d0bde6e2b1442d03db45c9ec4cab843aa936e36647b2c770109262d08fb584579b74c39992a4cc5f85abc1ea45a3b3831f5f3e3f7fde47a049b93214532063219dfa7ba4ff019d2794c3964e5e52f7c67772969c4c61a486f763d88f818c36a2bd7d3984571ea6e5378733b8146948f4f83ad30b346795d677dbe4603
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      b73b0b7fd098a0440a8e47177adcfb903ef5af7165a87e8cc4774c288d1d0f8f4b60b728a8aa19eee008184f24f0e796ca2296b192103f4aa9c5676f1176cc95b6636b761ad68bc739da32d52e7ba46aaeb8b009e2d29872daf116a631bebed9e50f0515df73b124985db43b976a71817b14b8ac212311e81a75941b514f5fe3a0e829e4ac0d64aad21642c2158210a3bc61efe3608746f881cee97d5a993a417011c36b8cb95e4c86560ff5eba4ab37c209c5e9b401fde5c2f2973e9f018a8cf5007a81ab5d3cb8af24ba9665f1e6142f9357fa81247a8ab51d297018ddf199ca2001706cdb1b3abc298561979ac7199723b055bef59b677454eda94cdef577: 
+        www_californiacondor_anujashah_com_b73b0_ef577_1643587186_89735402769bb31e0202f6dad05fb764: ~
+      be92472e7d4deb84ca6c17830d58a13f02791c43fae9ede02c82079713b64c1c5d7adf606cfdb389af0f01ff761b2e1cc8fc7ce4a7cfbffda46c6aed5fadfdd456376d7ddd19e9a25031a98d3238aea96e6cd2bba0cf41f566ef40759fd86547ecf18bfd4aa3e72a80500461b8c2f01fdf340924a5b77c8a0b7448d72246f0d1d86c97c6aecc4fc58a48e3d180cb97ef07a24ee60949bcafdc007fae642165d5734fed264ad77f18bf5a0b56d3836399a7055f36905af60fffdcf2259df37ba1593dbc125c6f082234a486f5c60f2986a0fda7548379e88358a53586beef1e0596b074762371aa1d87617477a8f99c76e815d083f5f4206baff31700bd1ab067: 
+        autodiscover_anujashah_com_be924_ab067_1649090783_e2ab9a889a8f85c38e19ea28eb543ebf: ~
+      c3f615656b3a4f449bb8187871c7a90777dc4025a41974daacd02718f91cdd9c0881cbcbbf6266d649eb6724d459fded20be5151eed22792c4589ae3151ebdc1c00a8f8443176be960190bb2b3aaafe0ad94d7ce36fec92dc6f4b45239dfbeb58c1869329bce1e07fa5d8866b36434e77d7a96a891832cd7faee94193ca98a8927657a8ae65e723cc72995bb010dbf255f532c3f356117faa1f64011ee85b76fa2faa2745cdefb9cb1e36e51f31af8ee7e855e56dcd645fd4031b16ec99b131ddc132528cfcfa55a18039958d3bf6490d7cb92ba2dc45878217c2d3d6f0677052c98eb779b3f0a830a3d6768cade002f9ee44d9cd672ff44793765578e2b3965: 
+        anujashah_com_c3f61_b3965_1643816500_15d5716ddd2092cc6fc88a1eeeb7445b: ~
+      c977ceba7e2117c95188997242153ef8588cefb29f0ad3951a4bd370674e25e1479112a86973590cc69cf86b66370167243498454506f3d5cb6fbd661ca6424e9911100420d71d22e469bd43c281a27dc5bec052d5aa084aab817b48b3d82bcdde7e8b7bb515c8cfd6a34483a8de1c97da8a4fe6da510a98d5fe513d70bd5e7500386c2d0bde6e2b1442d03db45c9ec4cab843aa936e36647b2c770109262d08fb584579b74c39992a4cc5f85abc1ea45a3b3831f5f3e3f7fde47a049b93214532063219dfa7ba4ff019d2794c3964e5e52f7c67772969c4c61a486f763d88f818c36a2bd7d3984571ea6e5378733b8146948f4f83ad30b346795d677dbe4603: 
+        cpcontacts_anujashah_com_c977c_e4603_1654360498_f6d14eb85f83718c8859a4449aeeb858: ~
+    subject.commonName: 
+      anujashah.com: 
+        anujashah_com_c3f61_b3965_1643816500_15d5716ddd2092cc6fc88a1eeeb7445b: ~
+      autodiscover.anujashah.com: 
+        autodiscover_anujashah_com_be924_ab067_1649090783_e2ab9a889a8f85c38e19ea28eb543ebf: ~
+      cpcontacts.anujashah.com: 
+        cpcontacts_anujashah_com_c977c_e4603_1654360498_f6d14eb85f83718c8859a4449aeeb858: ~
+      www.californiacondor.anujashah.com: 
+        www_californiacondor_anujashah_com_b73b0_ef577_1643587186_89735402769bb31e0202f6dad05fb764: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “anujashah.com” 1636044102.0: anujashah_com_c3f61_b3965_1643816500_15d5716ddd2092cc6fc88a1eeeb7445b
+      Cert for “anujashah.com” 1641318385.0: autodiscover_anujashah_com_be924_ab067_1649090783_e2ab9a889a8f85c38e19ea28eb543ebf
+      Cert for “anujashah.com” 1646588099.0: cpcontacts_anujashah_com_c977c_e4603_1654360498_f6d14eb85f83718c8859a4449aeeb858
+      Cert for “californiacondor.anujashah.com”: www_californiacondor_anujashah_com_b73b0_ef577_1643587186_89735402769bb31e0202f6dad05fb764
+  key: 
+    friendly_name: 
+      Key for “anujashah.com” 1636044102.0: c3f61_b3965_36692b4b4f84f23fda41758877e73380
+      Key for “anujashah.com” 1641318385.0: be924_ab067_a1d351ddd9ed7ec5f2bd6d71bf9f6f2e
+      Key for “anujashah.com” 1646588099.0: c977c_e4603_cf0e4bc5cb97429c99e21c1dbadc4fe2
+      Key for “californiacondor.anujashah.com”: b73b0_ef577_4367e50c84907a0bd0b7f79a6b251950
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      b73b0b7fd098a0440a8e47177adcfb903ef5af7165a87e8cc4774c288d1d0f8f4b60b728a8aa19eee008184f24f0e796ca2296b192103f4aa9c5676f1176cc95b6636b761ad68bc739da32d52e7ba46aaeb8b009e2d29872daf116a631bebed9e50f0515df73b124985db43b976a71817b14b8ac212311e81a75941b514f5fe3a0e829e4ac0d64aad21642c2158210a3bc61efe3608746f881cee97d5a993a417011c36b8cb95e4c86560ff5eba4ab37c209c5e9b401fde5c2f2973e9f018a8cf5007a81ab5d3cb8af24ba9665f1e6142f9357fa81247a8ab51d297018ddf199ca2001706cdb1b3abc298561979ac7199723b055bef59b677454eda94cdef577: b73b0_ef577_4367e50c84907a0bd0b7f79a6b251950
+      be92472e7d4deb84ca6c17830d58a13f02791c43fae9ede02c82079713b64c1c5d7adf606cfdb389af0f01ff761b2e1cc8fc7ce4a7cfbffda46c6aed5fadfdd456376d7ddd19e9a25031a98d3238aea96e6cd2bba0cf41f566ef40759fd86547ecf18bfd4aa3e72a80500461b8c2f01fdf340924a5b77c8a0b7448d72246f0d1d86c97c6aecc4fc58a48e3d180cb97ef07a24ee60949bcafdc007fae642165d5734fed264ad77f18bf5a0b56d3836399a7055f36905af60fffdcf2259df37ba1593dbc125c6f082234a486f5c60f2986a0fda7548379e88358a53586beef1e0596b074762371aa1d87617477a8f99c76e815d083f5f4206baff31700bd1ab067: be924_ab067_a1d351ddd9ed7ec5f2bd6d71bf9f6f2e
+      c3f615656b3a4f449bb8187871c7a90777dc4025a41974daacd02718f91cdd9c0881cbcbbf6266d649eb6724d459fded20be5151eed22792c4589ae3151ebdc1c00a8f8443176be960190bb2b3aaafe0ad94d7ce36fec92dc6f4b45239dfbeb58c1869329bce1e07fa5d8866b36434e77d7a96a891832cd7faee94193ca98a8927657a8ae65e723cc72995bb010dbf255f532c3f356117faa1f64011ee85b76fa2faa2745cdefb9cb1e36e51f31af8ee7e855e56dcd645fd4031b16ec99b131ddc132528cfcfa55a18039958d3bf6490d7cb92ba2dc45878217c2d3d6f0677052c98eb779b3f0a830a3d6768cade002f9ee44d9cd672ff44793765578e2b3965: c3f61_b3965_36692b4b4f84f23fda41758877e73380
+      c977ceba7e2117c95188997242153ef8588cefb29f0ad3951a4bd370674e25e1479112a86973590cc69cf86b66370167243498454506f3d5cb6fbd661ca6424e9911100420d71d22e469bd43c281a27dc5bec052d5aa084aab817b48b3d82bcdde7e8b7bb515c8cfd6a34483a8de1c97da8a4fe6da510a98d5fe513d70bd5e7500386c2d0bde6e2b1442d03db45c9ec4cab843aa936e36647b2c770109262d08fb584579b74c39992a4cc5f85abc1ea45a3b3831f5f3e3f7fde47a049b93214532063219dfa7ba4ff019d2794c3964e5e52f7c67772969c4c61a486f763d88f818c36a2bd7d3984571ea6e5378733b8146948f4f83ad30b346795d677dbe4603: c977c_e4603_cf0e4bc5cb97429c99e21c1dbadc4fe2

@@ -1,0 +1,10 @@
+---
+/home4/anujasha/public_html:
+  db: anujasha_WPNLW
+  domain: anujashah.com
+  hostname: box5797.bluehost.com
+  path: /home4/anujasha/public_html
+  table: wor_options
+  type: wordpress
+  user: anujasha
+  version: 5.8.1
