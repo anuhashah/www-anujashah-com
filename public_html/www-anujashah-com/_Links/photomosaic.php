@@ -7,7 +7,7 @@
 		?>
 
 		<!-- linking individual CSS file -->
-		<link rel="stylesheet" href="../_CSS/resume.css">
+		<link rel="stylesheet" href="../_CSS/photomosaic.css">
 
 	</head>
 
