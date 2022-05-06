@@ -5,8 +5,13 @@
 	font-size: 20px;
 }
 
-.center {
-	object-fit: cover;
+.projects
+{
 	display: flex;
   	justify-content: center;
+}
+
+.center
+{
+	object-fit: cover;
 }
