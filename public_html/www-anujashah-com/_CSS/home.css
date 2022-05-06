@@ -14,4 +14,12 @@
 .center
 {
 	object-fit: cover;
+	filter: gray; /* IE6-9 */
+	-webkit-filter: grayscale(100%); /* Chrome 19+ & Safari 6+ */
+}
+
+.center:hover
+{
+	object-fit: cover;
+	-webkit-filter: grayscale(0%); 
 }
