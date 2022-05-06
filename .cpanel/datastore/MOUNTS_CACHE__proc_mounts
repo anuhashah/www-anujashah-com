@@ -40,6 +40,3 @@ binfmt_misc /proc/sys/fs/binfmt_misc binfmt_misc rw,relatime 0 0
 50.6.3.45:/backup3 /backup3 nfs4 ro,sync,nosuid,nodev,noexec,noatime,vers=4.1,rsize=32768,wsize=32768,namlen=255,soft,proto=tcp,timeo=20,retrans=2,sec=sys,clientaddr=162.241.253.141,local_lock=none,addr=50.6.3.45 0 0
 50.6.3.45:/backup4 /backup4 nfs4 ro,sync,nosuid,nodev,noexec,noatime,vers=4.1,rsize=32768,wsize=32768,namlen=255,soft,proto=tcp,timeo=20,retrans=2,sec=sys,clientaddr=162.241.253.141,local_lock=none,addr=50.6.3.45 0 0
 50.6.3.45:/backup1 /backup1 nfs4 ro,sync,nosuid,nodev,noexec,noatime,vers=4.1,rsize=32768,wsize=32768,namlen=255,soft,proto=tcp,timeo=20,retrans=2,sec=sys,clientaddr=162.241.253.141,local_lock=none,addr=50.6.3.45 0 0
-tmpfs /run/user/2181 tmpfs rw,nosuid,nodev,relatime,size=6038732k,mode=700,uid=2181,gid=2183 0 0
-tmpfs /run/user/2547 tmpfs rw,nosuid,nodev,relatime,size=6038732k,mode=700,uid=2547,gid=2549 0 0
-tmpfs /run/user/2192 tmpfs rw,nosuid,nodev,relatime,size=6038732k,mode=700,uid=2192,gid=2194 0 0
