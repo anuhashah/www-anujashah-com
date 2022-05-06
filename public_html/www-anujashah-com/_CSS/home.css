@@ -7,5 +7,6 @@
 
 .center {
 	object-fit: cover;
-	text-align:  center;
+	display: flex;
+  	justify-content: center;
 }
