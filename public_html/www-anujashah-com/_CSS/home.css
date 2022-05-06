@@ -1,7 +1,13 @@
-.scrolltest
+.page
 {
-	padding: 150px 300px;
-	text-align: justify;
-	font-size: 12px;
-	text-transform: uppercase;
+	padding: 150px 20px;
+	text-align: center;
+	font-size: 20px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
