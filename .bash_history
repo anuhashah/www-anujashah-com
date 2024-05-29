@@ -326,3 +326,27 @@ ls
 git -v
 #1716941988
 git remote
+#1716942049
+git add --ignore-errors .
+#1716942149
+git add .
+#1716942154
+git reset anujasha_WPNLW.1633099231.sql.gz
+#1716942160
+git status
+#1716942169
+git commit -m "all"
+#1716942175
+git push origin master 
+#1716942768
+git add $(ls | grep -v 'anujasha_WPNLW.1633099231.sql.gz')
+#1716942776
+git add .
+#1716942779
+git reset anujasha_WPNLW.1633099231.sql.gz
+#1716942793
+git status
+#1716942811
+git add public_html/www-anujashah-com/_Includes/footer.html
+#1716942815
+git status
