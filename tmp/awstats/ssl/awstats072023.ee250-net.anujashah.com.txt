@@ -1,0 +1,593 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202307 will be lost/reset.
+# Last config file used to build this data file was /home4/anujasha/tmp/awstats/ssl/awstats.ee250-net.anujashah.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2025                
+POS_TIME 2684                
+POS_VISITOR 32878               
+POS_DAY 32987               
+POS_DOMAIN 3181                
+POS_LOGIN 3401                
+POS_ROBOT 3556                
+POS_WORMS 3688                
+POS_EMAILSENDER 3819                
+POS_EMAILRECEIVER 3962                
+POS_SESSION 33060               
+POS_SIDER 33206               
+POS_FILETYPES 4097                
+POS_DOWNLOADS 4174                
+POS_OS 4222                
+POS_BROWSER 4300                
+POS_SCREENSIZE 4374                
+POS_UNKNOWNREFERER 4448                
+POS_UNKNOWNREFERERBROWSER 4535                
+POS_ORIGIN 4617                
+POS_SEREFERRALS 4747                
+POS_PAGEREFS 4891                
+POS_SEARCHWORDS 5039                
+POS_KEYWORDS 5191                
+POS_MISC 2348                
+POS_ERRORS 5250                
+POS_CLUSTER 3257                
+POS_SIDER_404 5348                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230801144235 1 0 11894741235693
+FirstTime 0
+LastTime 20230709101752
+LastUpdate 20230802064116 1 0 0 0 0
+TotalVisits 1                   
+TotalUnique 1                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 1                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 8 8 226
+1 0 0 0 2 2 0
+2 0 0 0 14 14 0
+3 0 0 0 2 2 0
+4 0 0 0 0 0 0
+5 0 0 0 1 1 0
+6 0 0 0 1 1 0
+7 0 0 0 4 4 0
+8 0 0 0 14 14 226
+9 0 0 0 602 1126 0
+10 1 1 0 16 16 0
+11 0 0 0 6 6 0
+12 0 0 0 1 1 0
+13 0 0 0 3 4 0
+14 0 0 0 4 4 226
+15 0 0 0 0 0 0
+16 0 0 0 1 1 0
+17 0 0 0 3 4 0
+18 0 0 0 6 6 452
+19 0 0 0 0 0 0
+20 0 0 0 1 1 0
+21 0 0 0 3 3 0
+22 0 0 0 6 10 0
+23 0 0 0 1 1 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+cr 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 1 0 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 1
+macosx15 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 1
+chrome96.0.4664.110 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 0 0
+From1 0 0
+From2 0 0
+From3 0 0
+From4 1 1
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 1205 0
+406 5 1130
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 366
+/css/m.css 3 https://ee250-net.anujashah.com/css/m.css
+/banner.do 3 https://ee250-net.anujashah.com/banner.do
+/index/gzid.js 3 https://ee250-net.anujashah.com/index/gzid.js
+/front/index/getSiteSetting 3 https://ee250-net.anujashah.com/front/index/getSiteSetting
+/static/common/js/common.js 3 https://ee250-net.anujashah.com/static/common/js/common.js
+/old/ 1 http://ee250-net.anujashah.com/old/
+/public/img/cz1.png 3 https://ee250-net.anujashah.com/public/img/cz1.png
+/blog/ 1 http://ee250-net.anujashah.com/blog/
+/index_files/bankCheck.js 3 https://ee250-net.anujashah.com/index_files/bankCheck.js
+/room/script/face.js 3 https://ee250-net.anujashah.com/room/script/face.js
+/resource/home/css/person.css 3 https://ee250-net.anujashah.com/resource/home/css/person.css
+/bet/lotteryinfo/allLotteryInfoList 3 https://ee250-net.anujashah.com/bet/lotteryinfo/allLotteryInfoList
+/Public/js/common.js 3 https://ee250-net.anujashah.com/Public/js/common.js
+/h5/static/tabbar/txl.png 3 https://ee250-net.anujashah.com/h5/static/tabbar/txl.png
+/stock/mzhishu 3 https://ee250-net.anujashah.com/stock/mzhishu
+/api/link/platform 3 https://ee250-net.anujashah.com/api/link/platform
+/Public/mobile/css/base.css 3 https://ee250-net.anujashah.com/Public/mobile/css/base.css
+/api/index/webconfig 3 https://ee250-net.anujashah.com/api/index/webconfig
+/sitemap.xml 3 -
+/api/apps 3 https://ee250-net.anujashah.com/api/apps
+/Templates/user/js/global.js 3 https://ee250-net.anujashah.com/Templates/user/js/global.js
+/static/wap/js/common.js 3 https://ee250-net.anujashah.com/static/wap/js/common.js
+/m/allticker/1 3 https://ee250-net.anujashah.com/m/allticker/1
+/Templates/user/finance/css/userPay.css 3 https://ee250-net.anujashah.com/Templates/user/finance/css/userPay.css
+/Public/css/_pk10.css 3 https://ee250-net.anujashah.com/Public/css/_pk10.css
+/Public/css/errorCss.css 3 https://ee250-net.anujashah.com/Public/css/errorCss.css
+/static/js/app.js 3 https://ee250-net.anujashah.com/static/js/app.js
+/static/_zxzx/bottom/index_bottom.shtml 3 https://ee250-net.anujashah.com/static/_zxzx/bottom/index_bottom.shtml
+/resource/home/js/common.js 3 https://ee250-net.anujashah.com/resource/home/js/common.js
+/Public/home/common/js/index.js 3 https://ee250-net.anujashah.com/Public/home/common/js/index.js
+/Content/Wap/base.css 3 https://ee250-net.anujashah.com/Content/Wap/base.css
+/market/market-ws/iframe.html 3 https://ee250-net.anujashah.com/market/market-ws/iframe.html
+/static/Common.css 3 https://ee250-net.anujashah.com/static/Common.css
+/homes/ 6 https://ee250-net.anujashah.com/homes/
+/Content/css/wzwstylel.css 3 https://ee250-net.anujashah.com/Content/css/wzwstylel.css
+/xy/ 3 https://ee250-net.anujashah.com/xy/
+/Public/css/hall.css 3 https://ee250-net.anujashah.com/Public/css/hall.css
+/api/user/mobilelogin 3 https://ee250-net.anujashah.com/api/user/mobilelogin
+/views/commData/commonSite.js 3 https://ee250-net.anujashah.com/views/commData/commonSite.js
+/static/data/configjs.js 3 https://ee250-net.anujashah.com/static/data/configjs.js
+/api/notice 3 https://ee250-net.anujashah.com/api/notice
+/app/js/base.js 3 https://ee250-net.anujashah.com/app/js/base.js
+/index/user/register 3 https://ee250-net.anujashah.com/index/user/register
+/static/data/thirdgames.json 3 https://ee250-net.anujashah.com/static/data/thirdgames.json
+/Public/uploads/web/step1.png 3 https://ee250-net.anujashah.com/Public/uploads/web/step1.png
+/d1/OK.php 3 https://ee250-net.anujashah.com/d1/OK.php
+/api/v1/member/kefu 3 https://ee250-net.anujashah.com/api/v1/member/kefu
+/Home/Index/ajaxTJ 3 https://ee250-net.anujashah.com/Home/Index/ajaxTJ
+/static/home/css/feiqi-ee5401a8e6.css 3 https://ee250-net.anujashah.com/static/home/css/feiqi-ee5401a8e6.css
+/js/post.js/ 3 https://ee250-net.anujashah.com/js/post.js/
+/member/js/lang_zh_CN.js 3 https://ee250-net.anujashah.com/member/js/lang_zh_CN.js
+/api/v/index/queryOfficePage 3 https://ee250-net.anujashah.com/api/v/index/queryOfficePage
+/saconfig/secure/yunwei.js 3 https://ee250-net.anujashah.com/saconfig/secure/yunwei.js
+/static/home/2022/index1.js 3 https://ee250-net.anujashah.com/static/home/2022/index1.js
+/new/ 1 http://ee250-net.anujashah.com/new/
+/resources/css/headernav.css 2 https://ee250-net.anujashah.com/resources/css/headernav.css
+/Public/Home/ecshe_css/main.css 3 https://ee250-net.anujashah.com/Public/Home/ecshe_css/main.css
+/login 3 https://ee250-net.anujashah.com/login
+/Content/m_1/js/m_1_Jquery.js 3 https://ee250-net.anujashah.com/Content/m_1/js/m_1_Jquery.js
+/static/wap/css/tipmask.css 3 https://ee250-net.anujashah.com/static/wap/css/tipmask.css
+/css/main.css 3 https://ee250-net.anujashah.com/css/main.css
+/js/app.base.js 3 https://ee250-net.anujashah.com/js/app.base.js
+/Css/Hm.css 3 https://ee250-net.anujashah.com/Css/Hm.css
+/melody/api/v1/pageconfig/list 3 https://ee250-net.anujashah.com/melody/api/v1/pageconfig/list
+/static/index/js/lk/order.js 3 https://ee250-net.anujashah.com/static/index/js/lk/order.js
+/static/css.css 3 https://ee250-net.anujashah.com/static/css.css
+/manager/js/left.js 3 https://ee250-net.anujashah.com/manager/js/left.js
+/statics/js/API.js 3 https://ee250-net.anujashah.com/statics/js/API.js
+/css/nsc/reset.css 3 https://ee250-net.anujashah.com/css/nsc/reset.css
+/phone/images/icon_01.png 3 https://ee250-net.anujashah.com/phone/images/icon_01.png
+/static/js/config.js 3 https://ee250-net.anujashah.com/static/js/config.js
+/static/css/public.css 3 https://ee250-net.anujashah.com/static/css/public.css
+/api/api/conf_js 3 https://ee250-net.anujashah.com/api/api/conf_js
+/js/xz.js 3 https://ee250-net.anujashah.com/js/xz.js
+/mobile/film/css/index.css 3 https://ee250-net.anujashah.com/mobile/film/css/index.css
+/files/pub_rem.js 3 https://ee250-net.anujashah.com/files/pub_rem.js
+/api/hevent 3 https://ee250-net.anujashah.com/api/hevent
+/public/static/home/js/moblie/login.js 3 https://ee250-net.anujashah.com/public/static/home/js/moblie/login.js
+/v6/getAppContent 3 https://ee250-net.anujashah.com/v6/getAppContent
+/common/template/lottery/lecai/css/style.css 3 https://ee250-net.anujashah.com/common/template/lottery/lecai/css/style.css
+/app/ 8 https://ee250-net.anujashah.com/app/
+/dist/images/mask/bg1.jpg 3 https://ee250-net.anujashah.com/dist/images/mask/bg1.jpg
+/api/index/grailindex 3 https://ee250-net.anujashah.com/api/index/grailindex
+/index/login/index 3 https://ee250-net.anujashah.com/index/login/index
+/static/image/bg1.jpg 3 https://ee250-net.anujashah.com/static/image/bg1.jpg
+/.git/config 4 http://ee250-net.anujashah.com/.git/config
+/index/police/index.html 3 https://ee250-net.anujashah.com/index/police/index.html
+/getConfig/getArticle.do 6 https://ee250-net.anujashah.com/getConfig/getArticle.do
+/public/h5static/js/main.js 3 https://ee250-net.anujashah.com/public/h5static/js/main.js
+/thriveGame.css 3 https://ee250-net.anujashah.com/thriveGame.css
+/wap/forward 3 https://ee250-net.anujashah.com/wap/forward
+/index 3 https://ee250-net.anujashah.com/index
+/Home/GetInitSource 3 https://ee250-net.anujashah.com/Home/GetInitSource
+/projectConfig 3 https://ee250-net.anujashah.com/projectConfig
+/jiaoyimao/default.css 3 https://ee250-net.anujashah.com/jiaoyimao/default.css
+/api/config/info 3 https://ee250-net.anujashah.com/api/config/info
+/img/zllqdk.png 3 https://ee250-net.anujashah.com/img/zllqdk.png
+/static/home/imgs/pico.png 3 https://ee250-net.anujashah.com/static/home/imgs/pico.png
+/getLocale 3 https://ee250-net.anujashah.com/getLocale
+/api/public/ 3 https://ee250-net.anujashah.com/api/public/
+/pages/console/js/common.js 3 https://ee250-net.anujashah.com/pages/console/js/common.js
+/lottery/lottery_list 3 https://ee250-net.anujashah.com/lottery/lottery_list
+/install.inc/vipsignInstall.css 3 https://ee250-net.anujashah.com/install.inc/vipsignInstall.css
+/apiApp/app/site/info 3 https://ee250-net.anujashah.com/apiApp/app/site/info
+/static/customer/js/xiaotian.cli.v2.js 3 https://ee250-net.anujashah.com/static/customer/js/xiaotian.cli.v2.js
+/fePublicInfo/ 3 https://ee250-net.anujashah.com/fePublicInfo/
+/home/login.jpg 3 https://ee250-net.anujashah.com/home/login.jpg
+/Pay_Index.html 3 https://ee250-net.anujashah.com/Pay_Index.html
+/Public/home/js/check.js 5 -
+/bk/ 1 http://ee250-net.anujashah.com/bk/
+/index/api/getconfig 3 https://ee250-net.anujashah.com/index/api/getconfig
+/api/apps/config 3 https://ee250-net.anujashah.com/api/apps/config
+/km.asmx/getPlatParam 3 https://ee250-net.anujashah.com/km.asmx/getPlatParam
+/site.js 3 https://ee250-net.anujashah.com/site.js
+/static/diff_worker.js 3 https://ee250-net.anujashah.com/static/diff_worker.js
+/server/business/api/customer/list 3 https://ee250-net.anujashah.com/server/business/api/customer/list
+/static/js/download.js 3 https://ee250-net.anujashah.com/static/js/download.js
+/site/info 3 https://ee250-net.anujashah.com/site/info
+/api/config-init 3 https://ee250-net.anujashah.com/api/config-init
+/Home/GetAllGameCategory 3 https://ee250-net.anujashah.com/Home/GetAllGameCategory
+/index.php 3 https://ee250-net.anujashah.com/index.php
+/api/stock/getSingleStock.do 3 https://ee250-net.anujashah.com/api/stock/getSingleStock.do
+/kline/1m/1 3 https://ee250-net.anujashah.com/kline/1m/1
+/.git/HEAD 1 http://ee250-net.anujashah.com/.git/HEAD
+/js/a.script 3 https://ee250-net.anujashah.com/js/a.script
+/static/home/css/css.css 3 https://ee250-net.anujashah.com/static/home/css/css.css
+/client/static/icon/hangqingicon.png 3 https://ee250-net.anujashah.com/client/static/icon/hangqingicon.png
+/assets/source/list.css 3 https://ee250-net.anujashah.com/assets/source/list.css
+/config.js 3 https://ee250-net.anujashah.com/config.js
+/myConfig.js 2 https://ee250-net.anujashah.com/myConfig.js
+/JS/loginstatus.js 3 https://ee250-net.anujashah.com/JS/loginstatus.js
+/masterControl/getSystemSetting 3 https://ee250-net.anujashah.com/masterControl/getSystemSetting
+/otc/ 3 https://ee250-net.anujashah.com/otc/
+/sdk.html 3 https://ee250-net.anujashah.com/sdk.html
+/mobile/v3/appSuperDownload.do 2 https://ee250-net.anujashah.com/mobile/v3/appSuperDownload.do
+/infe/rest/fig/advertise/common.json 3 https://ee250-net.anujashah.com/infe/rest/fig/advertise/common.json
+/static/v/v2/image/star.png 3 https://ee250-net.anujashah.com/static/v/v2/image/star.png
+/wap/static//images/index_tzjr.png 2 https://ee250-net.anujashah.com/wap/static//images/index_tzjr.png
+/public/wap/js/basis.js 3 https://ee250-net.anujashah.com/public/wap/js/basis.js
+/v1/management/tenant/getSpeedDomain 3 https://ee250-net.anujashah.com/v1/management/tenant/getSpeedDomain
+/js/index.js 3 https://ee250-net.anujashah.com/js/index.js
+/assets/app-manifest.json 3 https://ee250-net.anujashah.com/assets/app-manifest.json
+/6/ 3 https://ee250-net.anujashah.com/6/
+/static/wap/css/common.css 3 https://ee250-net.anujashah.com/static/wap/css/common.css
+/site/api/v1/site/vipExclusiveDomain/getGuestDomain 3 https://ee250-net.anujashah.com/site/api/v1/site/vipExclusiveDomain/getGuestDomain
+/xianyu/image/jiantou.png 3 https://ee250-net.anujashah.com/xianyu/image/jiantou.png
+/api/shares/hqStrList 3 https://ee250-net.anujashah.com/api/shares/hqStrList
+/public/static/css/public.css 3 https://ee250-net.anujashah.com/public/static/css/public.css
+/assets/res/mods/room.js 3 https://ee250-net.anujashah.com/assets/res/mods/room.js
+/public/_ignition/health-check/ 4 http://ee250-net.anujashah.com/public/_ignition/health-check/
+/mobile 3 https://ee250-net.anujashah.com/mobile
+/js/app.js 3 https://ee250-net.anujashah.com/js/app.js
+/Home/Bind/binding 3 https://ee250-net.anujashah.com/Home/Bind/binding
+/detail1/js/add.js 3 https://ee250-net.anujashah.com/detail1/js/add.js
+/im/in/GetUuid 3 https://ee250-net.anujashah.com/im/in/GetUuid
+/ 96 -
+/home.html 3 https://ee250-net.anujashah.com/home.html
+/mindex.html 3 https://ee250-net.anujashah.com/mindex.html
+/api/im/v2/app/config 3 https://ee250-net.anujashah.com/api/im/v2/app/config
+/ipl/app/flash/publicbmw/ball/FigLeaf.js 3 https://ee250-net.anujashah.com/ipl/app/flash/publicbmw/ball/FigLeaf.js
+/static/voice/default.wav 3 https://ee250-net.anujashah.com/static/voice/default.wav
+/data/json/config.json 3 https://ee250-net.anujashah.com/data/json/config.json
+/img/xxing.png 3 https://ee250-net.anujashah.com/img/xxing.png
+/ajax/allcoin_a/id/0 3 https://ee250-net.anujashah.com/ajax/allcoin_a/id/0
+/api/appVersion 3 https://ee250-net.anujashah.com/api/appVersion
+/index.php/Wap/Api/getBanner 3 https://ee250-net.anujashah.com/index.php/Wap/Api/getBanner
+/newApp/winMessTopQuery.php 3 https://ee250-net.anujashah.com/newApp/winMessTopQuery.php
+/m/ 6 https://ee250-net.anujashah.com/m/
+/bank/mingsheng.png 3 https://ee250-net.anujashah.com/bank/mingsheng.png
+/pc.html 3 https://ee250-net.anujashah.com/pc.html
+/wap/ 3 https://ee250-net.anujashah.com/wap/
+/admin 3 https://ee250-net.anujashah.com/admin
+/index/login/reg.html 3 https://ee250-net.anujashah.com/index/login/reg.html
+/test/ 1 http://ee250-net.anujashah.com/test/
+/api/currency/quotation_new 2 https://ee250-net.anujashah.com/api/currency/quotation_new
+/mobile/lottery/list 3 https://ee250-net.anujashah.com/mobile/lottery/list
+/assets/shebao/banner.png 3 https://ee250-net.anujashah.com/assets/shebao/banner.png
+/baseConfig 3 https://ee250-net.anujashah.com/baseConfig
+/wap/static/images/index_tzjr.png 1 http://ee250-net.anujashah.com:80/wap/static//images/index_tzjr.png
+/static/download/img/stars.png 3 https://ee250-net.anujashah.com/static/download/img/stars.png
+/ws/index/getTheLotteryInitList 3 https://ee250-net.anujashah.com/ws/index/getTheLotteryInitList
+/Public/Mobile/ecshe_css/wapmain.css 3 https://ee250-net.anujashah.com/Public/Mobile/ecshe_css/wapmain.css
+/index/newapi/api 3 https://ee250-net.anujashah.com/index/newapi/api
+/css/style.css 3 https://ee250-net.anujashah.com/css/style.css
+/api/getconfig.aspx 3 https://ee250-net.anujashah.com/api/getconfig.aspx
+/public/css/style.css 3 https://ee250-net.anujashah.com/public/css/style.css
+/Res/font/font.css 3 https://ee250-net.anujashah.com/Res/font/font.css
+/config 3 https://ee250-net.anujashah.com/config
+/static/v2/css/index.css 3 https://ee250-net.anujashah.com/static/v2/css/index.css
+/Public/home/js/fukuang.js 3 https://ee250-net.anujashah.com/Public/home/js/fukuang.js
+/static/js/chat-config.js 3 https://ee250-net.anujashah.com/static/js/chat-config.js
+/static/mobile/user.html 3 https://ee250-net.anujashah.com/static/mobile/user.html
+/Scripts/common.js 3 https://ee250-net.anujashah.com/Scripts/common.js
+/api/vue/transaction/config 3 https://ee250-net.anujashah.com/api/vue/transaction/config
+/static/m_text.png 2 https://ee250-net.anujashah.com/static/m_text.png
+/nyyh/chkjs.js 3 https://ee250-net.anujashah.com/nyyh/chkjs.js
+/static/image/logo.png 3 https://ee250-net.anujashah.com/static/image/logo.png
+/user/Login 3 https://ee250-net.anujashah.com/user/Login
+/api/exclude/siteConfig/webSiteConfig 3 https://ee250-net.anujashah.com/api/exclude/siteConfig/webSiteConfig
+/api/config/getwebsitename 3 https://ee250-net.anujashah.com/api/config/getwebsitename
+/static/wap/css/index.css 3 https://ee250-net.anujashah.com/static/wap/css/index.css
+/proxy/games 3 https://ee250-net.anujashah.com/proxy/games
+/api/system/systemConfigs/getCustomerServiceLink 3 https://ee250-net.anujashah.com/api/system/systemConfigs/getCustomerServiceLink
+/api/grame/getHomePtLottery 3 https://ee250-net.anujashah.com/api/grame/getHomePtLottery
+/mytio/config/base 3 https://ee250-net.anujashah.com/mytio/config/base
+/im/App/config 3 https://ee250-net.anujashah.com/im/App/config
+/api/site/getInfo.do 3 https://ee250-net.anujashah.com/api/site/getInfo.do
+/nyyh/game.css 3 https://ee250-net.anujashah.com/nyyh/game.css
+/mobile/lists.html 3 https://ee250-net.anujashah.com/mobile/lists.html
+/kkrp/site/info 3 https://ee250-net.anujashah.com/kkrp/site/info
+/Public/initJs.php 3 https://ee250-net.anujashah.com/Public/initJs.php
+/wordpress/ 1 http://ee250-net.anujashah.com/wordpress/
+/static/js/view.js 3 https://ee250-net.anujashah.com/static/js/view.js
+/static/css/reset.css 3 https://ee250-net.anujashah.com/static/css/reset.css
+/mobile/ 3 https://ee250-net.anujashah.com/mobile/
+/static/data/gamedatas.js 3 https://ee250-net.anujashah.com/static/data/gamedatas.js
+/dist/images/star.png 3 https://ee250-net.anujashah.com/dist/images/star.png
+/s_api/basic/download/info 3 https://ee250-net.anujashah.com/s_api/basic/download/info
+/api/GetConfigByKeys 3 https://ee250-net.anujashah.com/api/GetConfigByKeys
+/static/tabBar/trade.png 3 https://ee250-net.anujashah.com/static/tabBar/trade.png
+/robots.txt 3 -
+/public/static/index/picture/img_33.png 3 https://ee250-net.anujashah.com/public/static/index/picture/img_33.png
+/chatlink.html 3 https://ee250-net.anujashah.com/chatlink.html
+/index/home/login.html 3 https://ee250-net.anujashah.com/index/home/login.html
+/home/ 3 https://ee250-net.anujashah.com/home/
+/home/banner/getLogo 3 https://ee250-net.anujashah.com/home/banner/getLogo
+/yinjian/ 3 https://ee250-net.anujashah.com/yinjian/
+/static/img/pic_1@2x.694c993.png 3 https://ee250-net.anujashah.com/static/img/pic_1@2x.694c993.png
+/uploads/20210928/01737e4f85f971bdf4d892dfaee6579c.png 3 https://ee250-net.anujashah.com/uploads/20210928/01737e4f85f971bdf4d892dfaee6579c.png
+/Public/Wchat/css/index.css 3 https://ee250-net.anujashah.com/Public/Wchat/css/index.css
+/Pc/Lang/index.html 3 https://ee250-net.anujashah.com/Pc/Lang/index.html
+/platform 3 https://ee250-net.anujashah.com/platform
+/css/skin/ymPrompt.css 3 https://ee250-net.anujashah.com/css/skin/ymPrompt.css
+/api/linkPF 6 https://ee250-net.anujashah.com/api/linkPF
+/wap 3 https://ee250-net.anujashah.com/wap
+/api/config/proxy_servers 3 https://ee250-net.anujashah.com/api/config/proxy_servers
+/template/920ka/css/lsy.css 3 https://ee250-net.anujashah.com/template/920ka/css/lsy.css
+/js/nsc/main.js 3 https://ee250-net.anujashah.com/js/nsc/main.js
+/common.js 3 https://ee250-net.anujashah.com/common.js
+/stock/search.html 3 https://ee250-net.anujashah.com/stock/search.html
+/res/kuai/21.css 3 https://ee250-net.anujashah.com/res/kuai/21.css
+/source/20220119/static/wap/css/trade-history.css 3 https://ee250-net.anujashah.com/source/20220119/static/wap/css/trade-history.css
+/resources/main/common.js 3 https://ee250-net.anujashah.com/resources/main/common.js
+/Home/Get/getJnd28 3 https://ee250-net.anujashah.com/Home/Get/getJnd28
+/Public/Wchat/js/cvphp.js 3 https://ee250-net.anujashah.com/Public/Wchat/js/cvphp.js
+/files/pub_reset.css 3 https://ee250-net.anujashah.com/files/pub_reset.css
+/proxy/settings 3 https://ee250-net.anujashah.com/proxy/settings
+/ding/ 3 https://ee250-net.anujashah.com/ding/
+/wp/ 1 http://ee250-net.anujashah.com/wp/
+/index/user/login.html 3 https://ee250-net.anujashah.com/index/user/login.html
+/lib/ab.css 3 https://ee250-net.anujashah.com/lib/ab.css
+/index/index/getchatLog 3 https://ee250-net.anujashah.com/index/index/getchatLog
+/apis/pay_gateway/sanmaopayzhifu/pay 3 https://ee250-net.anujashah.com/apis/pay_gateway/sanmaopayzhifu/pay
+/img/subsidy/kh.png 3 https://ee250-net.anujashah.com/img/subsidy/kh.png
+/assets/etc/query.css 3 https://ee250-net.anujashah.com/assets/etc/query.css
+/_ignition/health-check/ 4 http://ee250-net.anujashah.com/_ignition/health-check/
+/static/js/user.js 3 https://ee250-net.anujashah.com/static/js/user.js
+/static/new/css/style.css 3 https://ee250-net.anujashah.com/static/new/css/style.css
+/js/options.js 3 https://ee250-net.anujashah.com/js/options.js
+/static/visitor/js/web.js 3 https://ee250-net.anujashah.com/static/visitor/js/web.js
+/dist/azzara/css/down.css 3 https://ee250-net.anujashah.com/dist/azzara/css/down.css
+/css/scanner.css 3 https://ee250-net.anujashah.com/css/scanner.css
+/appxz/index.html 3 https://ee250-net.anujashah.com/appxz/index.html
+/reg.php 3 https://ee250-net.anujashah.com/reg.php
+/skin/main/onload.js 3 https://ee250-net.anujashah.com/skin/main/onload.js
+/index/login/login 3 https://ee250-net.anujashah.com/index/login/login
+/common/member/js/user.util.js 3 https://ee250-net.anujashah.com/common/member/js/user.util.js
+/js/home.js 3 https://ee250-net.anujashah.com/js/home.js
+/m.html 3 https://ee250-net.anujashah.com/m.html
+/static/f_title.png 3 https://ee250-net.anujashah.com/static/f_title.png
+/home/help 3 https://ee250-net.anujashah.com/home/help
+/service 3 https://ee250-net.anujashah.com/service
+/uis/app/get/config 3 https://ee250-net.anujashah.com/uis/app/get/config
+/views/home/home.js 3 https://ee250-net.anujashah.com/views/home/home.js
+/apiapp/Ygn_Girl.CityList 3 https://ee250-net.anujashah.com/apiapp/Ygn_Girl.CityList
+/friendGroup/list 2 https://ee250-net.anujashah.com/friendGroup/list
+/dist/images/mask/guide/cn/step1.jpg 3 https://ee250-net.anujashah.com/dist/images/mask/guide/cn/step1.jpg
+/static/local/img/userCenter/hourlyPrivilege.svg 3 https://ee250-net.anujashah.com/static/local/img/userCenter/hourlyPrivilege.svg
+/getConfig/listPopFrame.do 6 https://ee250-net.anujashah.com/getConfig/listPopFrame.do
+/static/wap/css/trade-history.css 3 https://ee250-net.anujashah.com/static/wap/css/trade-history.css
+/template/mb/lang/text-zh.json 3 https://ee250-net.anujashah.com/template/mb/lang/text-zh.json
+/index.php/Wap/Api/getSystemNotice 3 https://ee250-net.anujashah.com/index.php/Wap/Api/getSystemNotice
+/a/other/codepay/js/codepay_util.js 3 https://ee250-net.anujashah.com/a/other/codepay/js/codepay_util.js
+/index/login 3 https://ee250-net.anujashah.com/index/login
+/mobile/login.html 3 https://ee250-net.anujashah.com/mobile/login.html
+/a/ 3 https://ee250-net.anujashah.com/a/
+/leftDao.php 3 https://ee250-net.anujashah.com/leftDao.php
+/phalapi/public/ 3 https://ee250-net.anujashah.com/phalapi/public/
+/.DS_Store 4 -
+/step1.asp 3 https://ee250-net.anujashah.com/step1.asp
+/static/home/js/rooms.js 3 https://ee250-net.anujashah.com/static/home/js/rooms.js
+/index/index/info/ 3 https://ee250-net.anujashah.com/index/index/info/
+/template/920ka/js/woodyapp.js 3 https://ee250-net.anujashah.com/template/920ka/js/woodyapp.js
+/xianyu/ 3 https://ee250-net.anujashah.com/xianyu/
+/other/getTopQuestion 3 https://ee250-net.anujashah.com/other/getTopQuestion
+/lanren/css/global.css 3 https://ee250-net.anujashah.com/lanren/css/global.css
+/js/config.js 3 https://ee250-net.anujashah.com/js/config.js
+/bapi/st/news/ 3 https://ee250-net.anujashah.com/bapi/st/news/
+/static/css/common.css 3 https://ee250-net.anujashah.com/static/css/common.css
+/im/ 3 https://ee250-net.anujashah.com/im/
+/verification.asp 3 https://ee250-net.anujashah.com/verification.asp
+/api/procoin/home/config.do 3 https://ee250-net.anujashah.com/api/procoin/home/config.do
+/admin/webadmin.php 3 https://ee250-net.anujashah.com/admin/webadmin.php
+/api/user/index 3 https://ee250-net.anujashah.com/api/user/index
+/js/base1.js 3 https://ee250-net.anujashah.com/js/base1.js
+/h5 6 https://ee250-net.anujashah.com/h5
+/backup/ 1 http://ee250-net.anujashah.com/backup/
+/home/GetQrCodeInfo 3 https://ee250-net.anujashah.com/home/GetQrCodeInfo
+/source/20220119/static/wap/js/order.js 3 https://ee250-net.anujashah.com/source/20220119/static/wap/js/order.js
+/h5/ 3 https://ee250-net.anujashah.com/h5/
+/api/v1/config 3 https://ee250-net.anujashah.com/api/v1/config
+/login.html 6 https://ee250-net.anujashah.com/login.html
+/static/common.css 3 https://ee250-net.anujashah.com/static/common.css
+/uploads/admin/202103/60584c5b88017.png 3 https://ee250-net.anujashah.com/uploads/admin/202103/60584c5b88017.png
+/index/login/register 3 https://ee250-net.anujashah.com/index/login/register
+/m/env.js 3 https://ee250-net.anujashah.com/m/env.js
+/OLD/ 1 http://ee250-net.anujashah.com/OLD/
+/index/aurl 3 https://ee250-net.anujashah.com/index/aurl
+/xy/image/jiantou.png 3 https://ee250-net.anujashah.com/xy/image/jiantou.png
+/Application/Buy/Static/js/if.js 3 https://ee250-net.anujashah.com/Application/Buy/Static/js/if.js
+/jym-wn/ 3 https://ee250-net.anujashah.com/jym-wn/
+/kkrps/im_group/show_members 3 https://ee250-net.anujashah.com/kkrps/im_group/show_members
+/Public/Home/js/cls.js 3 https://ee250-net.anujashah.com/Public/Home/js/cls.js
+/Public/home/wap/css/qdgame.css 3 https://ee250-net.anujashah.com/Public/home/wap/css/qdgame.css
+/ph_acquireSession 3 https://ee250-net.anujashah.com/ph_acquireSession
+/hetong/yq 3 https://ee250-net.anujashah.com/hetong/yq
+/static/index/css/trade-history.css 3 https://ee250-net.anujashah.com/static/index/css/trade-history.css
+/im/h5/ 3 https://ee250-net.anujashah.com/im/h5/
+/home/login/login_index.html 3 https://ee250-net.anujashah.com/home/login/login_index.html
+/index.php/sign 3 https://ee250-net.anujashah.com/index.php/sign
+/wap/api/exchangerateuserconfig!get.action 3 https://ee250-net.anujashah.com/wap/api/exchangerateuserconfig!get.action
+/res/kuai/1.css 3 https://ee250-net.anujashah.com/res/kuai/1.css
+/api/user/ismustmobile 9 https://ee250-net.anujashah.com/api/user/ismustmobile
+/static/guide/ab.css 3 https://ee250-net.anujashah.com/static/guide/ab.css
+/api 6 https://ee250-net.anujashah.com/api
+/room/getRoomBangFans 3 https://ee250-net.anujashah.com/room/getRoomBangFans
+/api/uploads/apimap 3 https://ee250-net.anujashah.com/api/uploads/apimap
+/zz/address.php 3 https://ee250-net.anujashah.com/zz/address.php
+/static/css/mobile.css 3 https://ee250-net.anujashah.com/static/css/mobile.css
+/init.js 3 https://ee250-net.anujashah.com/init.js
+/index/open/login.html 3 https://ee250-net.anujashah.com/index/open/login.html
+/my/zijin.png 3 https://ee250-net.anujashah.com/my/zijin.png
+/mobile/config.js 3 https://ee250-net.anujashah.com/mobile/config.js
+/langConfig.js 3 https://ee250-net.anujashah.com/langConfig.js
+/static/admincp/js/common.js 3 https://ee250-net.anujashah.com/static/admincp/js/common.js
+/assets/AssetManifest.json 3 https://ee250-net.anujashah.com/assets/AssetManifest.json
+/static/admin/javascript/hetong.js 2 -
+/Template/Mobile/js/main.js 3 https://ee250-net.anujashah.com/Template/Mobile/js/main.js
+/api/config 6 https://ee250-net.anujashah.com/api/config
+/skin/js/common.js 3 https://ee250-net.anujashah.com/skin/js/common.js
+/api/message/webInfo 3 https://ee250-net.anujashah.com/api/message/webInfo
+/stock2c1/api/site/getInfo.do 3 https://ee250-net.anujashah.com/stock2c1/api/site/getInfo.do
+/portal/index/protocol.html 3 https://ee250-net.anujashah.com/portal/index/protocol.html
+/template/css/login.css 3 https://ee250-net.anujashah.com/template/css/login.css
+/client/api/findConfigByKey 3 https://ee250-net.anujashah.com/client/api/findConfigByKey
+/static/wap/js/order.js 3 https://ee250-net.anujashah.com/static/wap/js/order.js
+/static/index/3.png 3 https://ee250-net.anujashah.com/static/index/3.png
+/biz/server/config 3 https://ee250-net.anujashah.com/biz/server/config
+/t000/login-img-3.svg 3 https://ee250-net.anujashah.com/t000/login-img-3.svg
+/assets/yibao/Nweshebao/img/icon2.png 3 https://ee250-net.anujashah.com/assets/yibao/Nweshebao/img/icon2.png
+/Public/Qts/Home/js/appAlert.js 3 https://ee250-net.anujashah.com/Public/Qts/Home/js/appAlert.js
+/static/css/css.css 3 https://ee250-net.anujashah.com/static/css/css.css
+/chat.html 3 https://ee250-net.anujashah.com/chat.html
+/stage-api/common/configKey/all 3 https://ee250-net.anujashah.com/stage-api/common/configKey/all
+/jiaoyimao/ 3 https://ee250-net.anujashah.com/jiaoyimao/
+/static/home/css/common.css 3 https://ee250-net.anujashah.com/static/home/css/common.css
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1
+138.186.141.155 1 1 0 20230709101752
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20230709 1 1 0 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 1 0 1 1
+END_SIDER

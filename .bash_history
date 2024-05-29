@@ -186,3 +186,143 @@ ls
 git commit -m "."
 #1651815765
 git add -n ee250
+#1651815784
+git add -u
+#1651815807
+git add -f
+#1651815816
+git add -f .
+#1651815821
+git commit -m
+#1651815824
+git commit -m "."
+#1651815849
+git push origin master
+#1716939935
+ls
+#1716939950
+cd anujashah.com/
+#1716939951
+ls
+#1716939958
+cd ..
+#1716939961
+cd public_html/
+#1716939962
+ls
+#1716939967
+cd www-anujashah-com/
+#1716939969
+ls
+#1716940001
+git
+#1716940123
+git branch
+#1716940264
+ls
+#1716940266
+cd ..
+#1716940267
+ls
+#1716940269
+cd ..
+#1716940270
+ls
+#1716940278
+git add .
+#1716940361
+sudo git add .
+#1716940377
+git add .
+#1716940452
+git add -f .
+#1716940474
+ls -l anujasha_WPNLW.1633099231.sql.gz
+#1716940509
+sudo chown anujasha:anujasha anujasha_WPNLW.1633099231.sql.gz
+#1716940538
+su -
+#1716940584
+chmod 644 /home/anujasha/anujasha_WPNLW.1633099231.sql.gz
+#1716940613
+chmod 600 /home/anujasha/anujasha_WPNLW.1633099231.sql.gz
+#1716940689
+ls
+#1716940698
+git add public_html
+#1716940708
+git commit -m "new resume"
+#1716940713
+git push origin master
+#1716940744
+git remote -v
+#1716940999
+ssh -T git@github.com
+#1716941028
+git push origin master
+#1716941392
+git pull origin master public_html
+#1716941398
+git pull origin master
+#1716941430
+git pull origin master
+#1716941456
+ls
+#1716941460
+cd public_html
+#1716941462
+ls
+#1716941468
+cd www-anujashah-com/
+#1716941469
+ls
+#1716941486
+cd _Content
+#1716941487
+ls
+#1716941496
+cat resume.html
+#1716941681
+cd ..
+#1716941681
+ls
+#1716941683
+cd .
+#1716941685
+ls
+#1716941688
+cd ..
+#1716941689
+ls
+#1716941690
+cd ..
+#1716941692
+cd ..
+#1716941693
+ls
+#1716941700
+cd anujasha/
+#1716941702
+ls
+#1716941709
+git add .
+#1716941749
+ls -l anujasha_WPNLW.1633099231.sql.gz
+#1716941787
+sudo -i
+#1716941821
+git add --ignore-errors .
+#1716941847
+git add $(ls | grep -v 'anujasha_WPNLW.1633099231.sql.gz')
+#1716941873
+ls
+#1716941950
+git add $(ls | grep -v 'anujasha_WPNLW.1633099231.sql.gz')
+#1716941962
+git add $(ls | grep -v 'anujasha_WPNLW.1633099231.sql.gz')
+#1716941972
+ls
+#1716941984
+git -v
+#1716941988
+git remote

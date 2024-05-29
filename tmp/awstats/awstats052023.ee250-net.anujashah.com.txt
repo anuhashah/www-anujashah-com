@@ -1,0 +1,329 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202305 will be lost/reset.
+# Last config file used to build this data file was /home4/anujasha/tmp/awstats/awstats.ee250-net.anujashah.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2693                
+POS_VISITOR 5908                
+POS_DAY 6169                
+POS_DOMAIN 3222                
+POS_LOGIN 3458                
+POS_ROBOT 3613                
+POS_WORMS 3745                
+POS_EMAILSENDER 3876                
+POS_EMAILRECEIVER 4019                
+POS_SESSION 6815                
+POS_SIDER 6962                
+POS_FILETYPES 4154                
+POS_DOWNLOADS 4238                
+POS_OS 4286                
+POS_BROWSER 4365                
+POS_SCREENSIZE 4441                
+POS_UNKNOWNREFERER 4515                
+POS_UNKNOWNREFERERBROWSER 4743                
+POS_ORIGIN 4863                
+POS_SEREFERRALS 4995                
+POS_PAGEREFS 5139                
+POS_SEARCHWORDS 5287                
+POS_KEYWORDS 5439                
+POS_MISC 2357                
+POS_ERRORS 5498                
+POS_CLUSTER 3314                
+POS_SIDER_404 5599                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230601095702 1 0 11108662705977
+FirstTime 20230501101552
+LastTime 20230531101600
+LastUpdate 20230602062915 1 0 0 0 0
+TotalVisits 35                  
+TotalUnique 5                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 5                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 3 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 2 3 743
+3 0 0 0 5 5 1280
+4 0 0 0 1 1 244
+5 0 0 0 1 1 240
+6 0 0 0 3 4 975
+7 0 0 0 0 0 0
+8 0 0 0 3 3 567
+9 0 0 0 3 3 249
+10 68 68 4490 16 16 3449
+11 0 0 0 5 5 415
+12 0 0 0 10 10 1941
+13 0 0 0 6 6 977
+14 0 0 0 6 8 1643
+15 0 0 0 3 3 249
+16 0 0 0 2 2 166
+17 0 0 0 6 6 1448
+18 0 0 0 4 4 968
+19 0 0 0 1 1 244
+20 0 0 0 2 2 488
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 2 2 480
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+us 66 66 4316
+zz 2 2 174
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+Unknown 68 4490 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 1
+Unknown 68 68
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 2
+Unknown 62 62
+mozilla 6 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20230509101600
+Cpanel-HTTP-Client/1.0 20230531101600
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Cpanel-HTTP-Client/1.0 20230531101600
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 68 68
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+409 25 2075
+301 57 13930
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 5
+162.241.253.141 62 62 3968 20230531101600
+23.178.112.102 2 2 174 20230509101550
+3.138.143.113 2 2 174 20230509101600
+54.213.174.21 1 1 87 20230509101550
+35.89.109.179 1 1 87 20230509101550
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20230501 2 2 128 1
+20230502 2 2 128 1
+20230503 2 2 128 1
+20230504 2 2 128 1
+20230505 2 2 128 1
+20230506 2 2 128 1
+20230507 2 2 128 1
+20230508 2 2 128 1
+20230509 8 8 650 5
+20230510 2 2 128 1
+20230511 2 2 128 1
+20230512 2 2 128 1
+20230513 2 2 128 1
+20230514 2 2 128 1
+20230515 2 2 128 1
+20230516 2 2 128 1
+20230517 2 2 128 1
+20230518 2 2 128 1
+20230519 2 2 128 1
+20230520 2 2 128 1
+20230521 2 2 128 1
+20230522 2 2 128 1
+20230523 2 2 128 1
+20230524 2 2 128 1
+20230525 2 2 128 1
+20230526 2 2 128 1
+20230527 2 2 128 1
+20230528 2 2 128 1
+20230529 2 2 128 1
+20230530 2 2 128 1
+20230531 2 2 128 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 35
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 64
+/.well-known/acme-challenge/_75o743fYhf4l2t0fNWD48CZlvg7BHYgN24U3PFPFc4 3 261 2 2
+/.well-known/acme-challenge/26v3hP-1jjlBInN2xAOjhzopS7BCP5P4oDDNcLCeFMo 3 261 2 2
+/.well-known/acme-challenge/_Q1RAH73ZMOP9X-553UZQ3WR-I8TAOQR 1 64 0 1
+/.well-known/acme-challenge/Q96KC4HW2O9UVKYF-B5NPLQIESN6U_8V 1 64 1 0
+/.well-known/acme-challenge/NDXG0_0BXGCFGMGO6MW15FB1ML240_6_ 1 64 1 0
+/.well-known/acme-challenge/3V080-NOSXUHINOCJXQYUUYONZF6BDHG 1 64 0 1
+/.well-known/acme-challenge/XMYFVP607F-_CKMNZ9FT-JC9FQSIQX1X 1 64 0 1
+/.well-known/acme-challenge/QV5YZCESR7JNNBUPQR4MHQLI6S2RX1E- 1 64 0 1
+/.well-known/acme-challenge/UALGHUU03BBT3T5EGLER0H-3D5OZL7S6 1 64 1 0
+/.well-known/acme-challenge/R6XA90ZXUL3BB2TQMPSJLOWY2Q4EG8-X 1 64 1 0
+/.well-known/acme-challenge/CDCFHS8O8AMJGOP6K-C9R2JI72BS_YAB 1 64 1 0
+/.well-known/acme-challenge/3IH6I5808526G-DSW0O5EIBJCRA-E-ZY 1 64 0 1
+/.well-known/acme-challenge/E23X-W-Q4CCSBOBOT09DTBEZ8H0U4V33 1 64 0 1
+/.well-known/acme-challenge/K5NQC5T5Y82S0_40CGSN8PSW7IH1HZYW 1 64 1 0
+/.well-known/acme-challenge/UTJRV--UOIOVX88JD4U3J_DZG7ZZOT41 1 64 1 0
+/.well-known/acme-challenge/7KXV_S4V852OENSG6K_3VMBDSXBDY5DF 1 64 0 1
+/.well-known/acme-challenge/0NEAFFP11EH4H_RSZS2VT84VEIUN02FN 1 64 1 0
+/.well-known/acme-challenge/EMCFXQIYI5H2GAVFSY4XDTJRXSVGFZ1X 1 64 0 1
+/.well-known/acme-challenge/8UYHMS78FIUC-2I84VTDXS9OG_QSCU8_ 1 64 0 1
+/.well-known/acme-challenge/7LSLGQ_A7HU68PVLFT-KFR-XC2I5TQ3B 1 64 1 0
+/.well-known/acme-challenge/XUB2X3P4Z_SWEHAEXHLYTW5_M_P8OK1W 1 64 1 0
+/.well-known/acme-challenge/7L4S-YQ7BIH7R5-2QSXKX4S_U75SQWK5 1 64 1 0
+/.well-known/acme-challenge/EAPJ0-ZHQINXMKE-IQP60ICTQC2YWG14 1 64 0 1
+/.well-known/acme-challenge/TH99FGIXOGXA4I8R7VK9HW2YVXHADZ8U 1 64 0 1
+/.well-known/acme-challenge/SXHGB39_9DQWF12MANTDEKK6BAUR6989 1 64 0 1
+/.well-known/acme-challenge/5IAD3D-Z850_QHV1MKTL2UEM1T1PZL6D 1 64 0 1
+/.well-known/acme-challenge/HTEYDV5GSM3HHYXL0LQBKZA1O0P4F3GX 1 64 0 1
+/.well-known/acme-challenge/Q98CAVRGP4O3AS33-5QRKL17T61YFI6N 1 64 1 0
+/.well-known/acme-challenge/SZ94M9TQ8FNX5HPJ22FEHMJHZSV2HQG1 1 64 1 0
+/.well-known/acme-challenge/U6YK2-6L8N6X0D66UIE2C0-_SU956OAY 1 64 0 1
+/.well-known/acme-challenge/4EFJKKXBEYET-QICFAT67592JJ_FN0TG 1 64 1 0
+/.well-known/acme-challenge/CSUX3WFHJO27L-V6NULNIOX55PK7R5D8 1 64 0 1
+/.well-known/acme-challenge/YVU40X35J0WK-ZPYS5HG4VMTCZFDRYH3 1 64 0 1
+/.well-known/acme-challenge/OLO31G1_7-CA5KO1L5_5TM-URD615ZSN 1 64 1 0
+/.well-known/acme-challenge/V8S_SMJVHG0Q1NLLLUW3A05OFEYEQ3BR 1 64 0 1
+/.well-known/acme-challenge/XGNV4JGZNO6KTJ6Y6JKXHFZJIHFW3E8O 1 64 1 0
+/.well-known/acme-challenge/CLDLXG8K4LTG8UNSCLWVH35GSGNUNS5I 1 64 0 1
+/.well-known/acme-challenge/FG2WQYV54SX7X21WE1NGJI2R9_RUB88W 1 64 1 0
+/.well-known/acme-challenge/9G0W7U2FW5XV7UR2LZODBJEN9RUDTR3K 1 64 1 0
+/.well-known/acme-challenge/KBUV8YG2WLRY2ICMIBGJ7NQ0M8S-IXRO 1 64 0 1
+/.well-known/acme-challenge/0JKU-R6TM55NLC6DQ4VTGK10R2T4FLXT 1 64 0 1
+/.well-known/acme-challenge/UVZQXB4I2C6W9EUP34YASTG2JG96554P 1 64 0 1
+/.well-known/acme-challenge/E_T81YN_4G10XYICA3ZQXPRVBXU3HIEL 1 64 1 0
+/.well-known/acme-challenge/S11GE_Y50JGHV3V86B5G3Y2VC7KNKGOO 1 64 1 0
+/.well-known/acme-challenge/F801_VMZEFAS6K0771TTRP-5PE36KXZ1 1 64 0 1
+/.well-known/acme-challenge/GUT6PD_JDMEICFFVMKH-5UE4L9SDTZV1 1 64 0 1
+/.well-known/acme-challenge/WL4QIMX06HFZQMKWBGJAPLFKSJL6O-Q4 1 64 0 1
+/.well-known/acme-challenge/GYSRQK_HNZHIAE1NC5WFBAC0LMG7_CI7 1 64 1 0
+/.well-known/acme-challenge/9KP89D6LF86M7H7PVR6GLW5VEEWNFY-3 1 64 1 0
+/.well-known/acme-challenge/MJ9QJFM1YV5JE26XMKRX6_MVUKJ6-U2C 1 64 1 0
+/.well-known/acme-challenge/9-ZFO2DLT-MVWN0TV597GBEDF7ZV9MVK 1 64 0 1
+/.well-known/acme-challenge/9_22XGWRVCWHW-HEOAVBOI_6OYL0BVSA 1 64 1 0
+/.well-known/acme-challenge/ZYLX5GCO3O1H8J0DX05WZV4DMNPR5QZM 1 64 1 0
+/.well-known/acme-challenge/VATSFUM0G3YEJNULUQU_CRFAV3SJ6-XW 1 64 0 1
+/.well-known/acme-challenge/J3BEH-R-NXPTPP70IK5E04J2IIL7WG6D 1 64 1 0
+/.well-known/acme-challenge/VE1U_3-0O9BEHQ3ZLBRKX-6_A6O6ALS7 1 64 1 0
+/.well-known/acme-challenge/MQKTLKMJDHILL7O7-DAW6H4JK99HI6VN 1 64 1 0
+/.well-known/acme-challenge/_ME7_JT_HCJ571_X9Z_0UURY9VY8ZXJM 1 64 1 0
+/.well-known/acme-challenge/5PBXYXHCGA1UTJU8ZNMINWZF4F9NXI92 1 64 0 1
+/.well-known/acme-challenge/6A1-B07P-G6RZXWUOQ_MNWSS1RXCVC0W 1 64 0 1
+/.well-known/acme-challenge/ASMGBQKDZB1JKKBDOO_TQJRY0OYYB02D 1 64 0 1
+/.well-known/acme-challenge/UT03QEWYJRITA08D8KFRG8A1GP5WW1XE 1 64 1 0
+/.well-known/acme-challenge/7S72Q6HJM9R7W6M9VH9G4I338560M3R2 1 64 1 0
+/.well-known/acme-challenge/F2NW9EX1VF5541ED4XM-5ZM_F8G_8HEJ 1 64 0 1
+END_SIDER

@@ -1,0 +1,1426 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202312 will be lost/reset.
+# Last config file used to build this data file was /home4/anujasha/tmp/awstats/ssl/awstats.anujashah.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2692                
+POS_VISITOR 41732               
+POS_DAY 51707               
+POS_DOMAIN 3489                
+POS_LOGIN 3993                
+POS_ROBOT 4148                
+POS_WORMS 5263                
+POS_EMAILSENDER 5394                
+POS_EMAILRECEIVER 5537                
+POS_SESSION 52507               
+POS_SIDER 52665               
+POS_FILETYPES 5672                
+POS_DOWNLOADS 5885                
+POS_OS 5988                
+POS_BROWSER 6672                
+POS_SCREENSIZE 10094               
+POS_UNKNOWNREFERER 10168               
+POS_UNKNOWNREFERERBROWSER 11624               
+POS_ORIGIN 12133               
+POS_SEREFERRALS 12275               
+POS_PAGEREFS 12457               
+POS_SEARCHWORDS 12605               
+POS_KEYWORDS 12757               
+POS_MISC 2356                
+POS_ERRORS 12816               
+POS_CLUSTER 3849                
+POS_SIDER_404 12992               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240101023509 29 6818 6449091365658
+FirstTime 20231201021542
+LastTime 20231231202415
+LastUpdate 20240101053902 29 0 28 0 0
+TotalVisits 324                 
+TotalUnique 256                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 259                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 7 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 14 19 458846 202 225 53557
+1 17 18 503782 22 42 32946
+2 38 46 5400898 50 65 50908
+3 7 7 12242 44 56 87228
+4 18 22 2715231 39 46 164293
+5 12 12 24138 19 32 14385
+6 18 21 498124 163 177 52071
+7 12 17 60058 25 50 21614
+8 9 9 19492 69 79 5364344
+9 12 21 76547 69 88 5301336
+10 7 7 13906 29 38 16711
+11 15 67 996764 54 73 69202
+12 8 8 20086 19 29 52096
+13 17 26 15887343 29 38 16997
+14 9 38 363813 48 72 5336009
+15 15 16 82401 78 97 66149
+16 13 14 480073 8 21 47435
+17 10 13 17534 261 274 2647981
+18 18 40 293647 192 219 2776010
+19 13 14 215418 44 59 13193622
+20 37 73 200107 95 157 141540
+21 28 49 16341828 57 99 98209
+22 18 28 95864 31 54 66082
+23 4 4 4992 43 52 2649426
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 21
+us 162 363 22949675
+cn 62 63 600300
+ca 23 23 394632
+jp 23 23 38272
+gb 20 20 40522
+ru 17 17 28882
+se 15 20 2140154
+in 10 20 18488405
+de 8 8 23891
+ua 6 6 11925
+bg 4 5 6882
+au 4 4 11172
+sc 3 3 13038
+fr 3 5 7846
+ir 2 2 3328
+cl 2 2 9116
+es 1 1 1664
+eu 1 1 1664
+pl 1 1 3922
+my 1 1 3922
+nl 1 1 3922
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 26
+spider 104 206171 20231220220537 0
+Googlebot/ 62 224740 20231231180614 0
+no_user_agent 51 499631 20231231120236 0
+Go\-http\-client/ 32 141376 20231231101322 0
+bingbot/ 29 15844039 20231229191757 0
+YandexBot/ 14 23296 20231227101130 0
+unknown 9 234 20231228204141 9
+bot[\s_+:,\.\;\/\\-] 7 9087 20231231002326 0
+baidu 5 5276151 20231223144340 0
+(firefox/)([0-9]\.|[0-1][0]\.) 4 15866 20231230134325 0
+Konqueror/ 4 14502 20231214065413 0
+scrapy 3 4992 20231229072427 0
+Baiduspider/ 2 3328 20231223144336 0
+crawl 2 1962 20231218025046 0
+link 2 12540 20231208183355 0
+Applebot/ 2 3142 20231220111154 0
+nbot 1 2637507 20231221080036 0
+curl 1 3922 20231224002847 0
+Google[\x20]Web[\x20]Preview 1 298 20231213173509 0
+Googlebot\-Image/ 1 13182934 20231211192208 0
+Dalvik/ 1 843 20231216142015 0
+Mediapartners-Google 1 12234 20231208183313 0
+msnbot\-media/ 1 12235 20231216141933 0
+DoCoMo/ 1 298 20231213173448 0
+ELinks/ 1 12239 20231203110613 0
+facebookexternalhit/ 1 3922 20231229050124 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+Unknown 8 39697 0 0
+jpg 5 13187535 0 0
+html 333 1270783 0 0
+php 28 90706 0 0
+js 174 1128516 0 0
+css 32 13817 0 0
+pdf 1 152928 0 0
+png 8 28899152 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/_Files/Web_Anuja_Shah_Resume_(10.8.23).pdf 2 0 305856
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 47
+linuxdebian 1 1
+linuxubuntu 3 1
+palmos 1 0
+androidkitkat 3 3
+os/2 1 1
+android 22 4
+macosx11 3 1
+win95 1 0
+winxp 10 7
+winnt 14 14
+win7 96 49
+beos 1 0
+linuxcentos 1 0
+winphone 2 0
+macosx 9 6
+androidnougat 7 4
+symbian 4 1
+win10 80 57
+winunknown 2 1
+android10 7 2
+macosx15 26 5
+irix 2 0
+wince 1 0
+bsdfreebsd 3 1
+bsdopenbsd 1 0
+wii 1 0
+macosx6 2 0
+ios_iphone 98 83
+androidmarshmallow 4 4
+androidfroyo 1 0
+macosx13 4 2
+macosx14 1 0
+macosx12 1 1
+winlong 4 2
+linux 72 57
+j2me 5 0
+macosx9 1 1
+macosx10 7 3
+macosx7 3 1
+macosx5 2 0
+win16 1 0
+Unknown 56 44
+androidoreo 6 1
+androidics 2 0
+ios_ipad 4 1
+linuxgentoo 1 1
+win8.1 12 10
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 171
+opera9.64 2 0
+chrome95.0.4638.54 1 1
+chrome16.0.912.36 1 0
+firefox12.0 1 0
+nokia 4 0
+chrome118.0.0.0 2 2
+safari10.1 1 0
+chrome100.0.4896.75 1 1
+chrome60.0.3112.107 2 2
+firefox40.0 1 1
+chrome72.0.3626.121 1 1
+chrome19.0.1084.56 1 1
+netscape5.0 3 3
+firefox83.0 3 3
+chrome100.0.4896.60 2 0
+chrome45.0.2454.85 1 1
+chrome76.0.3809.100 2 1
+chrome99.0.4859.172 2 2
+chrome89.0.4389.90 1 1
+opera68.3.3557.64528 2 0
+chrome102.0.5005.49 1 0
+safari12.1.2 1 0
+chrome106.0.0.0 2 2
+chrome58.0.3029.110 1 1
+edge14 1 0
+chrome101.0.4951.41 11 1
+opera10.10 1 1
+chrome83.0.4103.97 19 19
+chrome5.0.359.0 1 0
+firefox60.9 1 1
+chrome41.0.2227.0 1 0
+chrome87.0.4280.101 1 1
+chrome85.0.4183.102 1 0
+chrome56.0.2924.87 1 0
+chrome5.0.309.0 1 0
+opera9.80 2 0
+galeon 1 1
+chrome47.0.2526.73 1 1
+chrome88.0.4324.150 1 1
+chrome66.0.3359.181 1 1
+netscape4.77 2 0
+chrome45.0.2454.93 1 0
+opera9.30 1 0
+chrome15.0.874.54 1 0
+iphone 6 2
+opera12.00 1 0
+mozilla 22 15
+chrome91.0.4472.114 5 3
+chrome95.0.4638.50 2 0
+chrome103.0.5042.0 1 0
+chrome84.0.4147.105 6 6
+chrome103.0.5060.53 5 5
+chrome116.0.0.0 1 1
+chrome30.0.1599.114 1 0
+chrome4.0.302.2 1 0
+firefox57.0 1 1
+chrome63.0.3239.108 1 0
+chrome100.0.4896.127 10 2
+opera9.25 1 0
+chrome120.0.0.0 8 2
+chrome98.0.4758.141 2 0
+msie6.0 5 4
+chrome98.0.4758.80 1 0
+chrome71.0.2623.112 3 3
+chrome92.0.4515.159 2 1
+netscape4.8 1 0
+chrome103.0.5060.71 1 1
+chrome119.0.0.0 2 2
+chrome105.0.0.0 13 8
+netscape4.0 1 0
+firefox43.0 1 0
+chrome100.0.4758.11 1 1
+chrome93.0.4577.63 1 0
+chrome108.0.0.0 24 24
+safari15.6 1 1
+opera29.0.1795.41 1 0
+chrome51.0.2704.106 1 0
+msie4.01 1 0
+chrome74.0.3729.169 10 10
+chrome103.0.5060.114 3 3
+chrome92.0.4515.107 5 1
+android 6 3
+chrome87.0.4280.141 1 0
+chrome79.0.3945.79 1 0
+msie11.0 5 1
+chrome114.0.0.0 4 3
+chrome99.0.4844.84 2 1
+safari2.0.1 2 1
+lynx 2 2
+chrome96.0.4664.45 1 0
+Unknown 28 26
+chrome4.0.207.0 1 0
+safari4.0.4 1 0
+chrome75.0.3770.142 1 1
+chrome60.0.3112.78 1 1
+chrome81.0.4044.138 2 1
+chrome22.0.1229.79 1 0
+chrome117.0.0.0 4 4
+chrome79.0.3945.136 3 0
+chrome80.0.3987.132 2 2
+safari14.0 1 0
+chrome59.0.3071.125 1 0
+chrome89.0.4389.114 8 8
+chrome102.0.0.0 1 1
+chrome90.0.4430.61 1 1
+chrome79.0.3945.130 3 2
+opera58.0.3135.127 1 1
+msie9.0 76 36
+arora 1 0
+safari7.2.0.0 1 0
+chrome101.0.4950.0 1 0
+msie7.0 4 2
+safari14.0.3 1 1
+chrome80.0.3987.162 1 1
+chrome52.0.2733.98 4 4
+firefox20.0 1 0
+safari13.0.3 75 75
+chrome110.0.0.0 2 2
+chrome76.0.3809.71 2 0
+chrome101.0.4951.64 2 0
+safari 5 2
+chrome100.0.4896.136 1 0
+safari15.5 1 1
+chrome120.0.6099.62 1 0
+chrome41.0.2228.0 1 0
+chrome100.0.4896.58 1 0
+opera89.0.4447.51 2 2
+edge17 2 2
+safari9.0 2 0
+multizilla 1 1
+safari15.6.4 2 1
+safari10.0 2 0
+firefox35.0 1 0
+chrome47.0.2526.106 1 1
+chrome100.0.4889.0 1 0
+firefox85.0 1 1
+chrome39.0.2171.95 2 2
+firefox99.0 14 14
+opera7.50 1 0
+seamonkey 1 0
+safari4.0 2 0
+sonyericsson 2 1
+opera28.0.1750.51 1 0
+opera9.60 2 0
+chrome37.0.2062.124 1 1
+chrome89.0.4389.82 2 2
+firefox55.0 1 0
+chrome101.0.4951.61 5 0
+chrome113.0.0.0 1 1
+chrome65.0.3325.146 1 1
+chrome77.0.3865.19 1 1
+opera9.51 1 1
+firefox49.0 1 0
+safari11.0 1 0
+chrome41.0.2227.1 1 0
+chrome101.0.4951.54 2 1
+chrome100.0.4896.88 1 0
+chrome96.0.4664.104 1 0
+chrome14.0.835.186 1 0
+firefox114.0 1 1
+chrome79.0.3945.88 1 1
+safari15.0 1 0
+netscape2.02 1 0
+chrome90.0.4430.72 1 0
+firefox36.0 2 0
+chrome17.0.963.56 3 1
+firefox63.0 1 1
+msie8.0 1 1
+safari17.1.2 8 2
+csscheck 1 0
+opera9.20 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 17
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_compatible;_GoogleOther)_Chrome/120.0.6099.62_Safari/537.36 20231208192127
+panscient.com 20231226212927
+Mozilla/5.0_(compatible;_Dataprovider.com) 20231203024434
+colly_-_https://github.com/gocolly/colly/v2 20231210151251
+Mozilla/5.0_(compatible;_alexa_site_audit/1.0;__http://www.alexa.com/help/webmasters;_) 20231208183413
+SonyEricssonK810i/R1KG_Browser/NetFront/3.3_Profile/MIDP-2.0_Configuration/CLDC-1.1 20231208112957
+Lynx/2.9.0dev.5_libwww-FM/2.14_SSL-MM/1.4.1_GNUTLS/3.6.13 20231216160858
+Nokia7250/1.0_(3.14)_Profile/MIDP-1.0_Configuration/CLDC-1.0 20231203110521
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20231227065143
+Nokia6230i/2.0_(03.80)_Profile/MIDP-2.0_Configuration/CLDC-1.1 20231202203416
+CSSCheck/1.2.2 20231216142013
+Mozilla/5.0_(compatible;_ips-agent) 20231224175507
+fasthttp 20231225191212
+EmailWolf_1.00 20231213173627
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20231229154549
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20231230163005
+SonyEricssonW850i/R1ED_Browser/NetFront/3.3_Profile/MIDP-2.0_Configuration/CLDC-1.1 20231205223818
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+fasthttp 20231225191212
+panscient.com 20231226212927
+colly_-_https://github.com/gocolly/colly/v2 20231210151251
+EmailWolf_1.00 20231213173627
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20231229154549
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 197 350
+From1 18 18
+From2 39 79
+From3 0 0
+From4 115 142
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_bing_com 1 1
+www_google_com 38 78
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+404 1221 0
+308 8 780
+503 39 0
+400 85 3380
+406 337 76162
+401 21 837
+421 1 322
+409 53 4399
+403 8 1072
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 604
+/old/ 1 -
+/s/134313e2335323e2134323e2236313/_/ 4 -
+/wp-admin/images/cloud.php 1 -
+/OLD/wp-admin/setup-config.php 1 www.google.com
+/lock360.php 3 -
+/wp-content/uploads/ 1 http://anujashah.com//wp-content/uploads/
+/blog 2 -
+/wp-includes/wp_filemanager.php 1 http://anujashah.com//wp-includes/wp_filemanager.php
+/app/webroot/global/plugins/jquery-file-upload/server/php/ 2 -
+/inbox.php 1 http://anujashah.com//inbox.php
+/wp-admin/fw.php 1 http://anujashah.com//wp-admin/fw.php
+/wp-content/plugins/augmented-reality/vendor/elfinder/php/connector.minimal.php 1 http://anujashah.com//wp-content/plugins/augmented-reality/vendor/elfinder/php/connector.minimal.php
+/priv8.php 1 http://anujashah.com//priv8.php
+/m.php 1 http://anujashah.com//m.php
+/debug/default/view 4 -
+/sitemap.xml.gz 2 -
+/minishell.php 1 http://anujashah.com//minishell.php
+/new 8 http://mail.anujashah.com/new
+/wsu.php 1 http://anujashah.com//wsu.php
+/wp-admin/css/ 11 binance.com
+/wp-admin/images/module.php 1 http://anujashah.com//wp-admin/images/module.php
+//ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js 44 -
+/sitemap-index.xml 1 http://anujashah.com/sitemap-index.xml
+/wp-content/themes/seotheme/db.php 2 www.google.com
+/.vscode/sftp.json 6 -
+/woh.php 1 -
+/blog/wp-content/plugins/seoplugins/db.php 1 -
+/wp-apxupx.php 4 www.google.com
+/plugins/jquery-file-upload/server/php/ 2 -
+/cong.php 3 -
+/mass.php 1 http://anujashah.com//mass.php
+/wp-admin/images/xmrlpc.php 1 -
+/tnt.php 1 http://anujashah.com//tnt.php
+/wp-l0gin.php 1 http://anujashah.com//wp-l0gin.php
+/simple.php 10 -
+/assets/filemanager/dialog.php 2 -
+/lalala.php 1 http://anujashah.com//lalala.php
+/wp-content/plugins/xsid/marijuana.php 1 http://anujashah.com//wp-content/plugins/xsid/marijuana.php
+/root.php 1 http://anujashah.com//root.php
+/.env.dev 1 -
+/olux.php 1 http://anujashah.com//olux.php
+/wp-content/auto_seo.php 1 -
+/ch.php 1 http://anujashah.com//ch.php
+/wp-content/updates.php 1 -
+/sitemap_index.xml 1 http://anujashah.com/sitemap_index.xml
+/x.php 2 http://anujashah.com//x.php
+/cgi-bin/install.php 1 http://anujashah.com//cgi-bin/install.php
+/test/ 1 -
+/marijuana.php 2 http://anujashah.com//marijuana.php
+/wp-admin/fx.php 1 http://anujashah.com//wp-admin/fx.php
+/_Links/Anuja_Shah_Online_Resume.pdf 1 -
+/assets/libs/jquery-file-upload/server/php/ 2 -
+/portfolio-sitemap.xml 1 http://anujashah.com/portfolio-sitemap.xml
+/IndoXploit.php 1 http://anujashah.com//IndoXploit.php
+/wp-admin/css/colors/cloud.php 1 -
+/class.api.php 1 http://anujashah.com//class.api.php
+/wsoyanzorng.php 1 http://anujashah.com//wsoyanzorng.php
+/tesla.php 1 http://anujashah.com//tesla.php
+/js/tinymce4/plugins/filemanager/dialog.php 1 -
+/images/xmrlpc.php 1 -
+/assets/elfinder/elfinder.html 1 -
+/DKIZ.php 1 http://anujashah.com//DKIZ.php
+/css/install.php 1 http://anujashah.com//css/install.php
+/fw.php 2 http://anujashah.com//fw.php
+/wp-includes/class-json-ajax-session.php 1 http://anujashah.com//wp-includes/class-json-ajax-session.php
+/auto_seo.php 1 -
+/wp-content/plugins/td-composer/license.txt 4 -
+/.well-known/ 11 binance.com
+/cp.php 2 http://anujashah.com//cp.php
+/wp-admin/home.php 1 http://anujashah.com//wp-admin/home.php
+/wp-admin/js/about.php 2 http://anujashah.com//wp-admin/js/about.php
+/payload.php 1 http://anujashah.com//payload.php
+/license.php 1 http://anujashah.com//license.php
+/assets/kcfinder/upload.php 1 -
+/admin.php 2 http://anujashah.com//admin.php
+/wp-admin/users.php 2 http://anujashah.com//wp-admin/users.php
+/gawean.php 1 -
+/aws.env 1 -
+/wp/wp-content/themes/seotheme/db.php 1 -
+/wp-content/themes/finley/min.php 1 http://anujashah.com//wp-content/themes/finley/min.php
+/wp-content/uploads/content.php 1 -
+/media-admin.php 2 http://anujashah.com//media-admin.php
+/wp-content/wp-conf.php 1 http://anujashah.com//wp-content/wp-conf.php
+/wp-admin/images/moon.php 1 www.google.com
+/img/cloud.php 1 -
+/wp-content/about.php 1 -
+/main 6 http://mail.anujashah.com/main
+//wp-includes/ID3/license.txt 1 -
+/srx.php 1 http://anujashah.com//srx.php
+/.env.example 1 -
+/assets/js/kcfinder/upload.php 1 -
+/wp-blog.php 2 http://anujashah.com//wp-blog.php
+/demo 1 -
+/wp-admin/dropdown.php 3 http://anujashah.com//wp-admin/dropdown.php
+/coaster/jquery/gallery-upload/server/php/ 2 -
+/.. 25 -
+/_Images/onlineresume.png 3 -
+/th1s_1s_a_4o4.html 20 -
+/wp-includes/css/buttons.css 3 http://anujashah.com/wp-includes/css/buttons.css
+/wordpress/wp-admin/setup-config.php 1 www.google.com
+/error_log/.DS_Store 4 -
+/wp-content/plugins/Cache/Cache.php 3 www.google.com
+/wso.php 4 http://anujashah.com//wso.php
+/assets/themes/metronic/global/jquery-file-upload/server/php/ 2 -
+/wp-includes/atom.php 1 http://anujashah.com//wp-includes/atom.php
+/../_Links/resume.php 3 -
+/index2.php 1 http://anujashah.com//index2.php
+/upload.php 2 http://anujashah.com//upload.php
+/www-anujashah-com/_Content/.DS_Store 4 -
+/wp-content/plugins/backup-backup/includes/backup-heart.php 1 -
+/wp-content/plugins/real/v.php 1 http://anujashah.com//wp-content/plugins/real/v.php
+/wp-content/plugins/index.php 2 http://anujashah.com//wp-content/plugins/index.php
+/wp-includes/Text/about.php 1 http://anujashah.com//wp-includes/Text/about.php
+/hanna1337.php 1 http://anujashah.com//hanna1337.php
+/themes.php 2 http://anujashah.com//themes.php
+/humans.txt 6 http://www.anujashah.com/humans.txt
+/images/vuln.php 1 http://anujashah.com//images/vuln.php
+/coloradmin/assets/plugins/jquery-file-upload/server/php/ 2 -
+/jquery.filer/php/readme.txt 1 -
+/wp-22.php 1 http://anujashah.com//wp-22.php
+/wp-login.php 2 http://mail.anujashah.com/wp-login.php
+/wp-content/themes/classic/inc/casper.php 1 http://anujashah.com//wp-content/themes/classic/inc/casper.php
+/tmpshell.php 1 http://anujashah.com//tmpshell.php
+/wp-includes/js/jquery/jquery.js 3 -
+/fx.php 1 http://anujashah.com//fx.php
+/home.php 1 http://anujashah.com//home.php
+/wp-content/themes/twentytwenty/404.php 1 http://anujashah.com//wp-content/themes/twentytwenty/404.php
+/phpformbuilder/plugins/filemanager/dialog.php 1 -
+/wp-content/plugins/revslider/includes/external/page/index.php 1 http://anujashah.com//wp-content/plugins/revslider/includes/external/page/index.php
+/old/wp-content/plugins/seoplugins/mar.php 1 -
+/wp-content/themes/ccx/index.php 1 -
+/js/kcfinder/upload.php 1 -
+/assets/plugins/jquery.filer/php/readme.txt 1 -
+/ws.php 2 http://anujashah.com//ws.php
+/Deadcode1975.php 1 http://anujashah.com//Deadcode1975.php
+/pi.php 1 http://anujashah.com//pi.php
+/backup/wp-admin/setup-config.php 1 www.google.com
+/wp-admin/js/widgets/moon.php 1 www.google.com
+/admin/filemanager/dialog.php 1 -
+/cjfuns.php 2 www.google.com
+/sett.php 1 http://anujashah.com//sett.php
+/wordpress/wp-content/plugins/linkpreview/db.php 1 -
+/gaza.php 1 http://anujashah.com//gaza.php
+/wp/wp-content/themes/pridmag/db.php 1 -
+/wp-admin/cloud.php 1 -
+/options-permalink.php 1 -
+/c.php 1 http://anujashah.com//c.php
+/wso112233.php 3 -
+/Gecko.php 1 http://anujashah.com//Gecko.php
+/wp-content/plugins/ccx/index.php 3 -
+/css.php 2 http://anujashah.com//css.php
+/feed/ 1 http://anujashah.com/feed/
+/R00T.php 1 http://anujashah.com//R00T.php
+/filemanager/filemanager/dialog.php 1 -
+/cgi-bin/iR7SzrsOUEP.php 1 -
+/0x.php 1 http://anujashah.com//0x.php
+/doc.php 2 http://anujashah.com//doc.php
+/wp-includes/js/wp-emoji-release.min.js 1 www.google.com
+/lyda.php 1 http://anujashah.com//lyda.php
+/wp-admin/wp_filemanager.php 1 http://anujashah.com//wp-admin/wp_filemanager.php
+/wp-admin/alfa.php 2 http://anujashah.com//wp-admin/alfa.php
+/uploads/xleet.php 1 http://anujashah.com//uploads/xleet.php
+/xl2023.php 4 -
+/wp-admin/user/cloud.php 1 -
+/wp-admin/wp-22.php 1 http://anujashah.com//wp-admin/wp-22.php
+/bc 6 http://mail.anujashah.com/bc
+/utchiha_uploader.php 1 http://anujashah.com//utchiha_uploader.php
+/.env.php 1 -
+/me.php 1 http://anujashah.com//me.php
+/wp_wrong_datlib.php 1 http://anujashah.com//wp_wrong_datlib.php
+/default.php 2 http://anujashah.com//default.php
+/post-sitemap.xml 1 http://anujashah.com/post-sitemap.xml
+/customize.php 2 http://anujashah.com//customize.php
+/rxr.php 2 http://anujashah.com//rxr.php
+/wp-content/plugins/TOPXOH/wDR.php 2 http://anujashah.com//wp-content/plugins/TOPXOH/wDR.php
+/tmp/vuln.php 1 http://anujashah.com//tmp/vuln.php
+/assets/vendor_admin/plugins/jquery-file-upload/server/php/ 2 -
+/chosen.php 1 -
+/v2/_catalog 4 -
+/shells.php 1 http://anujashah.com//shells.php
+/images/cloud.php 1 -
+/wp-admin/1975.php 1 http://anujashah.com//wp-admin/1975.php
+/shell.php 3 www.google.com
+/wp-content/home.php 1 http://anujashah.com//wp-content/home.php
+/contents.php 1 http://anujashah.com//contents.php
+/alfacgiapi/perl.alfa 1 -
+/uploads/up.php 1 http://anujashah.com//uploads/up.php
+/sitemap.txt 2 -
+/ayk.php 1 -
+/timthumb.php 1 -
+/wp/wp-content/plugins/seoplugins/db.php 1 -
+/author-sitemap.xml 1 http://anujashah.com/author-sitemap.xml
+/wp-content/themes/wp-pridmag/up.php 1 www.google.com
+/wp-admin/css/colors/coffee/about.php 1 www.google.com
+/wordpress/wp-content/plugins/seoplugins/mar.php 1 -
+/www-anujashah-com/_Files/.DS_Store 4 -
+/wp-admin/admin-ajax.php 1 http://anujashah.com//wp-admin/admin-ajax.php
+/wp-admin/wso.php 1 http://anujashah.com//wp-admin/wso.php
+/alfa-rex.php 2 www.google.com
+/wp-includes/js/tinymce/skins/lightgray/fonts/index.php 1 http://anujashah.com//wp-includes/js/tinymce/skins/lightgray/fonts/index.php
+/media/system/js/core.js 2 -
+/login.action 4 -
+/wp-content/plugins/anttt/simple.php 1 http://anujashah.com//wp-content/plugins/anttt/simple.php
+/ton.php 1 http://anujashah.com//ton.php
+/wp-admin/setup-config.php 3 -
+/log.php 2 http://anujashah.com//log.php
+/d7.php 1 http://anujashah.com//d7.php
+/radio.php 8 -
+/sh.php 1 http://anujashah.com//sh.php
+/wp-content/plugins/envato-market/inc/class-envato-market-api.php 1 www.google.com
+/wp-content/shell20211028.php 3 -
+/classwithtostring.php 2 http://anujashah.com//classwithtostring.php
+/old/wp-content/themes/seotheme/db.php 1 -
+/wp-admin/css/colors/blue/CasperExV1.php 2 http://anujashah.com//wp-admin/css/colors/blue/CasperExV1.php
+/uph.php 1 http://anujashah.com//uph.php
+/plugins/jquery.filer/php/readme.txt 1 -
+/indexs.php 1 http://anujashah.com//indexs.php
+/blog/wp-content/plugins/seoplugins/mar.php 1 -
+/wp-include/auto_seo.php 1 -
+/wp-content/plugins/fix/up.php 13 -
+/wp-admin/css/colors/blue/uploader.php 1 http://anujashah.com//wp-admin/css/colors/blue/uploader.php
+/exit.php 1 http://anujashah.com//exit.php
+/mad.php 2 http://anujashah.com//mad.php
+/ccx/index.php 1 www.google.com
+/.well-known/acme-challenge/moon.php 1 www.google.com
+/moto.php 1 http://anujashah.com//moto.php
+/1337.php 1 http://anujashah.com//1337.php
+/evil.php 1 http://anujashah.com//evil.php
+/assets/admin/tinymce/plugins/filemanager/dialog.php 1 -
+/wp-includes/radio.php 1 http://anujashah.com//wp-includes/radio.php
+/leet.php 1 http://anujashah.com//leet.php
+/wp-admin/user/xmrlpc.php 1 -
+/wp-admin/options.php 1 -
+/cgi-bin/xmrlpc.php 1 -
+/wp/wp-content/plugins/linkpreview/db.php 1 -
+/wp-content/plugins/about.php 1 -
+/wp-admin/network/db.php 1 http://anujashah.com//wp-admin/network/db.php
+/old/wp-content/themes/seotheme/mar.php 1 -
+/sitemapindex.xml 1 http://anujashah.com/sitemapindex.xml
+/lib/jquery-file-upload/server/php/ 2 -
+/asset/kcfinder/upload.php 1 -
+/1877.php 1 http://anujashah.com//1877.php
+/alfa-rex.php7 1 -
+/wp-content/uploads/xl2023.php 1 -
+/wp-content/plugins/instabuilder2/cache/plugins/moon.php 2 http://anujashah.com//wp-content/plugins/instabuilder2/cache/plugins/moon.php
+/css/xmrlpc.php 1 -
+/cgi-bin/cloud.php 1 -
+/wp-content/patior/ 2 www.google.com
+/sitemap.xml 8 -
+/wp-content/uploads/wpr-addons/forms/CasperSecurity.php 1 www.google.com
+/wp-content/uploads/typehub/custom/.RxR.php 1 http://anujashah.com//wp-content/uploads/typehub/custom/.RxR.php
+/tinymce/plugins/filemanager/dialog.php 1 -
+/moon.php 2 http://anujashah.com//moon.php
+/wp-includes/blocks/table/int/tmpl/index.php 3 www.google.com
+/ee.php 3 http://anujashah.com//ee.php
+/wp-admin/user/iR7SzrsOUEP.php 1 -
+/geju.php 1 -
+/wp-admin/xmrlpc.php 1 -
+/wp-content/themes/welfare-charity/www.php 1 http://anujashah.com//wp-content/themes/welfare-charity/www.php
+/adminer.php 1 -
+/wp-content/plugins/seoplugins/db.php 2 www.google.com
+/assets/jquery-file-upload/server/php/ 2 -
+/hehe.php 1 http://anujashah.com//hehe.php
+/xox.php 1 http://anujashah.com//xox.php
+/cgi-bin/cgi-bin/about.php 1 http://anujashah.com//cgi-bin/cgi-bin/about.php
+/wp-admin/css/colors/blue/cloud.php 1 -
+/public/scripts/filemanager/dialog.php 1 -
+/thumb.php 1 -
+/old/wp-admin/setup-config.php 1 www.google.com
+/wp-content/woh.php 1 -
+/wp-admin/shell20211028.php 2 http://anujashah.com//wp-admin/shell20211028.php
+/core 1 -
+/wp-content/upload.php 1 http://anujashah.com//wp-content/upload.php
+/assets/admin/bower_components/jquery.filer/php/readme.txt 1 -
+/images/iR7SzrsOUEP.php 1 -
+/font-editor.php 1 http://anujashah.com//font-editor.php
+/wp-admin/wp-trc.php 1 http://anujashah.com//wp-admin/wp-trc.php
+/ups.php 1 http://anujashah.com//ups.php
+/wp-admin/network/xmrlpc.php 1 -
+/wp-includes/js/tinymce/skins/lightgray/img/index.php 1 -
+/admin/controller/extension/extension/Not_Found.php 1 http://anujashah.com//admin/controller/extension/extension/Not_Found.php
+/503.php 1 http://anujashah.com//503.php
+/formcraft/file-upload/server/php/ 2 -
+/wp-pano 2 -
+/myk.php 1 -
+/wp-content/plugins/core/include.php 1 www.google.com
+/fan.php 1 http://anujashah.com//fan.php
+/alfanew.php 1 -
+/xml.php 2 http://anujashah.com//xml.php
+/wp-include/inputs.php 1 -
+/wp-admin/wso112233.php 2 http://anujashah.com//wp-admin/wso112233.php
+/wp-admin/images/install.php 2 www.google.com
+/bk 6 http://mail.anujashah.com/bk
+/old/wp-content/plugins/linkpreview/db.php 1 -
+/wp-content/gecko-new.php 1 -
+/wp-admin/install.php 3 -
+/wp-content/themes/seotheme/mar.php 3 www.google.com
+/fox.php 2 http://anujashah.com//fox.php
+/about 4 -
+/cgi-bin/moon.php 1 www.google.com
+/wp-content/xl2023.php 1 -
+/gawean.PhP7 1 -
+/magento_version 1 -
+/__1975.php 1 http://anujashah.com//__1975.php
+/filemanager/dialog.php 2 -
+/ns.php 1 -
+/wp-includes/shell20211028.php 1 http://anujashah.com//wp-includes/shell20211028.php
+/iR7SzrsOUEP.php 1 -
+/wp-content/plugins/wordpresss3cll/up.php 2 http://anujashah.com//wp-content/plugins/wordpresss3cll/up.php
+/columns.php 1 http://anujashah.com//columns.php
+/anon.php 1 http://anujashah.com//anon.php
+/wp-admin/js/about.php7 1 http://anujashah.com//wp-admin/js/about.php7
+/kcfinder/upload.php 1 -
+/wp-content/fw.php 1 http://anujashah.com//wp-content/fw.php
+/blog/ 1 -
+/wp-admin/includes/about.php 1 http://anujashah.com//wp-admin/includes/about.php
+/css/cloud.php 1 -
+/wp-content/fx.php 1 -
+/wp-content/themes/pridmag/db.php 3 www.google.com
+/www-anujashah-com/_Scripts/.DS_Store 4 -
+/old/wp-content/themes/pridmag/db.php 1 -
+/wp-content/wso.php 1 -
+/wp-content/up.php 2 http://anujashah.com//wp-content/up.php
+/repeater.php 7 -
+/shell20211028.php 3 -
+/autoload_classmap.php 1 http://anujashah.com//autoload_classmap.php
+/wp-content/plugins/ioptimization/IOptimize.php 1 http://anujashah.com//wp-content/plugins/ioptimization/IOptimize.php
+/debug/default/index 1 -
+/.git/config 21 -
+/wp.php 3 -
+/wp-admin/css/colors/xmrlpc.php 1 -
+/users.php 2 http://anujashah.com//users.php
+/dropdown.php 3 www.google.com
+/wp-admin/xleet.php 1 http://anujashah.com//wp-admin/xleet.php
+/wp-content/plugins/linkpreview/wp-blog.php 1 http://anujashah.com//wp-content/plugins/linkpreview/wp-blog.php
+/assets/scripts/filemanager/dialog.php 1 -
+/.well-known/acme-challenge/install.php 1 http://anujashah.com//.well-known/acme-challenge/install.php
+/wordpress/ 1 -
+/alfaindex.php 1 http://anujashah.com//alfaindex.php
+/wp-includes/js/tinymce/plugins/compat3x/css/index.php 1 http://anujashah.com//wp-includes/js/tinymce/plugins/compat3x/css/index.php
+/test 1 -
+/xmrlpc.php 1 -
+/templates/beez3/error.php 1 http://anujashah.com//templates/beez3/error.php
+/xlettt.php 1 http://anujashah.com//xlettt.php
+/admin/.env 2 -
+/sites/all/libraries/elfinder/connectors/php/connector.php 1 http://anujashah.com//sites/all/libraries/elfinder/connectors/php/connector.php
+/wp-admin/js/widgets/about.php7 1 -
+/h4xor.php 1 http://anujashah.com//h4xor.php
+/google.php 2 http://anujashah.com//google.php
+/assets/backend/plugins/jquery-file-upload/server/php/ 2 -
+/tron.php 1 http://anujashah.com//tron.php
+/assets/lib/jquery-file-upload/server/php/ 2 -
+/wp-file.php 1 http://anujashah.com//wp-file.php
+/wp-head.php 4 -
+/wp-pano.php 1 -
+/access.php 1 http://anujashah.com//access.php
+/wp-admin/images/iR7SzrsOUEP.php 1 -
+/mini.php 2 http://anujashah.com//mini.php
+/fm.php 2 http://anujashah.com//fm.php
+/wp-admin/network/iR7SzrsOUEP.php 1 -
+/406.php 1 http://anujashah.com//406.php
+/assets/plugins/filemanager/dialog.php 1 -
+/wp-content/wp.php 1 -
+/wpx.php 1 http://anujashah.com//wpx.php
+/0x55.php 1 http://anujashah.com//0x55.php
+/wp-content/plugins/raizo/raizoworm.php 1 -
+/alfa.php 1 http://anujashah.com//alfa.php
+/wp-content/plugins/apikey/mar.php 1 http://anujashah.com//wp-content/plugins/apikey/mar.php
+/wp-content/wp_filemanager.php 1 http://anujashah.com//wp-content/wp_filemanager.php
+/xmlrpc2.php 1 http://anujashah.com//xmlrpc2.php
+/wordpress/wp-content/themes/seotheme/db.php 1 -
+/wp-content/plugins/backup-backup/admin/css/bmi-plugin.min.css 3 -
+/wp-content/ 1 -
+/lufi.php 1 http://anujashah.com//lufi.php
+/an.php 1 http://anujashah.com//an.php
+/.well-known/acme-challenge/license.php 1 www.google.com
+/category-sitemap.xml 1 http://anujashah.com/category-sitemap.xml
+/wp-includes/theme-compat/wp-conflg.php 1 -
+/wp-content/cong.php 1 http://anujashah.com//wp-content/cong.php
+/bala.php 1 http://anujashah.com//bala.php
+/home 7 http://mail.anujashah.com/home
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php 2 http://anujashah.com//wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php
+/term.php 1 http://anujashah.com//term.php
+/tools.php 1 http://anujashah.com//tools.php
+/b1a3k.php 1 http://anujashah.com/b1a3k.php
+/.well-known/admin.php 1 www.google.com
+/testing 1 -
+/wp-includes/wp-info.php 1 www.google.com
+/sendgrid.env 1 -
+/options-reading.php 1 -
+/wp-admin/css/index.php 1 www.google.com
+/sftp-config.json 2 -
+/wp-admin/css/colors/blue/about.php 1 www.google.com
+/update-core.php 1 http://anujashah.com//update-core.php
+/wp-content/plugins/masterx/wpx.php 1 http://anujashah.com//wp-content/plugins/masterx/wpx.php
+/wp-info.php 3 www.google.com
+/www-anujashah-com/_Links/.DS_Store 4 -
+/wp_filemanager.php 1 http://anujashah.com//wp_filemanager.php
+/403.php 2 http://anujashah.com//403.php
+/wp-content/upgrade/iR7SzrsOUEP.php 1 -
+//feed/ 1 -
+/js/jquery-file-upload/server/php/ 2 -
+/assets/color_admin/plugins/jquery-file-upload/server/php/ 2 -
+/wp-content/plugins/w0rdpr3ssnew/about.php 1 http://anujashah.com//wp-content/plugins/w0rdpr3ssnew/about.php
+/z.php 1 http://anujashah.com//z.php
+/mar.php 1 http://anujashah.com//mar.php
+/inputs.php 9 www.google.com
+/gists/cache 1 -
+/assets/plugins/elfinder/elfinder.html 1 -
+/wp-content/plugins/incache/front/incache.jpeg 1 -
+/.well-known/acme-challenge/cloud.php 2 www.google.com
+/wp-admin/includes/cloud.php 1 -
+/wp-content/plugins/revslider/includes/page/index.php 1 http://anujashah.com//wp-content/plugins/revslider/includes/page/index.php
+/metronic/assets/global/plugins/jquery-file-upload/server/php/ 2 -
+/wp-content/plugins/mw-wp-form/css/admin-common.css 3 -
+/old/wp-content/plugins/seoplugins/db.php 1 -
+/clen.php 1 http://anujashah.com//clen.php
+/www.php 1 http://anujashah.com//www.php
+/www-anujashah-com/error_log/.DS_Store 4 -
+/wp-admin/js/widgets/iR7SzrsOUEP.php 1 -
+/xzourt.php 1 http://anujashah.com//xzourt.php
+/server-status 4 -
+/alfanew.php7 1 http://anujashah.com//alfanew.php7
+/plugin-install.php 1 http://anujashah.com//plugin-install.php
+/sym.php 1 http://anujashah.com//sym.php
+/assets/plugins/kcfinder/upload.php 1 -
+/tinymce/filemanager/dialog.php 1 -
+/plugins/kcfinder/upload.php 1 -
+/small.php 2 http://anujashah.com//small.php
+/wp-content/plugins/wp-file-upload/ROOBOTS.php 1 http://anujashah.com//wp-content/plugins/wp-file-upload/ROOBOTS.php
+/wp-content/db-cache.php 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 1 -
+/config.json 4 -
+/.well-known/acme-challenge/iR7SzrsOUEP.php 1 -
+/assets/admin/js/tinymce/plugins/filemanager/dialog.php 1 -
+/400.shtml 2 http://anujashah.com/../_Links/contact.php
+/xl2023x.php 1 -
+/demo.php 1 http://anujashah.com//demo.php
+/class/phpformbuilder/plugins/filemanager/dialog.php 1 -
+/about.php 2 http://anujashah.com//about.php
+/xleet-shell.php 1 -
+/wordpress/wp-content/plugins/seoplugins/db.php 1 -
+/text.php 2 http://anujashah.com//text.php
+/ini.php 1 http://anujashah.com//ini.php
+/blog/wp-content/plugins/linkpreview/db.php 1 -
+/assets/global/plugins/jquery-file-upload/server/php/ 2 -
+/wp-admin/network/cloud.php 1 -
+/robots.txt 103 -
+/wp-content/plugins/install.php 1 http://anujashah.com//wp-content/plugins/install.php
+/wp-content/plugins/seoplugins/mar.php 2 www.google.com
+/F0x.php 1 http://anujashah.com//F0x.php
+/wp-includes/home.php 1 http://anujashah.com//wp-includes/home.php
+/wp-2019.php 1 http://anujashah.com//wp-2019.php
+/wp-content/plugins/seoo/wsoyanz.php 1 www.google.com
+/wp-content/dropdown.php 1 http://anujashah.com//wp-content/dropdown.php
+/private.php 1 http://anujashah.com//private.php
+/0z.php 2 http://anujashah.com//0z.php
+/xx.php 2 http://anujashah.com//xx.php
+/wp-content/plugins/hellopress/wp_filemanager.php 3 -
+/wp-includes/wp-class.php 3 http://anujashah.com//wp-includes/wp-class.php
+/theme-install.php 1 http://anujashah.com//theme-install.php
+/wp-includes/random_compat/random_bytes_cyclone.php 1 http://anujashah.com//wp-includes/random_compat/random_bytes_cyclone.php
+/blog/wp-content/themes/pridmag/db.php 1 -
+/wp-plugins.php 1 http://anujashah.com//wp-plugins.php
+/vendor/laravel-filemanager/js/script.js 1 -
+/shellx.php 1 http://anujashah.com//shellx.php
+/edit-form.php 1 -
+/wp-content/themes/twenty/twenty.php 1 http://anujashah.com//wp-content/themes/twenty/twenty.php
+/page-sitemap.xml 1 http://anujashah.com/page-sitemap.xml
+/wp-admin/network/subjects.php 1 http://anujashah.com//wp-admin/network/subjects.php
+/wp-content/plugins/backup-backup/includes/kro.php 1 -
+/content.php 1 -
+/wp_info.php 1 http://anujashah.com//wp_info.php
+/wp-admin/js/widgets/cloud.php 1 -
+/telescope/requests 4 -
+/public/javascript/jquery.upload/server/php/ 2 -
+/wp-config.php 1 -
+/wp 8 http://mail.anujashah.com/wp
+/wp-admin/css/colors/coffee/index.php 2 www.google.com
+/upl.php 3 -
+/img/xmrlpc.php 1 -
+/backup/ 1 -
+/.well-known/security.txt 3 http://www.anujashah.com/.well-known/security.txt
+/cgi-bin/cgi-bin/about.php7 1 http://anujashah.com//cgi-bin/cgi-bin/about.php7
+/kill.php 1 http://anujashah.com//kill.php
+/wp-includes/rest-api/about.php 1 http://anujashah.com//wp-includes/rest-api/about.php
+/blog/wp-content/themes/seotheme/db.php 1 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 4 -
+/assets/tinymce/plugins/filemanager/dialog.php 1 -
+/wordpress/wp-content/themes/pridmag/db.php 1 -
+/wp/ 1 -
+/wp-content/plugins/Cache/dropdown.php 3 http://anujashah.com//wp-content/plugins/Cache/dropdown.php
+/_all_dbs 4 -
+/smm.php 1 http://anujashah.com//smm.php
+/by.php 2 http://anujashah.com//by.php
+/wp-content/plugins/ 1 http://anujashah.com//wp-content/plugins/
+/user-new.php 1 http://anujashah.com//user-new.php
+/emergency.php 1 http://anujashah.com//emergency.php
+/utchiha.php 1 http://anujashah.com//utchiha.php
+/wp-admin/includes/users.php 2 http://anujashah.com//wp-admin/includes/users.php
+/wp-admin/css/colors/coffee/xmrlpc.php 1 -
+/resources/global/plugins/jquery-file-upload/server/php/ 2 -
+/my1.php 1 http://anujashah.com//my1.php
+/wp-admin/includes/xmrlpc.php 1 -
+/wp-admin/js/widgets/xmrlpc.php 1 -
+/wp-content/plugins/dzs-zoomsounds/1877.php 2 http://anujashah.com/wp-content/plugins/dzs-zoomsounds/1877.php
+/cloud.php 2 -
+/wp-content/themes/gaukingo/db.php 1 http://anujashah.com//wp-content/themes/gaukingo/db.php
+/st.php 1 http://anujashah.com//st.php
+/update.php 1 http://anujashah.com//update.php
+/utchiha505.php 1 http://anujashah.com//utchiha505.php
+/assets/vendor/jquery.filer/php/readme.txt 1 -
+/_ignition/execute-solution 1 -
+/wp/wp-content/themes/seotheme/mar.php 1 -
+/newsite 1 -
+/lock0360.php 1 http://anujashah.com//lock0360.php
+/wp-content/plugins/linkpreview/db.php 3 www.google.com
+/images/F0x.php 1 http://anujashah.com//images/F0x.php
+/xxl.php 2 -
+/assets/plugins/jquery-file-upload/server/php/ 2 -
+/wp-content/alfa.php 1 http://anujashah.com//wp-content/alfa.php
+/01.php 1 http://anujashah.com//01.php
+/wp-content/uploads/2023/07/xl2023.php 1 -
+/wp-content/plugins/elementor/includes/settings/index.php 1 http://anujashah.com//wp-content/plugins/elementor/includes/settings/index.php
+/xleet.php 3 -
+/admin/controller/extension/wpm.php 1 http://anujashah.com//admin/controller/extension/wpm.php
+/wp-admin/css/colors/coffee/cloud.php 1 -
+/wordpress/wp-content/themes/seotheme/mar.php 1 -
+/xmlrpc.php 5 http://anujashah.com/xmlrpc.php
+/scripts/filemanager/dialog.php 1 -
+/makhdmax.php 1 http://anujashah.com//makhdmax.php
+/security.txt 1 http://www.anujashah.com/security.txt
+/wp-content/themes/applica/400.php 1 -
+/wp-admin/css/colors/blue/xmrlpc.php 1 -
+/wikindex.php 1 http://anujashah.com//wikindex.php
+/temp/ 1 -
+/install.php 2 www.google.com
+/plugins.php 2 http://anujashah.com//plugins.php
+/wp-content/index.php 3 www.google.com
+/public/vendor/laravel-filemanager/js/script.js 1 -
+/wp-admin/includes/iR7SzrsOUEP.php 1 -
+/media/mediamgr/other/jq_fileupload/server/php/ 2 -
+/style.php 9 -
+/public/javascript/filemanager/dialog.php 1 -
+/wp-json/ 1 -
+/wp-content/plugins/WordPressCore/include.php 2 www.google.com
+/wp-content/plugins/core-stab/casper.php 1 http://anujashah.com//wp-content/plugins/core-stab/casper.php
+/ 27 http://162.241.253.141:80/
+/snd.php 1 http://anujashah.com//snd.php
+/../IMG_9020.PNG 2 -
+/wp-includes/install.php 1 http://anujashah.com//wp-includes/install.php
+/zz.php 1 http://anujashah.com//zz.php
+/1975.php 1 http://anujashah.com//1975.php
+/alf.php 1 http://anujashah.com//alf.php
+/sitemap_news.xml 1 http://anujashah.com/sitemap_news.xml
+/ccx/aa/index.php 1 -
+/home_slider-sitemap.xml 1 http://anujashah.com/home_slider-sitemap.xml
+/wp/wp-content/plugins/seoplugins/mar.php 1 -
+/symlink.php 1 http://anujashah.com//symlink.php
+/www-anujashah-com/_Includes/.DS_Store 4 -
+/wp-admin/maint/moon.php 2 www.google.com
+/end.php 1 http://anujashah.com//end.php
+/wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php 1 http://anujashah.com//wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php
+/gecko.php 2 http://anujashah.com//gecko.php
+/alfanew.PhP7 1 -
+/uploads/wp-blog.php 1 http://anujashah.com//uploads/wp-blog.php
+/.well-known/acme-challenge/xmrlpc.php 2 www.google.com
+/media/filemanager/dialog.php 1 -
+/1.php 2 http://anujashah.com//1.php
+/wp-includes/fw.php 1 http://anujashah.com//wp-includes/fw.php
+/sites/default/files/HolaDR7_70778.php 1 http://anujashah.com//sites/default/files/HolaDR7_70778.php
+/sitemap-news.xml 1 http://anujashah.com/sitemap-news.xml
+/byp.php 2 http://anujashah.com//byp.php
+/wp-content/plugins/core-plugin/include.php 1 www.google.com
+/v3n0m.php 1 http://anujashah.com//v3n0m.php
+/lock.php 1 http://anujashah.com//lock.php
+/wp-content/inputs.php 1 -
+/new/ 1 -
+/init.php 2 http://anujashah.com//init.php
+/up.php 1 http://anujashah.com//up.php
+/wp-content/install.php 1 http://anujashah.com//wp-content/install.php
+/feed/atom/ 1 -
+/404.php 1 http://anujashah.com//404.php
+/wp-admin/x.php 1 www.google.com
+/lufix.php 2 http://anujashah.com//lufix.php
+/wordpress 8 http://mail.anujashah.com/wordpress
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 1 -
+/admin-heade.php 1 -
+/Marvins.php 1 http://anujashah.com//Marvins.php
+/../_Links/about.php 3 -
+/admin/ 1 -
+/wp-2020.php 1 http://anujashah.com//wp-2020.php
+/backup 6 http://mail.anujashah.com/backup
+/credits.php 1 http://anujashah.com//credits.php
+/ads.txt 6 http://www.anujashah.com/ads.txt
+/wp-admin/maint/iR7SzrsOUEP.php 1 -
+/resources/js/tinymce/plugins/filemanager/dialog.php 1 -
+/user.php 2 http://anujashah.com//user.php
+/sitemaps.xml 2 -
+/blog/wp-content/themes/seotheme/mar.php 1 -
+/modules/mod_simplefileuploadv1.3/elements/udd.php 1 http://anujashah.com//modules/mod_simplefileuploadv1.3/elements/udd.php
+/old 7 http://mail.anujashah.com/old
+/payout.php 1 http://anujashah.com//payout.php
+/edit-comments.php 2 http://anujashah.com//edit-comments.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 259
+51.15.17.105 12 12 19968 20231224041440
+184.154.76.14 11 23 48358 20231215205105
+184.154.139.27 9 19 38857 20231217211944
+198.20.67.198 5 11 23041 20231216214848
+42.83.147.54 5 5 8320 20231220001240
+37.19.197.180 5 5 8176 20231226212927
+79.124.59.74 4 5 6882 20231210151251
+124.225.164.130 4 4 6656 20231226194130
+114.80.36.40 4 4 6656 20231227230046
+154.38.168.152 4 4 6656 20231218033600
+223.244.35.77 3 3 4992 20231231162753
+184.154.139.46 3 7 13919 20231219210459
+125.94.144.102 3 3 4992 20231207014034
+144.217.135.175 3 3 11766 20231203024420
+196.196.53.41 3 3 13038 20231228224436
+69.160.160.61 3 7 2643564 20231218025050
+182.43.70.143 3 3 4992 20231227042108
+129.226.158.26 2 2 3328 20231210130716
+184.154.76.23 2 4 8700 20231218204801
+170.106.104.42 2 2 3328 20231223190105
+139.59.103.217 2 2 7844 20231224002858
+182.42.104.32 2 2 3328 20231219163952
+184.154.139.47 2 4 9563 20231203212238
+43.133.66.151 2 2 3328 20231214163247
+46.246.8.166 2 2 9116 20231216013758
+93.158.91.11 1 2 423878 20231231060843
+3.110.236.102 1 7 74299 20231202203257
+104.248.199.73 1 1 12238 20231201042909
+198.235.24.15 1 1 3922 20231226221327
+115.164.119.205 1 1 3922 20231225191212
+205.210.31.5 1 1 3922 20231226123400
+142.93.112.211 1 1 1664 20231208180057
+34.217.47.216 1 1 1664 20231206025619
+167.99.8.63 1 1 3922 20231211064955
+43.130.62.164 1 1 1664 20231215015550
+143.198.40.216 1 1 1664 20231224181404
+13.52.237.32 1 23 224513 20231208183236
+139.144.150.45 1 1 3922 20231211114806
+113.219.218.197 1 1 1664 20231214075416
+159.75.250.236 1 1 1664 20231215051855
+198.235.24.173 1 1 37994 20231225130805
+3.235.162.121 1 2 1962 20231209134357
+198.235.24.54 1 1 38006 20231223072856
+192.71.2.57 1 1 1664 20231205192118
+103.195.101.232 1 1 1664 20231220185249
+185.241.208.50 1 1 1664 20231221042350
+169.150.196.9 1 1 1664 20231202032343
+175.6.217.4 1 1 1664 20231223092636
+64.253.87.243 1 1 0 20231230222303
+182.44.8.254 1 1 1664 20231216102857
+65.154.226.166 1 1 1664 20231204210916
+43.130.32.224 1 1 1664 20231218225650
+49.7.227.204 1 1 1664 20231212234223
+34.219.150.140 1 1 1664 20231226023512
+34.215.44.105 1 1 1664 20231202023823
+34.221.119.26 1 1 3922 20231211081806
+79.137.202.92 1 1 1664 20231229204317
+93.158.98.56 1 1 1664 20231211104014
+69.167.41.222 1 1 0 20231224092308
+15.235.50.228 1 1 3749 20231228051805
+143.198.143.210 1 1 1664 20231218171814
+51.158.109.198 1 1 1664 20231224201029
+68.183.58.67 1 1 1664 20231209061123
+147.182.130.98 1 1 3922 20231223185809
+213.202.233.34 2 2 3328 20231231083856
+212.47.230.174 1 2 1962 20231224202930
+64.225.62.153 1 1 3922 20231213125024
+199.45.154.18 1 1 12232 20231226013205
+199.45.155.35 1 1 12238 20231230163005
+94.247.172.129 1 1 1664 20231215130909
+51.158.236.226 1 1 1664 20231221134145
+117.33.163.216 1 1 1664 20231219064313
+38.242.250.246 1 1 1664 20231221024748
+203.2.64.59 2 2 3328 20231229045407
+20.14.83.224 2 2 3328 20231206114623
+167.172.236.72 1 1 12234 20231229044119
+182.44.2.148 2 2 3328 20231215182713
+49.51.179.103 2 2 3328 20231225063039
+147.182.148.92 1 1 12241 20231227225909
+58.211.23.183 1 1 1664 20231209222522
+174.87.218.154 1 1 3922 20231226120115
+52.34.49.80 1 1 1664 20231206025543
+54.193.165.186 1 26 261283 20231203110444
+180.110.203.108 2 2 3328 20231229201524
+43.130.47.136 1 1 1664 20231205215527
+3.142.245.53 1 1 1664 20231210090325
+199.244.88.226 1 1 1664 20231214075017
+199.45.155.19 1 1 12235 20231223162300
+43.131.48.214 1 1 1664 20231213145126
+128.90.147.224 1 1 0 20231210234146
+3.237.200.8 1 3 2260 20231218002551
+5.133.192.168 1 2 423878 20231218213005
+93.159.230.89 2 2 3328 20231222220255
+54.221.61.250 1 2 1962 20231230134144
+34.210.252.59 2 2 3328 20231226023648
+31.220.0.86 1 1 12243 20231201043855
+45.141.215.135 2 2 7844 20231219111621
+139.59.190.228 1 1 1664 20231202173310
+198.235.24.120 1 1 37994 20231229012239
+165.227.224.62 1 1 1664 20231223083605
+43.153.70.68 1 1 1664 20231201172114
+199.45.155.33 2 2 13905 20231225120814
+43.153.93.68 2 2 3328 20231221133532
+199.45.154.49 1 1 12233 20231212150455
+195.90.221.76 1 1 1664 20231229115355
+51.158.126.132 2 2 0 20231216091045
+20.25.162.194 1 1 1664 20231202204452
+65.109.146.107 1 1 3922 20231221203314
+34.212.228.123 1 1 1664 20231202023639
+182.42.111.156 2 2 3328 20231225151618
+20.163.69.3 2 2 7844 20231207034202
+66.249.65.165 0 1 152928 
+35.177.232.162 0 2 596 
+54.241.219.151 1 5 2856 20231208112853
+170.106.82.193 1 1 1664 20231208023219
+54.185.100.80 1 1 1664 20231206025619
+205.210.31.83 1 1 37994 20231204184042
+5.188.62.174 1 1 1664 20231217085812
+34.214.108.118 1 1 1664 20231202023836
+198.235.24.116 1 1 3922 20231229002402
+165.232.84.95 1 1 1664 20231228182345
+205.210.31.165 1 1 3922 20231208014115
+178.62.230.189 1 1 1664 20231222173856
+35.85.154.98 1 1 1664 20231206025636
+198.235.24.224 1 1 38006 20231225191041
+185.65.135.158 1 1 1664 20231203040246
+83.145.36.70 1 1 0 20231203030620
+62.141.44.236 1 1 1664 20231219134015
+14.215.163.132 1 1 1664 20231218132840
+182.44.9.147 1 1 1664 20231216200808
+180.102.134.69 1 1 1664 20231226092044
+34.232.51.180 2 7 63707 20231208110113
+64.227.131.27 1 1 1664 20231212182552
+144.91.106.14 2 2 3328 20231224011509
+58.49.233.126 1 1 1664 20231224123448
+1.38.116.20 2 8 15825159 20231214132351
+5.161.95.60 1 1 1664 20231230071117
+43.134.89.111 1 1 1664 20231220101045
+43.159.141.180 1 1 1664 20231221043817
+124.237.181.144 1 1 1664 20231215120828
+64.227.161.35 1 1 1664 20231219065602
+51.158.66.216 1 1 1664 20231222112504
+134.122.89.242 1 1 3922 20231223141938
+45.91.23.94 1 1 1664 20231223073645
+164.92.65.30 1 1 12233 20231215041638
+5.161.224.68 1 1 1664 20231230071136
+46.228.199.158 1 1 1664 20231210164956
+205.210.31.238 1 1 3922 20231201021542
+199.244.88.230 1 1 1664 20231205140443
+212.47.245.40 1 2 1962 20231222130358
+43.131.44.218 1 1 1664 20231207085604
+143.198.41.240 1 1 1664 20231220191808
+137.226.113.44 2 2 3328 20231227065143
+205.210.31.79 1 1 3922 20231204222720
+37.139.53.13 1 1 1664 20231213160238
+43.159.136.231 1 1 1664 20231202002733
+198.235.24.122 1 1 37994 20231208115819
+95.216.27.171 1 1 3749 20231228054934
+54.188.163.98 1 1 1664 20231206025607
+34.211.49.6 1 1 1664 20231218023541
+205.210.31.70 1 1 38006 20231229154107
+185.91.69.206 1 1 1664 20231222073541
+120.71.59.24 1 1 1664 20231227130912
+178.79.152.61 1 1 1664 20231231124430
+198.235.24.97 1 1 37994 20231221224234
+185.251.19.201 2 2 1664 20231206012646
+93.158.90.29 1 1 1664 20231231202415
+43.159.128.172 1 1 1664 20231221234538
+45.91.23.93 1 1 1664 20231222020155
+159.65.61.78 1 1 1664 20231230183812
+205.210.31.221 1 1 3922 20231229154549
+139.171.121.84 1 1 1664 20231220085528
+146.190.47.89 1 1 1664 20231226181338
+164.92.122.70 1 1 1664 20231210183302
+183.136.225.45 1 1 37994 20231209061517
+185.220.100.248 1 1 1664 20231214051602
+54.183.227.71 0 5 1490 
+129.159.227.195 1 1 1664 20231219051213
+5.133.192.136 1 2 423878 20231206110253
+198.235.24.19 1 1 3922 20231222182627
+154.38.168.122 2 2 3328 20231218194952
+72.13.46.5 1 1 1664 20231224175507
+222.79.103.59 1 1 1664 20231228155751
+138.197.120.5 1 1 1664 20231205074119
+5.188.62.26 2 2 3328 20231216212743
+43.131.62.4 1 1 1664 20231209205047
+185.41.152.214 1 1 3922 20231231070832
+42.83.147.53 1 1 1664 20231205182451
+62.21.25.154 1 1 3922 20231220003028
+45.61.55.132 1 1 3922 20231216195020
+184.154.139.24 2 4 9051 20231220220536
+72.13.46.2 1 1 1664 20231223060324
+93.158.91.32 1 2 423878 20231225003103
+199.45.155.34 1 1 12236 20231223211552
+183.136.225.44 2 2 41916 20231209020355
+3.238.58.112 1 2 1962 20231218141551
+185.220.100.240 1 1 1664 20231217150556
+149.56.150.191 1 5 2640308 20231203024434
+70.95.144.123 2 8 15825159 20231208211047
+198.235.24.168 1 1 37994 20231219144931
+194.26.192.215 1 1 3922 20231215060727
+212.193.54.119 2 2 3328 20231230135927
+181.215.176.146 2 2 9116 20231207155119
+43.130.37.62 2 2 3328 20231228064539
+124.226.222.66 1 1 1664 20231214004101
+159.89.143.202 1 1 3922 20231216160858
+221.229.106.25 1 1 1664 20231208093004
+113.141.91.58 1 1 1664 20231216030425
+52.39.82.197 1 1 1664 20231230023731
+45.141.215.136 2 2 7844 20231227023953
+85.143.217.209 2 2 3328 20231229171025
+146.190.227.55 1 1 1664 20231204190748
+110.166.71.39 1 1 1664 20231217040503
+18.144.82.70 1 5 2856 20231205222813
+35.212.166.193 1 1 1664 20231228051801
+54.153.65.195 1 5 2856 20231205223818
+5.166.106.233 1 1 3922 20231204062800
+54.149.72.192 1 1 1664 20231226023516
+43.133.77.208 1 1 1664 20231218045910
+13.52.99.35 1 3 2260 20231214065250
+43.154.142.98 2 2 3328 20231211175022
+64.137.14.250 1 1 1664 20231231180605
+184.154.139.48 2 4 8700 20231214202346
+18.139.221.184 1 1 1664 20231202091749
+103.81.93.214 1 5 2640308 20231202044654
+35.215.51.85 1 1 1664 20231228054931
+162.243.163.80 1 1 1664 20231216184128
+159.203.1.145 1 1 1664 20231206194927
+199.244.88.229 1 1 1664 20231226132218
+165.232.36.247 1 1 12236 20231214024353
+93.158.90.161 1 1 1664 20231215000742
+54.69.92.27 1 1 1664 20231202023718
+199.45.155.16 1 1 12230 20231210160538
+52.53.164.202 2 28 250195 20231214111131
+222.79.104.23 2 2 3328 20231217115538
+35.92.114.95 1 1 1664 20231218023324
+36.111.67.189 2 2 3328 20231231024727
+54.177.153.243 1 32 310251 20231216141912
+198.235.24.58 1 1 3922 20231215085001
+43.159.129.209 1 1 1664 20231223014947
+52.53.241.208 1 6 3154 20231219205554
+75.101.168.141 1 1 3922 20231221145310
+198.235.24.95 1 1 3922 20231219165939
+139.59.36.41 1 1 1664 20231214185804
+43.135.181.13 2 2 3328 20231220201146
+93.158.90.135 1 1 1664 20231225074604
+54.186.169.131 1 1 1664 20231230023738
+93.158.91.13 1 2 423878 20231212163552
+101.36.106.201 1 2 423878 20231212015109
+52.43.0.186 1 1 1664 20231206025545
+34.213.41.194 1 1 1664 20231202023714
+20.120.74.197 1 1 1664 20231209081936
+182.42.110.255 2 2 3328 20231226013131
+205.210.31.145 1 1 3922 20231205105046
+209.160.120.166 1 1 0 20231227003931
+173.254.236.176 2 2 7671 20231202041604
+147.135.5.29 1 1 1664 20231215210954
+45.141.215.138 2 2 5586 20231213215620
+51.158.115.62 1 1 1664 20231228041255
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20231201 8 10 44353 7
+20231202 17 29 2749633 15
+20231203 12 43 2931834 9
+20231204 10 12 62858 10
+20231205 12 22 29461 11
+20231206 15 25 453042 13
+20231207 11 13 31999 9
+20231208 14 54 16323829 13
+20231209 11 14 96708 10
+20231210 14 17 38585 10
+20231211 12 14 31766 10
+20231212 11 15 878325 10
+20231213 7 10 14800 6
+20231214 17 55 16116640 15
+20231215 13 15 41815 12
+20231216 16 46 346739 12
+20231217 8 10 29335 7
+20231218 17 27 3095340 14
+20231219 11 18 66801 10
+20231220 14 16 31277 13
+20231221 11 11 59150 11
+20231222 10 11 19196 10
+20231223 11 11 80305 11
+20231224 13 14 24782 11
+20231225 8 9 510456 8
+20231226 18 18 47150 13
+20231227 8 8 26741 7
+20231228 11 11 30520 9
+20231229 11 11 106062 11
+20231230 10 11 25848 9
+20231231 8 9 437784 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 321
+30s-2mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 333 1270783 319 296
+/_Links/resume.php 14 42078 0 12
+/_Links/about.php 8 21280 2 5
+/_Links/.. 7 27454 0 7
+/_Links/contact.php 6 27348 2 3
+/.git/config 1 12243 1 1
+END_SIDER

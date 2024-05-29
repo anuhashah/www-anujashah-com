@@ -1,0 +1,368 @@
+# Webalizer V2.23-08 Incremental Data - 09/13/2023 22:52:55
+2023 9 13 22 52 55
+103 0 63 0 2 26 761 83 62 0
+3 1 40 1 13
+2 0 83 2 1 1
+1 0 0 1 1 1
+0 0 0 0 0 0
+3 0 0 3 3 3
+0 0 0 0 0 0
+2 0 0 2 1 1
+1 0 226 1 1 1
+55 0 452 21 37 17
+7 0 0 6 7 7
+4 0 0 4 4 4
+5 0 0 5 5 5
+20 0 0 19 20 19
+3 0 0 3 3 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+2 0 0 1
+4 0 0 4
+0 0 0 0
+2 0 0 2
+1 0 226 1
+2 0 0 2
+2 0 83 1
+1 0 0 1
+2 0 0 2
+45 0 452 31
+5 0 0 5
+9 0 0 9
+2 0 0 2
+0 0 0 0
+3 0 0 3
+4 0 0 4
+0 0 0 0
+5 0 0 5
+2 0 0 2
+2 0 0 2
+0 0 0 0
+10 0 0 6
+0 0 0 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+99
+0
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+# End Of Table - urls
+# -sites- (monthly)
+ec2-15-228-63-164.sa-east-1.compute.amazonaws.com
+0 1 0 0 1 1694169307
+-
+wf-171-99-160-63.revip9.asianet.co.th
+0 1 0 0 0 0
+-
+45.87.9.158
+0 1 0 0 1 1694340495
+-
+205.210.31.47
+0 1 0 0 1 1693833935
+-
+105.157.69.18
+0 1 0 83 0 0
+-
+kiefer.probe.onyphe.net
+0 1 0 0 1 1694546494
+-
+139.59.1.200
+0 1 0 0 1 1694378793
+-
+ec2-18-203-68-2.eu-west-1.compute.amazonaws.com
+0 1 0 226 1 1694063017
+-
+ec2-15-228-80-228.sa-east-1.compute.amazonaws.com
+0 1 0 0 1 1694340496
+-
+stanton.probe.onyphe.net
+0 1 0 0 1 1694533719
+-
+avamae.probe.onyphe.net
+0 1 0 0 1 1694533719
+-
+rima.probe.onyphe.net
+0 1 0 0 1 1694542544
+-
+nina.probe.onyphe.net
+0 1 0 0 1 1694537855
+-
+47.251.15.21
+0 1 0 0 0 0
+-
+f04.immuniweb.com
+0 1 0 0 1 1694522411
+-
+195.211.77.142
+0 1 0 0 1 1694174640
+-
+47.242.224.70
+0 3 0 0 3 1694255773
+-
+f14.immuniweb.com
+0 1 0 0 1 1694522413
+-
+c10-91.tlh.ro
+0 2 0 0 1 1694172261
+-
+f12.immuniweb.com
+0 1 0 0 1 1694522410
+-
+45.87.9.28
+0 1 0 0 1 1694470025
+-
+45.87.9.254
+0 1 0 0 1 1694600066
+-
+graphqlyoga.scan.leakix.org
+0 17 0 226 1 1694168391
+-
+ec2-15-236-146-53.eu-west-3.compute.amazonaws.com
+0 1 0 0 1 1694464612
+-
+ec2-54-94-34-191.sa-east-1.compute.amazonaws.com
+0 1 0 0 1 1694225450
+-
+f02.immuniweb.com
+0 2 0 0 1 1694522409
+-
+45.87.9.94
+0 1 0 0 1 1694283036
+-
+f06.immuniweb.com
+0 1 0 0 1 1694522407
+-
+165.227.234.98
+0 1 0 0 1 1694221889
+-
+45.87.9.252
+0 1 0 0 1 1694283036
+-
+sensitive.monitoring.internet-measurement.com
+0 1 0 0 1 1694645575
+-
+emailer1-103.thinins.net
+0 2 0 0 1 1694172687
+-
+101.68.211.2
+0 1 0 0 1 1693989793
+-
+47.89.193.162
+0 1 0 0 1 1694211752
+-
+45.87.9.15
+0 1 0 0 1 1694169307
+-
+205.169.39.127
+0 1 0 0 1 1694169654
+-
+laing.probe.onyphe.net
+0 1 0 0 1 1694546495
+-
+scanner-25.ch1.censys-scanner.com
+0 1 0 0 1 1693639264
+-
+45.87.9.109
+0 2 0 0 2 1694535252
+-
+subgrid.scan.leakix.org
+0 17 0 226 1 1694168392
+-
+composed.monitoring.internet-measurement.com
+0 1 0 0 1 1694156227
+-
+47.89.195.210
+0 1 0 0 1 1694211752
+-
+45.87.9.188
+0 1 0 0 1 1694600066
+-
+194.127.167.81
+0 1 0 0 1 1694169770
+-
+45.87.9.13
+0 2 0 0 2 1694470024
+-
+ec2-44-201-147-15.compute-1.amazonaws.com
+0 1 0 0 1 1694211572
+-
+195.211.77.140
+0 1 0 0 1 1694173007
+-
+47.88.94.161
+0 1 0 0 0 0
+-
+198.235.24.66
+0 1 0 0 1 1694484057
+-
+dunlop.probe.onyphe.net
+0 1 0 0 1 1694537856
+-
+unn-178-249-209-180.datapacket.com
+0 1 0 0 1 1694170109
+-
+scanner-29.ch1.censys-scanner.com
+0 1 0 0 1 1693582234
+-
+f01.immuniweb.com
+0 1 0 0 1 1694522412
+-
+65.154.226.166
+0 1 0 0 1 1694169643
+-
+143.110.184.48
+0 1 0 0 1 1694509206
+-
+47.88.86.63
+0 1 0 0 0 0
+-
+mellor.probe.onyphe.net
+0 1 0 0 1 1694542584
+-
+scanner-07.ch1.censys-scanner.com
+0 1 0 0 1 1693820333
+-
+167.99.113.171
+0 1 0 0 1 1694326359
+-
+scanner-08.ch1.censys-scanner.com
+0 1 0 0 1 1693833624
+-
+45.87.9.60
+0 2 0 0 2 1694535252
+-
+f17.immuniweb.com
+0 1 0 0 1 1694522409
+-
+47.251.13.32
+0 1 0 0 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+45.87.9.254
+0 1 0 0 1 1694600066
+-
+sensitive.monitoring.internet-measurement.com
+0 1 0 0 1 1694645575
+-
+45.87.9.188
+0 1 0 0 1 1694600066
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 102
+http://www.ee250-net.anujashah.com
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (l9scan/2.0.134313e2335323e2134323e2236313; +https://leakix.net)
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
+0 2
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 4
+Mozilla/5.0 (Linux; Android 6.0; HTC One M9 Build/MRA771511) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2733.98 Mobil
+0 2
+Go-http-client/1.1
+0 28
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:58.0) Gecko/20100101 Firefox/58.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/115.0.5790.170 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+0 8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0
+0 1
+Opera/9.80 (X11; Linux i686; U; ru) Presto/2.8.131 Version/11.11
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11
+0 1
+Mozilla/5.0 (iPad; CPU OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.
+0 16
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+0 2
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+0 8
+Mozilla/5.0 (Linux; Android 7.0; SM-G930V Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.125 Mobile Sa
+0 2
+Chrome (AppleWebKit/537.1; Chrome50.0; Windows NT 6.3) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.79 Safari/537.3
+0 1
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9a3pre) Gecko/20070330
+0 1
+Mozilla/5.0 (Linux; Android 11; M2004J15SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Mobile Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 4
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
